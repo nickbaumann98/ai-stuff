@@ -1,0 +1,15 @@
+**AI Lecture Series - Part 8: Advanced Architectures and Prompting (Continued)**
+
+Welcome back. In this lecture, we will continue our exploration of advanced architectures and prompting techniques, covering questions 36 through 40.
+
+A powerful technique for improving factual accuracy is **Retrieval-Augmented Generation (RAG)**. What are the steps involved? First is **Retrieval**, where the system fetches relevant documents from a knowledge base using the input query. Next is **Ranking**, where these documents are sorted by relevance. Finally, in the **Generation** step, the LLM uses the retrieved context to generate a more accurate and factually grounded response.
+
+As models get larger, we need new ways to manage them. How does **Mixture of Experts (MoE)** enhance LLM scalability? MoE is an architecture that uses a gating function to route each input to a specific "expert" sub-network. This means that for any given query, only a fraction of the model's total parameters—perhaps only 10%—are activated. This allows for the creation of models with billions of parameters that can still operate efficiently.
+
+Let's move on to prompting. What is **Chain-of-Thought (CoT) prompting**, and how does it aid reasoning? CoT prompting guides an LLM to solve a problem step-by-step, much like human reasoning. For example, when solving a math problem, a CoT prompt would encourage the model to break down the calculation into logical steps. This has been shown to significantly improve accuracy and interpretability, especially for complex, multi-step reasoning tasks.
+
+We've discussed generative and discriminative models, but let's clarify the difference between **discriminative and generative AI**. Discriminative AI, like a sentiment classifier, learns to predict a label based on input features by modeling the conditional probability. Generative AI, like GPT, learns the joint probability of the data itself to create new, original content. Generative AI offers creative flexibility, while discriminative AI is focused on accurate prediction.
+
+Finally, how does **knowledge graph integration** improve LLMs? Knowledge graphs provide structured, factual data that can significantly enhance an LLM's performance. They can help **reduce hallucinations** by allowing the model to verify facts against a reliable source. They can **improve reasoning** by leveraging the relationships between entities in the graph. And they can **enhance context** by providing structured information for more informed responses. This is particularly valuable for applications like question answering and entity recognition.
+
+This concludes our eighth lecture. In our next session, we will discuss the real-world challenges and practical considerations of deploying LLMs.

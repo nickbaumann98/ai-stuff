@@ -1,0 +1,15 @@
+**AI Lecture Series - Part 2: The Building Blocks of LLMs (Continued)**
+
+Welcome back to our lecture series on Large Language Models. In our last session, we began our exploration of the fundamental building blocks of LLMs. Today, we will continue that discussion, covering questions 6 through 10.
+
+First, let's discuss text generation. How does **beam search** improve upon **greedy decoding**? Greedy decoding simply selects the most probable word at each step, which can result in repetitive or illogical text. Beam search is more advanced; it explores multiple potential word sequences, or "beams," simultaneously. By keeping the top few candidates at each step, it produces far more coherent and natural-sounding outputs, which is essential for machine translation and dialogue systems.
+
+To control the output's creativity, we use a parameter called **temperature**. Temperature adjusts the randomness of token selection. A low temperature (e.g., 0.3) makes the output more predictable by favoring high-probability tokens. A high temperature (e.g., 1.5) increases diversity by allowing for more random, less likely word choices. A temperature of around 0.8 often provides a good balance between creativity and coherence for tasks like storytelling.
+
+During the pretraining phase, a key technique is **masked language modeling (MLM)**. Used in models like BERT, MLM involves hiding random tokens in a sequence and training the model to predict them based on the surrounding context. This process fosters a bidirectional understanding of language, enabling the model to grasp complex semantic relationships. This is what prepares LLMs for downstream tasks like sentiment analysis and question answering.
+
+Another important architecture is the **sequence-to-sequence (Seq2Seq) model**. These models are designed to transform an input sequence into an output sequence, which can be of a different length. They consist of an encoder, which processes the input, and a decoder, which generates the output. They are widely used in machine translation, text summarization, and chatbots.
+
+Finally, let's discuss **embeddings**. Embeddings are dense vector representations of tokens that capture their semantic and syntactic properties. They are typically initialized randomly or with pretrained models like GloVe and are then fine-tuned during training. For example, the embedding for "dog" will evolve to reflect its contextual usage, which in turn enhances the model's accuracy.
+
+This concludes our second session. In our next lecture, we will delve into the processes of training and fine-tuning.
