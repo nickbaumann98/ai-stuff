@@ -1,0 +1,89 @@
+More details:
+
+--------------------
+
+Pro tip: stop re-explaining project conventions to Cline. Use the /newrule command to capture standards once from your task context, then easily reuse them later. https://t.co/lr5FrDfYeF
+
+--------------------
+
+Gemini 2.5 Pro just got a significant upgrade (03-25 → 05-06) with improved coding capabilities, especially for front-end web dev and function calling. Note: using 03-25 in Cline automatically points to the 05-06 version -- UI updates coming shortly. https://t.co/mEIXDj7LVP
+
+--------------------
+
+Use /newrule for design systems, API patterns, testing strategies -- any standard you want Cline to remember.
+
+--------------------
+
+When .clinerules (possibly multiple) are toggled 'on', they are appended to the system prompt. When they are toggled 'off', they are not appended to the system prompt at all.
+
+--------------------
+
+https://t.co/CqDERQw41O
+
+--------------------
+
+Grab the https://t.co/F2aCTZUPB7 rule here and see how it works: https://t.co/7j0jbwEDCY
+
+--------------------
+
+Our https://t.co/F2aCTZUPB7 rule guides the process: 1. Refine topic? (Yes/No) 2. Choose method? (AI Search/Deep Crawl/etc) 3. Pick output? (Chat/MD/JSON) 4. Cline executes via the chosen MCP You just need to click the right buttons. https://t.co/8cJobhn9nH
+
+--------------------
+
+This is the core idea: .clinerules = the process, MCPs = the capability. Create rules for different tasks (researcher, debugger, writer) and toggle them on/off as needed. Build your own specialized versions of Cline.
+
+--------------------
+
+It's a straightforward way to keep your instructions organized and apply the right context for the task at hand.
+
+--------------------
+
+Cline for Research? Combine MCP servers like @perplexity_ai and @firecrawl_dev with .clinerules to create specialized research workflows you can toggle on/off. Here's how you can combine MCP Servers &amp; .clinerules to make specialized workflows 🧵 ↓ https://t.co/XYxYTBkbl1
+
+--------------------
+
+In case you missed it, we've added a button where you can manage your .clinerules: - Turn them on/off as needed (i.e. some tasks don't need Memory Bank) - Create new workspace and global .clinerules - Edit rules as you need https://t.co/8uFHSzDzar
+
+--------------------
+
+It's time we moved on from todo list apps &amp; snake games. Here's the upgraded Gemini 2.5 Pro's take on 100 Silverback Gorillas vs 1 Godzilla: https://t.co/E4t1tImr9p
+
+--------------------
+
+Then, in future tasks, simply ensure that .clinerules file is active. Cline will automatically adhere to the captured standard without needing repeated instructions. https://t.co/ew1zI9rNG1
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Explore more community rules or contribute your own powerful workflows to our open-source repo: https://t.co/2DYvvkr5Bn
+
+--------------------
+
+This popover UI lets you quickly see active rules and adjust your setup directly from the chat interface. It's helpful for applying specific instructions only when relevant for the current task.
+
+--------------------
+
+Patterns aren't just for struggling companies. @andrinkf found reactive scaling almost sank his hypergrowth startup. Proactive patterns are crucial after PMF, not just before decline. His cautionary tale: https://t.co/Vrh6U6JE9R
+
+--------------------
+
+@marius_vibes @perplexity_ai @firecrawl_dev What questions do you have?
+
+--------------------
+
+How it works: When you establish a pattern during a task, tell Cline: /newrule {describe the convention you want to save}. It uses that specific task's context to generate a `.clinerules` file. https://t.co/kHlCsGvs7I
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+For example, after refining your Tailwind usage: /newrule capture our standard approach to Tailwind utility classes. Capture it now, save explanation time later. https://t.co/3gC8rsI8Nr

@@ -1,0 +1,26 @@
+While Gemini 2.5 Pro gets the spotlight, Google is delivering incredible value with Flash—it's nearly as capable as top models for a fraction of the cost.
+
+🧵
+
+↓
+
+It's impressively fast and holds its own against the best, ranking #6 on the WebDev Arena leaderboard right alongside models that are far more expensive.
+
+[link-to-media]
+
+↓
+
+The price difference is significant. For a typical workload, Flash is around 15x cheaper than Pro, making high-volume tasks and rapid prototyping much more accessible.
+
+- Input: $0.15/1M tokens
+- Output: $0.60/1M tokens
+
+↓
+
+Our community has found it's a beast for speed and value. The consensus is it's great for most tasks, though some find it can be a bit flaky on very complex, multi-step reasoning compared to Pro.
+
+↓
+
+What are your experiences with Gemini 2.5 Flash?
+
+It feels like one of the best value-for-performance models out there right now.

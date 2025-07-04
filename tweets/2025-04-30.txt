@@ -1,0 +1,73 @@
+This context-first approach is especially powerful for: - Complex architecture decisions - Integration work across systems - Implementing completely new patterns - Working with unfamiliar codebases
+
+--------------------
+
+Mercury Coder uses a diffusion architecture, refining text in parallel rather than generating token-by-token like traditional autoregressive models. This allows for impressive speed -- observed at over 330 tokens/sec. https://t.co/c2k5g7o8br
+
+--------------------
+
+Plan Mode minimizes rework and enhances code quality by providing the right context before implementation. Here's why we believe planning is essential in any AI coding workflow: 🧵 https://t.co/fb2cXwrFcs
+
+--------------------
+
+@InceptionAILabs Mercury Coder Small Beta is now available in Cline. It's the first commercial diffusion LLM (dLLM), offering a different approach to text generation. It rivals models like Claude 3.5 Haiku and GPT-4o Mini in code quality while running significantly faster. 🧵 https://t.co/n6uQWBYH8V
+
+--------------------
+
+Some drawbacks mentioned for 235B: - "Little bit of looping through the tasks and not perfect tool use" - "feels a bit slow to get tasks done"
+
+--------------------
+
+Users who start in Plan Mode report: - More accurate first-pass code - Fewer debugging sessions - Better edge case handling - More maintainable solutions
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Feedback on the smaller Qwen3 models (30B MoE / 32B) was more critical, often citing execution issues: - "Oh god its writing the full code in its thinking and looping over ever change :/" (30B) - "The 30b MoE wasn't any better"
+
+--------------------
+
+Try this workflow with Cline today: 1. Start in Plan Mode to gather context 2. Let Cline explore files &amp; ask questions 3. Develop your implementation strategy together 4. Switch to Act Mode for building https://t.co/qGhcT7Xgjp
+
+--------------------
+
+Is Qwen3-235B the new budget-friendly coding champ in Cline? Early user feedback is rolling in -- it's promising, but not perfect. Here's what we're hearing from the Cline community: 🧵
+
+--------------------
+
+Key specs for inception/mercury-coder-small-beta in Cline: - Context: 32K tokens - Price: $0.25 / $1.00 per million input/output tokens Try it out in Cline and see how the speed impacts your workflow. https://t.co/t5KlPtc57f
+
+--------------------
+
+Plan Mode is like extending your AI's barrel length -- it improves accuracy by giving Cline complete project understanding before implementation begins. https://t.co/QHe9OuvK9C
+
+--------------------
+
+Overall, early feedback shows Qwen3-235B has promise for coding despite some quirks and context limits, while smaller variants seem to struggle more with execution loops in Cline workflows.
+
+--------------------
+
+We built Plan and Act as distinct modes recognizing that context-gathering deserves dedicated focus -- just like the top developers who always explore requirements before writing a single line of code.
+
+--------------------
+
+Our thesis at Cline: 1. frontier models are expensive, but the leverage they give developers far exceeds that cost 2. the price of inference is decreasing every day, so we're building for the future's abundance instead of minimizing today's cost https://t.co/WzI7g4TiX9
+
+--------------------
+
+First up, Qwen3-235B. Users noted its coding potential: - "Qwen did actually really well with the Flappy Bird test" - "good implementation of the code compared to most models trying to one-shot the prompt" - "looking like new best opensource coding model if it continues"
+
+--------------------
+
+More on 235B: - "If you want to use one to code use the 235B one." - But also: "in a different discord people were saying its underwhelming"
+
+--------------------
+
+The cost-effectiveness remains attractive: - qwen3-235b-a22b: $0.20/$0.85 - qwen3-30b-a3b: $0.10/$0.50 (Input/Output per M tokens) What's your experience been? Join the discussion: https://t.co/qrEzhiooh2
+
+--------------------
+
+More on smaller model challenges: - "I can't get qwen 3 32b to output any code... it just goes in a loop of trying to analyze the problem." - "All I can get are tons of useless reasoning tokens." - "I feel like it's just circles the PLAN"

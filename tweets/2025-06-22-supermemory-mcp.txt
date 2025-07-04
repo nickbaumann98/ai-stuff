@@ -1,0 +1,7 @@
+Give your AI agent a persistent memory.
+
+The new @supermemoryai MCP, now in the Cline marketplace, lets you save and recall context across sessions and projects.
+
+Tell your agent to "remember this," and it will. Instantly.
+
+[link-to-media]

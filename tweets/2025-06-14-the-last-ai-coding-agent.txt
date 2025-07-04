@@ -1,0 +1,22 @@
+This chart from Artificial Analysis is the only thing you need to see to understand the state of AI in 2025.
+
+The "best" model is a constantly moving target.
+
+[Image: Frontier Language Model Intelligence, Over Time chart from Artificial Analysis]
+↓
+This is why we're seeing so much developer tool fatigue.
+
+If your AI coding tool is locked into a single vendor, you're guaranteed to be falling behind the state-of-the-art for months at a time.
+↓
+The only winning move is to not play the game.
+
+Instead of betting on a single tool, bet on an approach that gives you the freedom to use *any* model, any time.
+↓
+This is our entire philosophy behind Cline.
+
+We focus on being the best, most transparent conduit to whatever model is best for your task *today*. When a better one comes out tomorrow, you can switch instantly.
+↓
+It's a future-proof approach that means you only have to learn one workflow.
+
+Read more about why we believe this is the only sustainable way to build with AI:
+[LINK_TO_BLOG_POST]

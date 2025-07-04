@@ -1,0 +1,37 @@
+5/ Pro tip from our power users: Always ask for confidence scores. "Have it rate confidence 1-10 with each message. Don't proceed until you get 9+/10." Save this thread for when you're debugging your next complex issue🚀
+
+--------------------
+
+1/ First, they have R1 analyze the codebase architecture and create sequence diagrams. Our most successful users report this step alone catches potential issues before they become problems. "R1's reasoning is top tier for planning. The more sequence diagrams I fill my context
+
+--------------------
+
+1/7 Most AI coding assistants are like having a brilliant developer who can only type code. Cline is like having a senior dev who actually understands your entire project. 🧵 https://t.co/waNKW08b1d
+
+--------------------
+
+Looking at debugging patterns from our Cline power users, an insight has emerged: They're using DeepSeek R1 ($0.55/M tokens) as a 'code archaeologist' before touching anything. 🧵 https://t.co/siRDYv2uXJ
+
+--------------------
+
+2/ Then they use Plan mode to: - Map dependencies - Identify potential edge cases - Create https://t.co/ozbXjG5cTE with [x][] format - Generate minimal test cases "Ask it to create test files that ONLY figure out one issue with minimal logs. You can only output 200 lines to
+
+--------------------
+
+6/ Install Cline here: https://t.co/VAq921WZ7c
+
+--------------------
+
+Two types of Cline users: 'I just spent $100 on Cline tonight and it was worth every penny' 'Lmao I built this whole thing for $0.02 using DeepSeek' The right tool is worth every penny (or fraction of a penny) https://t.co/kHpqUJ5yPO
+
+--------------------
+
+4/ Cost breakdown: - R1 investigation: $0.55/M tokens - Sonnet implementation: Standard rates - Time saved: Users report 50-70% faster resolution The ROI math is obvious when you're catching architectural issues at R1 prices instead of o1.
+
+--------------------
+
+3/ Only THEN do they switch to 3.5-Sonnet for implementation. The key insight? 90% of debugging time is spent understanding, not fixing. "Just having it reflect on what it's done and sanity check its work every 2-3 actions has significantly reduced our error rate." https://t.co/1r66chLPG7
+
+--------------------
+
+7/ Step-by-step to use Cline in 2 mins: https://t.co/t0tLvup1dU

@@ -1,0 +1,29 @@
+Happy Friday to all who celebrate 🫡 2 Fridays from today we'll be celebrating our 1 million installs, and we'd love to see you there. RSVP 👇 https://t.co/wJSCSwvWwd
+
+--------------------
+
+We just built an LLMs.txt MCP server in 5 minutes by pasting @firecrawl_dev's new llms.txt API docs into Cline. llms.txt solves a critical problem: websites are too big for context windows. It provides structured markdown with concise summaries, key links, and essential https://t.co/zJBz9rAs5k
+
+--------------------
+
+Looking to save on tokens? Use different models for Planning and Acting. DeepSeek-R1 ($0.55/M input, $2.19/M output) excels at planning while Claude 3.7 Sonnet ($3/M input, $15/M output) is still king at coding. Users report dramatic savings using R1 for architectural planning, https://t.co/5bWJ1QqdhB
+
+--------------------
+
+We built a Stock Market MCP server using Cline in just 8 minutes. It has these tools: 📊 Market Report Generator 💰 Financial Statement Analysis 📈 Real-time Stock Price Tracker 🔍 Company Symbol Search Here's our step-by-step process: 🧵 https://t.co/WKCLYTFRQa
+
+--------------------
+
+@firecrawl_dev any chance we could get an official llms.txt MCP server? 👀 https://t.co/WKO3LViAJP
+
+--------------------
+
+6/ Want to share your MCP server? Submit it to the Cline MCP Marketplace: https://t.co/NLnyNPieq0
+
+--------------------
+
+1/ First, describe the MCP server you want in Plan Mode. We asked for a stock market data server using AlphaVantage API with specific financial tools. Cline presented a complete plan with architecture, API integration, and implementation strategy. https://t.co/Ngol8Ns8NF
+
+--------------------
+
+5/ Done! The entire process took just 8 minutes from concept to working MCP server. Make sure to have this .clinerules file in the root of your MCP directory for proper configuration. https://t.co/11J52LbwkN

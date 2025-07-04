@@ -1,0 +1,25 @@
+The Asana MCP Plugin for Cline turns your AI assistant into a powerful project management sidekick 🚀 Here's how it makes your work easier: 📋 Task Management Made Simple • "Create a homepage redesign task, assign it to Alice, due next Tuesday" • "Mark the homepage wireframe https://t.co/6Hxngpacne
+
+--------------------
+
+The SQLite MCP server for Cline is transforming how users interact with local databases, making data analysis accessible to everyone. Think of it as having a personal data analyst who speaks plain English instead of SQL. Rather than wrestling with complex queries, you can simply https://t.co/jcNCPtSqNe
+
+--------------------
+
+🔗 A new Notion MCP plugin in Cline is transforming how we interact with our workspace data, and it's more powerful than you might think. The plugin creates a direct bridge between AI and your Notion workspace, enabling you to have natural conversations with your data. Instead
+
+--------------------
+
+The @supabase MCP Plugin for Cline is like giving your AI a seasoned database administrator 🎯 Instead of writing complex SQL queries or jumping between dashboards, you can simply chat with your AI to manage your PostgreSQL database. Want to add a new user? Just say "Add John https://t.co/p1KzqW7xPp
+
+--------------------
+
+🚀 Exciting news! The Linear MCP Plugin is now available in the Cline MCP Marketplace, revolutionizing how users manage projects with AI-powered assistance. 🔄 No more constant switching between tools! You can now control your entire Linear workspace through natural language https://t.co/E7XYPOQX9E
+
+--------------------
+
+The new Google Calendar MCP Plugin for Cline is like having a personal assistant that manages your schedule through simple chat commands. 📅 Instead of jumping between apps and manually creating calendar events, you can just tell Cline what you need: "Schedule a 30-minute https://t.co/ZQ87s8qpsU
+
+--------------------
+
+Want your AI to connect with the real world in real-time? The Fetch MCP plugin for Cline turns static AI into a dynamic powerhouse. Here's what it enables: REAL-TIME PULLS: - Live weather updates - Breaking news - Sports scores - Market data SMART PROCESSING: - Converts messy https://t.co/UStEDBBOf6

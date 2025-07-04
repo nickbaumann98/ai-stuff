@@ -1,0 +1,5 @@
+Have files you don't want Cline to touch? That's what .clineignore is for (Add it to your protect root)
+
+--------------------
+
+We will be MCP'ing today 🫡

@@ -1,0 +1,1 @@
+From zero coding experience to building with AI - an awesome beginner's guide to getting started with Cline. Julian walks through everything: - Setting up VS Code (no experience needed) - Installing Cline - Prompts to get you rolling

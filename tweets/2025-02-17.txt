@@ -1,0 +1,29 @@
+MCP servers are like giving AI an App Store -- but one where it can create its own apps. While other AI companies are just implementing basic MCP support, devs are already using Cline to build their own custom MCP servers from scratch -- because Cline understands MCP innately. https://t.co/zxPudiFNp9
+
+--------------------
+
+Want to master GitHub programmatically? Here's what the GitHub MCP Server can do for you: Core Features: • Automatic branch creation • Git history preservation • Batch operations support • Comprehensive error handling Power Tools: 1. File Management - Create/update single https://t.co/Fn9yOPOfVb
+
+--------------------
+
+Want to supercharge Cline with Notion MCP server integration? Here's what you need to know: Setting Up The MCP Server Is Just 3 Steps: - Create Notion Integration - Get Secret Key - Connect to Workspace The MCP Server Power Tools: Content Management - Append blocks - Create
+
+--------------------
+
+https://t.co/2Eu04ZDU1V
+
+--------------------
+
+Want to be where AI code generation magic happens? A gathering of minds where: • Real demos meet real feedback • Connections spark innovations • Pizza fuels conversations The Details: - Exclusive 100-person cap - Prime downtown SF location - Live demo opportunities https://t.co/mTfGzQCobS
+
+--------------------
+
+Transform ANY Content into Clean Markdown with Markdownify MCP Server Think about the last time you struggled with file conversions. Now imagine: File Conversions: - PDFs → Markdown - Images → Text - Audio → Transcripts - Office docs → Clean text Web Content: - YouTube https://t.co/hgBXogdlHB
+
+--------------------
+
+https://t.co/Dv6Rfn7QoZ
+
+--------------------
+
+Here's markdownify-mcp: https://t.co/rWvXBXGUd6

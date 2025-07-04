@@ -1,0 +1,7 @@
+Pro-tip: Speed up your workflow by dragging files directly into Cline. Hold Shift while dragging to add images or code files from your workspace.
+[link-to-media]
+--------------------
+Made a typo in your prompt? No need to start over. Just edit the message in Cline and resubmit to get a better result.
+[link-to-media]
+--------------------
+Speed up your Cline workflow with keyboard shortcuts. Use Cmd+' (or Ctrl+') to instantly add selected code to the chat or focus the input field. Keep your hands on the keyboard and your flow uninterrupted.

@@ -1,0 +1,57 @@
+Toggleable .clinerules means you can instantly switch instruction sets on/off as needed -- activate https://t.co/teuqDrSoRG for recall, https://t.co/xqnWhfF06w for UI work. Easily turn on the version of Cline you need for the task at hand. https://t.co/CwTFSmrNTC
+
+--------------------
+
+Hidden gem in Cline: Instantly view all task diffs -- perfect for tackling those massive refactors. https://t.co/Jkm0vmLr4j
+
+--------------------
+
+Message Editing &amp; Checkpoint Restore allows you to undo any paths that didn't work out. Edit a previous message and restore your entire workspace -- files and terminal -- to that exact moment. It's like having an infinite undo for your entire development session. https://t.co/Hpk4i2KsMW
+
+--------------------
+
+Now available in the MCP marketplace: AWS Diagrams &amp; Terraform MCP Servers Automate @awscloud infrastructure management with Cline. Generate architecture diagrams from code and enforce Terraform best practices + security compliance, all within your IDE. https://t.co/N7McvrkpOu
+
+--------------------
+
+Faster diff edits significantly boost productivity with large files. We've improved our diff editing logic to make code changes feel more responsive, with fewer fallbacks to full file overwrites. https://t.co/5JCP4cRmiN
+
+--------------------
+
+The most common question from new Cline users: "Which AI model should I pick?" Our latest guide helps devs understand how different models shine at different stages of development and how to optimize your workflow for both performance and cost. ↓ Watch the video breakdown https://t.co/cn4R0hHuV4
+
+--------------------
+
+Cline contributors and our dev team have been COOKING in the past few weeks. Here's a recap of our favorite features in case you missed any: 🧵
+
+--------------------
+
+We've also made improvements to our core pillars: more robust context management with toggleable rules, faster and more reliable diff edits for large files, and enhanced checkpoint systems for better workflow control. Shoutout to our contributors who've made it possible!
+
+--------------------
+
+The /smol slash command helps you manage long conversations. Use /smol to compress chat history within your current task, reducing token usage on subsequent turns while maintaining flow. https://t.co/9je5vHB1Vi
+
+--------------------
+
+Improved browser tool now uses your local logged-in Chrome browser, meaning you can have Cline test your web app and report back console errors. Or write your tweets. https://t.co/eBxyCGoFVw
+
+--------------------
+
+The /newtask slash command streamlines session management. Start a new task while preserving your current context, perfect for branching explorations or starting fresh without losing your place. https://t.co/XBk6koXAvW
+
+--------------------
+
+Fix with Cline code actions make error handling lightning fast. When you see a lightbulb, select 'Fix with Cline' to send code + errors directly to Cline. https://t.co/pclQCXIoQK
+
+--------------------
+
+https://t.co/HqSV8xp39m
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+https://t.co/DAvEuWwaW0

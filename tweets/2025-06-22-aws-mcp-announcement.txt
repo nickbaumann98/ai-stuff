@@ -1,0 +1,7 @@
+Your AI can now manage your entire AWS stack.
+
+AWS just dropped 35 new MCP servers, giving you natural language control over everything from DynamoDB and EKS to Cost Explorer and CloudWatch.
+
+This is a huge step for the MCP ecosystem and for AI-assisted development.
+
+Read the full announcement and see what's possible: https://cline.bot/blog/aws-cline-35-new-mcp-servers-to-manage-your-cloud-with-ai

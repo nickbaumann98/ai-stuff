@@ -1,0 +1,73 @@
+5/ The dependency tracking is impressive: module-level dependencies in "dependency_tracker.md", documentation dependencies in "doc_tracker.md", and file-level dependencies in mini-trackers. https://t.co/WVIBiIjcnK
+
+--------------------
+
+1/ The core problem with AI assistants: they're brilliant but forgetful. Every time your context window resets, all that project knowledge disappears. This becomes especially limiting when working with large, complex codebases. https://t.co/LjPkgvygle
+
+--------------------
+
+1/ Download VS Code Cline is a VS Code extension, so you'll need it installed first. Download here 👇 https://t.co/4ClM46uIlj
+
+--------------------
+
+Wow. A Cline has just built what might be the most advanced context management system we've ever seen. The Cline Recursive Chain-of-Thought System (CRCT) takes AI coding for large codebases to an entirely new level. All explained below 🧵 https://t.co/eQmCAghI2v
+
+--------------------
+
+The community innovation around Cline continues to amaze us. Check out CRCT on GitHub: https://t.co/AJ7q5P9tjJ
+
+--------------------
+
+👋 How to start using Cline in 2 minutes (step-by-step thread 🧵) https://t.co/5IBj0nboIR
+
+--------------------
+
+2/ CRCT addresses this with a file-based recursive system that maintains perfect state between sessions. It goes beyond simple memory persistence with its innovative architecture. https://t.co/RWAHzp3ozV
+
+--------------------
+
+4/ Operating in three phases (Setup, Strategy, Execution), CRCT uses a .clinerules file to maintain state across sessions. Cline automatically loads different plugins based on the current phase and updates the .clinerules throughout development. https://t.co/RlM41TESVP
+
+--------------------
+
+https://t.co/G7uj4K4Anq
+
+--------------------
+
+Interesting model combinations for Cline's Plan &amp; Act modes from our community: - DeepSeek R1 for Plan + Claude 3.7 Sonnet for Act = best performance for complex tasks - Gemini 2.0 Flash for Plan + Claude 3.7 Sonnet for Act = good balance of speed &amp; quality - DeepSeek Chat V3 = https://t.co/zSkW7T9Pvf
+
+--------------------
+
+4/What models should I use? anthropic/claude-3.7-sonnet: best overall google/gemini-pro-1.5: good performance, reasonable cost deepseek/deepseek-r1: strong in planning mode deepseek/deepseek-chat: good at coding, good value google/gemini-2.0-flash-001: fast and cost-effective https://t.co/j4RiCMiOzT
+
+--------------------
+
+17 vibe coding techniques from Cline power users who ship real software We've been collecting wisdom from the r/cline community, and compiled these power user tips for building actual production software: 1. Let Cline run free at the start. Most users micromanage every decision https://t.co/Ukm7WW8LEf
+
+--------------------
+
+This is nuts. Try CRCT in Cline: https://t.co/VAq921WZ7c
+
+--------------------
+
+6/ What makes this perfect for large codebases: minimal context loading. It only loads essential information initially, then expands via dependency trackers as needed, keeping token usage efficient even with thousands of files.
+
+--------------------
+
+New Anthropic research reveals software developers dominate AI usage, accounting for ~15% of all Claude interactions. Usage peaks among mid-level engineers--not entry-level or elite roles. This confirms what we've observed: experienced developers gain the most from AI https://t.co/2wJw3fg83R
+
+--------------------
+
+More from the creator of CRCT: https://t.co/pbwubE1Gfq
+
+--------------------
+
+Context switching between coding and research breaks flow. If you're a developer, this might look like opening the browser, google searching, read docs, forget what you were doing, and repeat. Cline leverages the @serperapi Search MCP Server to do contextual deep research during https://t.co/gKg6Jw41wP
+
+--------------------
+
+3/ The system uses hierarchical dependency tracking that maps relationships between files, modules and documentation with compression that reduces context size by 90% - crucial for large projects. https://t.co/VdeBKd8Vzn
+
+--------------------
+
+As tools like Cline integrate into large orgs, agents must reference existing internal docs as they build (currently done via MCP servers). Soon, documentation will shift entirely from human-focused to LLM-first (llms.txt). This transformation itself will become an industry.

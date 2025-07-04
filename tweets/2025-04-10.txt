@@ -1,0 +1,45 @@
+Another free stealth model from @OpenRouterAI: `optimus-alpha` 1M context window — what are our thoughts on it so far? https://t.co/vwXF5d6mhr
+
+--------------------
+
+Available in the MCP Marketplace ✅ https://t.co/7lP98FahQ8
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+@Kai_Ringeisen @hilmanarioaji we're about to
+
+--------------------
+
+Explore the different Grok 3 models under the xAI provider in your Cline model list and find the best one for your workflow. https://t.co/kl9CRUm24n
+
+--------------------
+
+All Grok 3 variants feature a large 128k token context window. The family delivers strong performance, with Grok 3 scoring 79.4% on LiveCodeBench and 99.3% on AIME 2024 math.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+@OpenRouterAI Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Now available in Cline: The full Grok 3 model family from xAI. Leverage xAI's latest models directly in your editor, offering a range of performance and pricing options for your coding and analysis needs. https://t.co/h4svee9dGu
+
+--------------------
+
+Choose the right fit for your task: - `grok-3`: Balanced performance ($3/$15 per M tokens) - `grok-3-fast`: Faster responses ($5/$25) - `grok-3-mini`: Cost-effective ($0.30/$0.50) - `grok-3-mini-fast`: Faster mini ($0.60/$4) (Input/Output pricing)
+
+--------------------
+
+Take more control of your task narrative in Cline v3.11 (new) with redesigned Checkpoints. Checkpoints now appear after every action, letting you easily undo steps, correct course if Cline goes off track, and prevent context pollution. Hover the line indicators for details ↓ https://t.co/UPKJ17HTqF
+
+--------------------
+
+Also in v3.11: - Added support for xAI Grok 3 models. - Improved error tracking for telemetry users (thanks for helping us improve Cline).

@@ -1,0 +1,36 @@
+We've seen a lot of love for DeepSeek R1 in Plan mode, and the data backs it up.
+
+It's currently ranked #2 on the WebDev Arena leaderboard – an incredible feat for an open-source model competing with the top proprietary players.
+
+A thread on why it's a community favorite. 🧵
+
+↓
+--------------------
+Let's talk performance vs. cost.
+
+DeepSeek R1 delivers high-end intelligence (0.849 MMLU) at a fraction of the price of its competitors.
+- Input: $0.55 / 1M tokens
+- Output: $2.19 / 1M tokens
+
+It's a powerful and cost-effective choice for complex planning and coding tasks.
+--------------------
+Here's a quick look at the other specs:
+
+- Context Window: 130k tokens
+- Speed: 28.6 tokens/sec (slower)
+- Latency: 2.49s TTFT (faster)
+
+While the context window is smaller than some, its fast latency makes it feel very responsive for iterative development.
+--------------------
+Best of all? You can try it for free.
+
+OpenRouter provides a free tier for DeepSeek R1 with a 164K context window, making it incredibly accessible for anyone to test its capabilities.
+
+[link-to-media]
+--------------------
+It's exciting to see a powerful open-source model perform so well.
+
+What are your experiences using DeepSeek R1 for planning or coding?
+
+Find the full WebDev Arena leaderboard here:
+https://webdev.arena.lmsys.org

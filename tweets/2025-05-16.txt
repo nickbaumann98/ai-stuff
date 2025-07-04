@@ -1,0 +1,89 @@
+"hey cline, add this mcp server" { "mcpServers": { "cline Docs": { "url": "https://t.co/pyopvHCMR6", "disabled": false, "autoApprove": [] } } }
+
+--------------------
+
+Pillar 5: Rules Files -- Codifying Your Team's Wisdom. Use Rules Files (like .clinerules in Cline) to enforce coding standards, automate workflows, and give AI persistent understanding of your project. Turn team wisdom into shareable, consistent AI guidance.
+
+--------------------
+
+Pillar 4: Proactive Context Management -- Fueling the AI Engine. AI's context window is its working memory. Manage it proactively with strategies like planning docs, handoff summaries (our /newtask tool helps), context condensation, and project "memory banks."
+
+--------------------
+
+Pillar 1: Understand What AI Engineering Really Is. It's evolved beyond copy-pasting. True AI engineering is deep, IDE-native collaboration, blending human insight with AI capabilities. Think of AI as a brilliant, fast, but forgetful pair-programmer.
+
+--------------------
+
+Pillar 2: Model Selection -- Don't Skimp on the Brains. Tempted by cheaper models? Don't. The best models (like Gemini 2.5 Pro, Claude 3.7 Sonnet) are force multipliers, saving invaluable dev time and delivering higher quality code. Cline's BYOK model helps here.
+
+--------------------
+
+This shift allows senior devs to delegate more routine coding to AI, freeing them for high-impact strategic work. Their expertise in patterns and pitfalls becomes essential for directing AI effectively, ensuring quality and coherence in complex projects.
+
+--------------------
+
+These methods help transform AI from a novel tool into a core part of your development strategy. Dive deeper into these 5 pillars for AI engineering success in our latest blog post.
+
+--------------------
+
+Pillar 5: Rules Files -- Codifying Your Team's Wisdom. Use Rules Files (like .clinerules in Cline) to enforce coding standards, automate workflows, and give AI persistent understanding of your project. Turn team wisdom into shareable, consistent AI guidance.
+
+--------------------
+
+Pillar 4: Proactive Context Management -- Fueling the AI Engine. AI's context window is its working memory. Manage it proactively with strategies like planning docs, handoff summaries (our /newtask tool helps), context condensation, and project "memory banks."
+
+--------------------
+
+https://t.co/Xl1eVI6QAD
+
+--------------------
+
+These methods help transform AI from a novel tool into a core part of your development strategy. Dive deeper into these 5 pillars for AI engineering success in our latest blog post.
+
+--------------------
+
+https://t.co/Xl1eVI6QAD
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Pillar 2: Model Selection -- Don't Skimp on the Brains. Tempted by cheaper models? Don't. The best models (like Gemini 2.5 Pro, Claude 3.7 Sonnet) are force multipliers, saving invaluable dev time and delivering higher quality code. Cline's BYOK model helps here.
+
+--------------------
+
+The path forward? Juniors must learn to use AI as an interactive learning tool – questioning its output, understanding its reasoning, and critically evaluating code. Senior mentorship in this new skill of AI collaboration with tools like Cline is key.
+
+--------------------
+
+Pillar 3: Plan with AI -- Charting Your Course to Accuracy. Effective AI engineering means planning before code generation. Clearly articulate intent, provide relevant files, and establish mutual understanding. More context = more accurate code, less rework.
+
+--------------------
+
+We recently migrated our documentation to the open-source cline/ repository. This means our docs are now searchable with GitMCP. Have a question about using Cline? Just ask Cline. Want to add this MCP server? Simply ask Cline. 👇 https://t.co/KwzMJADx0a
+
+--------------------
+
+AI coding tools like Cline are reshaping software development, amplifying senior engineers by elevating them to architectural roles. They guide AI, focusing on system design and complex problem-solving, making their deep experience more crucial than ever. 🧵 https://t.co/gOW8YyC27a
+
+--------------------
+
+For junior developers, the initial integration of AI can be messy. There's a real risk of being hindered if AI is used as a black box without grasping fundamentals. This isn't about replacement--it's about evolving how we learn and contribute.
+
+--------------------
+
+The playbook for AI engineering is being written as we speak. Success isn't magic, it's method. For dev teams looking to build better software, faster with AI, here are 5 foundational pillars to consider. 🧵 https://t.co/gOGFEdjTYe
+
+--------------------
+
+Ultimately, AI can accelerate growth for all developers. It requires a conscious evolution in how we approach skill development, critical thinking, and teamwork in an AI-assisted world. Cline is built to support this journey.
+
+--------------------
+
+Pillar 1: Understand What AI Engineering Really Is. It's evolved beyond copy-pasting. True AI engineering is deep, IDE-native collaboration, blending human insight with AI capabilities. Think of AI as a brilliant, fast, but forgetful pair-programmer.
+
+--------------------
+
+Pillar 3: Plan with AI -- Charting Your Course to Accuracy. Effective AI engineering means planning before code generation. Clearly articulate intent, provide relevant files, and establish mutual understanding. More context = more accurate code, less rework.

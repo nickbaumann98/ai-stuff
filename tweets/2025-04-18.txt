@@ -1,0 +1,73 @@
+For the full video explanation: https://t.co/nr77GGWKEG
+
+--------------------
+
+This rich context isn't overhead; it's essential. It's what allows Cline to go beyond simple chat and perform complex software development tasks autonomously – analyzing your project structure, editing code across files, and running terminal commands.
+
+--------------------
+
+Cline loads your full coding environment - files, tools, conversation history - to truly understand your project. This context unlocks frontier AI model's full potential for development. Here's the context we use to make Cline the most powerful coding agent: 🧵
+
+--------------------
+
+Learn how it works ↓ https://t.co/R3SC598BfK
+
+--------------------
+
+The process started with pulling a transcript from a YouTube video explaining how Cline works, using the `mcp-youtube` server. https://t.co/k82c9hO3AG
+
+--------------------
+
+# Slidev Project Instructions This document provides guidelines for working with Slidev projects. Slidev is a Markdown-based presentation tool powered by Vue and Vite. ## Core Concepts &amp; Structure 1. **Entry Point**: The main presentation content is typically in
+
+--------------------
+
+@Slidevjs Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+To make it visually engaging, we asked Cline to add visuals. It used the EverArt Forge MCP to generate minimalist SVG graphics based on the content of each slide. https://t.co/OLz5yl8sn5
+
+--------------------
+
+Cline then updated the `https://t.co/qZBcOYaI3z` file, incorporating the new SVG images using Slidev's layout features (`two-cols`) and adding click animations (`v-clicks`) plus subtle motion effects (`v-motion`). https://t.co/ldmwPANbKE
+
+--------------------
+
+We're sponsoring another hackathon! This one is over at r/vibecoding hint: the winners will be receiving cline credits here are the details 👇
+
+--------------------
+
+This `.clinerules` file provides Cline with the necessary context on Slidev's syntax, components, and best practices. You can find the `.clinerules` file we created here 👇
+
+--------------------
+
+"Cline for Slides" We made a .clinerules file for making slides with @Slidevjs -- now Cline can build your decks. Here's how we turned a YouTube video into a deck: 🧵 https://t.co/26Zr0Y1XPp
+
+--------------------
+
+Think of the context window as the AI's short-term memory. For Cline, it holds: - Your specific task - Environment details (files, CWD) - Tool definitions (`read_file`, etc.) - Conversation history
+
+--------------------
+
+Cline intelligently manages this. Instead of just hitting limits, it uses `.clinerules` and its `new_task` tool to proactively hand off context, creating tailored, persistent memory for smooth, long-running projects.
+
+--------------------
+
+Next, we prompted Cline to create a new @Slidevjs project and structure the transcript content into `https://t.co/qZBcOYaI3z`. Cline handled the project setup and initial Markdown generation. https://t.co/l9KYo6LwwZ
+
+--------------------
+
+@adebola_io Hey! It's currently available in the Cline provider https://t.co/tAFTFWB9qk
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+How did Cline know how to use Slidev features? We first made it an expert by feeding it Slidev's documentation (scraped via Firecrawl MCP) into a `.clinerules/slidev-expert.md` file. https://t.co/9CC7vk5leK
+
+--------------------
+
+Without this full picture, Cline couldn't understand your workspace or act effectively on your codebase. While large context windows are powerful, they have limits. Performance can degrade as they fill, and managing token costs (input vs. output) matters.

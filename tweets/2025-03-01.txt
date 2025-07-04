@@ -1,0 +1,25 @@
+🚀 Extended Thinking in Cline with 3.7 Sonnet allows you to set thinking budgets for both Plan and Act modes. What does this mean for you? Cline is more thoughtful than ever. We recommend a higher thinking budget for Plan mode to enhance decision-making and strategy https://t.co/2YtCpHsycj
+
+--------------------
+
+🚀 Cline v3.5 is now available, packed with new features and quality-of-life improvements. This release includes dynamic Thinking Budgets for 3.7 Extended Thinking, rich visual MCP responses, xAI Grok 2 models, and more. Get ready for a Cline that is smarter and more capable. https://t.co/yRqK9eMW3I
+
+--------------------
+
+🚀 We just released Cline v3.5, packed with performance enhancements and quality-of-life updates to greatly enhance your experience. Here's a breakdown of all the changes we've made 🧵
+
+--------------------
+
+Awesome guide here for people getting started with Cline looking to maximize their workflow👇
+
+--------------------
+
+This was built by Cline https://t.co/TVo11FvODe
+
+--------------------
+
+🚀 New in Cline v3.5: improved MCP interactions with visual, content-rich displays. Enjoy automatic image previews, rich link previews, and enhanced tool outputs like graphs and charts directly in your conversation. Toggle seamlessly between rich display and plain text modes for https://t.co/u0H3Uy4rs0
+
+--------------------
+
+🚀 Cline v3.5 now supports all API-available Grok models. Get access to standard Grok-2 with its 131,072 token context window -- perfect for large codebases. Grok-2 Vision models for image analysis are also fully supported with accurate pricing implementation. https://t.co/gGX2OXN9p2

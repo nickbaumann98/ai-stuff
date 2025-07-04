@@ -1,0 +1,21 @@
+👀 Watching your AI assistant think in real-time hits different. Improved DeepSeek-R1 support + streaming reasoning to Cline, so you can see exactly how it tackles your code ⚡️ Try using DeepSeek R1 to see the COT streaming in the updated Cline 3.2.10 https://t.co/7IwGgRdEfK
+
+--------------------
+
+🧵 Building your first web app in 2025? Here's the exact stack we recommend to new coders, featuring @code, @github, @nextjs, @tailwindcss, @supabase, and @vercel Thousands have used this to ship their first project. Full guide below 👇 https://t.co/VcLY9cNvU9
+
+--------------------
+
+Everyone's talking about the price of inference crashing (150M tokens for $15!) but the real story is how much devs will pay just for stability. Watching Discord convos where people cheerfully pay 2x more for the same model through reliable providers. For now, uptime is the new https://t.co/0UjJZl92mm
+
+--------------------
+
+Why our users love Cline: &gt;The AI landscape is exploding • DeepSeek-R1 just dropped • Google Gemini Flash 2.0 just increased its context window to 1m tokens • Alibaba just released a new set of Qwen models • OpenAI o3 is impending No need to pick winners -- Cline lets you https://t.co/JErNwaNNWQ
+
+--------------------
+
+Since day one of building Cline, we've placed a fundamental bet: AI tools should adapt to how engineers work, not the other way around. Today, @addyosmani published a detailed analysis of why this approach matters. His piece captures something we've believed from the start -- https://t.co/TtN06xK7oB
+
+--------------------
+
+You might not be aware, but Cline has a secret superpower: .clinerules It's the key to standardizing AI coding practices across your entire team. Here's what you need to know about using .clinerules 🧵 https://t.co/YXacrKg1Az

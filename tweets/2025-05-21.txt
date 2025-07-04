@@ -1,0 +1,113 @@
+→ WORKFLOWS → &amp; more, all new in Cline v3.16! Here's what we've got for ya 🧵 https://t.co/MjS06hrenn
+
+--------------------
+
+Gemini 2.5 Flash (05-20) is live in Cline This might be the best-value model you can use in Cline ($.15/$60/M tokens) https://t.co/2QlmYtnsjs
+
+--------------------
+
+Explore Devstral in Cline and push the boundaries of what could be the best open-source model in AI coding. https://t.co/82Gg0HXnY9
+
+--------------------
+
+🫡 to the @GoogleDeepMind team!
+
+--------------------
+
+Explore the new Workflows Documentation: https://t.co/gtHL52aY4M
+
+--------------------
+
+Once defined, you trigger the entire workflow with its filename, like /[https://t.co/JRmQSoUw9p]. Complex processes, like the PR review shown below, become one-shot commands. https://t.co/7yR4Xsmr5w
+
+--------------------
+
+Here's that PR Review workflow in action: https://t.co/csAphNWJWk
+
+--------------------
+
+On SWE-Bench Verified, Devstral scores 46.8% -- beating open-source SoTA by 6+ points and outperforming models like Deepseek-V3-0324 (671B) and Qwen3 232B-A22B on the OpenHands scaffold. https://t.co/Ewt1pXsvA5
+
+--------------------
+
+Live in Cline: Devstral from @MistralAI. The new #1 open-source model on SWE-Bench surpasses GPT 4.1-mini and Claude 3.5 Haiku, excelling at agentic coding tasks &amp; small enough to run locally on a Mac with 32GB RAM. https://t.co/lvTbus7FGC
+
+--------------------
+
+On SWE-Bench Verified, Devstral scores 46.8% -- outperforming models like Deepseek-V3-0324 (671B) and Qwen3 232B-A22B on the OpenHands scaffold. https://t.co/YRjVQupSzU
+
+--------------------
+
+Read the full v3.16 announcement on our blog: https://t.co/0qwwrFUnPs
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+So, what are Workflows? Think of them as automation scripts. You define a sequence of actions using natural language, Cline's own tools (like read_file or ask_followup_question), CLI comands, or even MCPs -- all within a Markdown (.md) file. here's an example 👇 https://t.co/SgBYHtV7uo
+
+--------------------
+
+Here's one of the ways @pashmerepat is using Workflows to automate PR reviews with Cline 👇 https://t.co/aE5BeQb8pr
+
+--------------------
+
+https://t.co/2jyrCvJ4U8
+
+--------------------
+
+Truly, your imagination is the limit for streamlining your daily tasks.
+
+--------------------
+
+Despite its powerful capabilities, Devstral runs on accessible hardware - a Mac with 32GB RAM or single RTX 4090. It's open-source under Apache 2.0, perfect for Cline's developer-first approach. https://t.co/pFHwDNtTTH
+
+--------------------
+
+@MistralAI Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Create them via the new "Workflows" tab in Cline, then invoke any workflow using its filename, like /[https://t.co/YxbtvKVyd5]. https://t.co/DyA12dHdbR
+
+--------------------
+
+Dive deeper into Workflows with the new docs: https://t.co/gtHL52aY4M
+
+--------------------
+
+Update to Cline v3.16 now via VS Code Marketplace, Cursor, or Windsurf! Let us know what you think!
+
+--------------------
+
+Low-hanging fruit you should think about automating: - Release processes: grabbing PRs, building changelogs, version bumps. - New project setups: folder structures, dependency installs, config files. - Custom reports: gathering stats, formatting data.
+
+--------------------
+
+So, what are Workflows? They're your custom automation scripts, written in simple Markdown files (.md) and stored right in your project. https://t.co/mWORB2lEFf
+
+--------------------
+
+How do you spot a task perfect for a Workflow? Ask yourself: "Do I often do X, then Y, then Z?" If you can describe a sequence, it’s a prime candidate.
+
+--------------------
+
+Think of them as LEGO blocks for your development process. You can combine: - Cline's built-in tools (read_file, ask_followup_question, etc.) - CLI commands (like gh, docker) - MCP tool calls
+
+--------------------
+
+And more refinements: - Global Endpoint for Vertex AI: Better availability. (Thanks soniqua!) - Key Fixes: Addressed memory leaks &amp; eternal loading states. (Thanks BarreiroT!) - Smoother Settings: VSCode Advanced settings now in Settings Webview; Auto-Approve UI polished.
+
+--------------------
+
+Read all about v3.16 on our blog: https://t.co/0qwwrFUnPs
+
+--------------------
+
+Also new in v3.16: - Collapsible Recent Task List: Keep your screen shares private! (Thanks cosmix!) - Enable Auto-Approve Toggle: More control over auto-approve without losing settings. - Improved Gemini Retry Handling: Clearer UI feedback during API requests.

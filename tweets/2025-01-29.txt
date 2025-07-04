@@ -1,0 +1,57 @@
+5/ And more elegantly, have Cline create markdown files of the implementation plan before doing any coding: "Before writing code: 1. Analyze all code files thoroughly 2. Get full context 3. Write .md implementation plan 4. Then implement code" https://t.co/6p4RDPPGGn
+
+--------------------
+
+6/ Our users have come up with a ton of prompting tricks. Learn about how to best code using Cline by reading the whole guide here: https://t.co/VFqQ9M24EE
+
+--------------------
+
+6/ Link to the full guide here: https://t.co/qTiSVp4ewo
+
+--------------------
+
+Start using Cline in 2 mins https://t.co/t0tLvup1dU
+
+--------------------
+
+1/ Most people treat Cline like a magic box. Paste prompt, get code. But our power users found something wild: the more you force Cline to think out loud, the better it performs.
+
+--------------------
+
+🧵 How to run AI models locally with Ollama + Cline -- a quick setup guide https://t.co/xnHB3ODr8f
+
+--------------------
+
+4/ Another trick: play dumb "Ask 'stupid' questions like: are you sure this is the best way to implement this?" Asking "stupid" questions actually forces Cline to search for more context, leading to better output https://t.co/MQP5xhFkT9
+
+--------------------
+
+3/ Our community has other tricks up their sleeves. They also make Cline rate its confidence (1-10) in solutions when troubleshooting -- if it's not a 10 then Cline needs to dig deeper. https://t.co/WBdF6Q0Qvg
+
+--------------------
+
+🧵 How to run AI models locally with LM Studio + Cline -- a quick setup guide https://t.co/2SPDdGH19q
+
+--------------------
+
+Some of our power users have a weird habit: they make Cline say 'YARRR!' before writing any code. Sounds crazy, but there's genius behind it. Here's what they discovered about getting 10x better output 👇 https://t.co/Jj5IBjM0c1
+
+--------------------
+
+Pro Tip -- put Cline in the right pane so you can see your files at the same time while using Cline 👇 https://t.co/zDmvbe6neX
+
+--------------------
+
+2/ The 'YARRR!' trick is simple but brilliant: By telling Cline to say "YARRR!" before every tool use at the START of a task, you essentially have created a "flag" to know if/when Cline has lost context from the start of the task.
+
+--------------------
+
+4/ Connect it to Cline: 1. Open VS Code 2. Click Cline settings ⚙️ 3. Select "LM Studio" as API provider 4. Pick your model (your downloaded models will appear) https://t.co/vxDwRnddx6
+
+--------------------
+
+Get started using Cline 👇 https://t.co/t0tLvup1dU
+
+--------------------
+
+retweeting for the uninitiated because this perplexity MCP server has actually become a core part of my workflow

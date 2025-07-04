@@ -1,0 +1,93 @@
+🚀 Selectable Options are now clickable in Cline 3.7! When building a plan, Cline presents you with choices you can simply click instead of typing out responses. Maintain your flow, and make decisions faster. This small change makes a big difference in how smoothly you interact https://t.co/6TDkiXpZva
+
+--------------------
+
+1/ The "Programming Academy" - One developer created a Memory Bank tutor mode that tracks a student's progress across coding lessons. Using files like https://t.co/sYxxeZLHar and https://t.co/VVz0VXYBrE, it ensures Cline remembers what's been taught and adapts to the student's
+
+--------------------
+
+Developers: Integrating crypto just got 10x easier. @base MCP + Cline lets you add fee-less global payments, DeFi integrations, and asset trading to your app without becoming a blockchain expert. Here's an example of Cline handling the E2E Onramp API integrations for you ↓ https://t.co/giaNFqr3N0
+
+--------------------
+
+4/ Checkpoints now load faster and you'll get warnings when your project is too large for effective checkpointing. This means less waiting time and clearer expectations when working with substantial codebases. Smoother context management = more productive coding.
+
+--------------------
+
+2/ The new .clinerules/ directory lets you split your rules across multiple files. This means cleaner organization, easier maintenance, and more readable rule structures—especially valuable when you're working on complex projects with specific rule requirements. https://t.co/tNYOedi3Is
+
+--------------------
+
+🚀 Cline v3.7 is now available with an exciting interface upgrade! Choose your path with just a click -- Cline now displays selectable options when asking questions or presenting plans, eliminating the need to type responses and making interactions faster and more intuitive. https://t.co/886f1BqYuI
+
+--------------------
+
+Download Cline v3.7 now in VS Code and see how these improvements impact your development workflow this weekend.
+
+--------------------
+
+1/ Selectable options transform your interaction with Cline. When Cline asks questions or presents a plan, you can now click instead of type—keeping you focused on your code rather than context switching to type responses. Your development flow stays uninterrupted. https://t.co/vrKCsciUsd
+
+--------------------
+
+@base Check out the Base MCP, also available in Cline's MCP Marketplace: https://t.co/hWyuuSA6wW
+
+--------------------
+
+Interested in using Memory Bank? Here are the docs: https://t.co/ER45ItGWk8
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+Cline users are building Memory Bank adaptations we never imagined. Here are some really creative ways developers are using Cline's Memory Bank 🧵 https://t.co/euYhvooqF6
+
+--------------------
+
+Mermaid diagrams are the hidden superpower in AI-human communication. They're intuitive for both LLMs to generate and humans to understand, creating a shared visual language that bridges the coding gap. Why does this matter? When working with LLMs, there's usually a translation https://t.co/AE8s3cw0FB
+
+--------------------
+
+Memory Bank is super useful, but it's really just a starting point. Make it work for you as you need!
+
+--------------------
+
+Our full thoughts: https://t.co/dUCdiO7wP3
+
+--------------------
+
+🚀 Organize your Cline rules with the new .clinerules/ directory support in 3.7! Create multiple rule files in this directory and they'll all be automatically added to your system prompt. Keep your rules modular, organized, and easier to maintain. Perfect for complex projects https://t.co/YkgnEOWfei
+
+--------------------
+
+4/ Visual Architecture - users report that Mermaid diagrams in Memory Bank significantly improve Cline's understanding. "It's been my experience that mermaid diagrams really help keep things on track for Cline." The structured visual approach reduces hallucinations.
+
+--------------------
+
+1/ Traditional project planning forces you to switch contexts between planning tools and coding. Memory Bank eliminates this by embedding your roadmap directly in your codebase -- where both you and Cline can access it.
+
+--------------------
+
+The hidden cost of most AI coding agents isn't in your subscription—it's in the artificial constraints they put on your models. When AI tools limit context to save tokens, they're optimizing for their margins, not your productivity. A model that can't see your entire file https://t.co/H7Px2egWHs
+
+--------------------
+
+~PROJECT SHOWCASE~ Check out what this Cline power user built! FLUJO, an open-source app for workflow orchestration, MCP integration, and AI tools -- all running locally. And "99.5% built with Cline" Here's how it works: 🧵 https://t.co/MlVmWmx0Yb
+
+--------------------
+
+3/ No more context crashes! Cline now prevents extremely large files from overloading your context window. This fixes the frustrating issue where your entire task would shut down and you'd lose all context. Your large codebase work remains stable and continuous.
+
+--------------------
+
+Devs are using Memory Bank as a project architecture and planning tool before they write any code. "I prefer starting in Cline, using Memory Bank to build out the context files as a roadmap, and letting Cline take the wheel." How to use Memory Bank for project planning 🧵 https://t.co/6uqDINku4k
+
+--------------------
+
+We just shipped Cline v3.7 with some big updates. Here's what they mean for you as a developer: Thread 🧵👇
+
+--------------------
+
+5/ More model flexibility with: - SambaNova API provider - VPC endpoint option for AWS Bedrock profiles - DeepSeek-R1 on AWS Bedrock This means more options to balance cost, performance, and security requirements for your specific development needs.

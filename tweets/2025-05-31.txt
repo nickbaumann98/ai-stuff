@@ -1,0 +1,29 @@
+Happy weekend 🫡
+
+Here's 12 professional AI coding techniques from a recent engineering best practices session 👇
+
+1. Plan for 10 minutes before coding for 2 hours. Brief your AI like onboarding a new developer: architecture, constraints, goals, existing patterns. This saves hours of refactoring later.
+
+2. Use premium models for complex work. Gemini 2.5 Pro (1M tokens) and Claude 3.7/4 Sonnet deliver significantly better results than budget models. The cost difference is often worth it for complex tasks.
+
+3. Keep an eye on your context window. Performance drops after 50% capacity. Use implementation docs, handoff summaries, or /newtask to stay sharp across long sessions.
+
+4. Create rules files for your standards. Define coding patterns, project structure, and workflows once. Every AI session starts with this context automatically. Developers report significantly less rework.
+
+5. Share your full intent upfront. Your AI can read files but doesn't know your goals, constraints, or vision. Explain what you're trying to achieve and why to create mutual understanding.
+
+6. Treat AI like a brilliant but forgetful developer. It can write incredible code but needs constant guidance on what you're trying to achieve.
+
+7. Be in collaborative planning mode. Don't jump straight to implementation. Discuss architecture, explore alternatives, validate approaches before writing a single line.
+
+8. Leverage memory banks for long projects. Create markdown files that AI maintains with project context, progress, and learnings. Huge for complex builds and when handing off work.
+
+9. Consider premium models for complex work. Developers using top-tier models often ship faster than those optimizing purely for cost. The productivity gains can justify the expense.
+
+10. Learn context management strategies. Know when to condense (/smol), when to start fresh (/newtask), when to create handoff docs. This separates effective developers from struggling ones.
+
+11. Build team knowledge with shared rules files. Version control your AI instructions. New team members get instant context on how your team codes.
+
+12. Embrace the paradigm shift. This isn't about replacing developers -- it's about amplifying human insight with AI capabilities. The best teams learned this early.
+
+The goal: build better software faster. AI is your force multiplier, not your replacement.

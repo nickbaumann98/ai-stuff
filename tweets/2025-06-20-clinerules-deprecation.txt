@@ -1,0 +1,33 @@
+We've deprecated the "Custom Instructions" text box in Cline.
+
+Most of you were already using `.clinerules`. Here's why they're better. 🧵
+
+↓
+
+`.clinerules` are toggleable.
+
+Different rules for different tasks. Toggle on/off as needed. Your AI adapts to your current task.
+
+↓
+
+`.clinerules` live with your code.
+
+Version-controlled. PR-reviewable. Available to anyone who clones your repo.
+
+↓
+
+Cline can edit its own rules.
+
+Ask it to refine a rule based on your feedback. Your AI gets better over time.
+
+↓
+
+Community-driven: https://github.com/cline/prompts
+
+Find rules that work. Contribute your own. Build collective knowledge.
+
+↓
+
+AI instructions should be code - shareable, versionable, collaborative.
+
+Read more: [link to blog post]

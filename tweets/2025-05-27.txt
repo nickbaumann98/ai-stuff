@@ -1,0 +1,81 @@
+Try Cline today 👇 https://t.co/lGuJo77wAB https://t.co/tutYLK3RjH
+
+--------------------
+
+The results: Cline suggests error handling that matches your patterns, not generic try-catch blocks. It understands your custom frameworks. It sees the connections a vector search would miss. No index to maintain. No embeddings to secure. Just intelligence applied directly to https://t.co/Ps1aWAaYD6
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo77wAB https://t.co/tutYLK3RjH
+
+--------------------
+
+Cline doesn't index your codebase. No RAG, no embeddings, no vector databases. This isn't a limitation -- it's a deliberate design choice. As context windows increase, this approach enhances Cline's ability to understand your code. Here's why. 🧵 https://t.co/IRoDmKRNVF
+
+--------------------
+
+We believe in the agentic power of the modesl, and with Claude's 200K+ context window, we don't need clever retrieval. We need intelligent exploration. So Cline reads code the way you do -- following imports, tracing dependencies, building connected understanding. https://t.co/Tlw0UOFfxk
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo77wAB https://t.co/tutYLK3RjH
+
+--------------------
+
+Here's how you make your 🐐 argument on the fly with: Perplexity MCP + Chart Generator MCP (this is not an official statement from Cline or any associated employees) https://t.co/05ksDGkWDf
+
+--------------------
+
+These commands work together to keep you in flow: Start with /newrule to set preferences → Use /smol or /newtask for context management → Automate repetitive work with /workflow → Report issues seamlessly with /reportbug
+
+--------------------
+
+/newrule creates persistent instructions for how Cline should work with your code. Set your preferred: - Code style and formatting - Testing frameworks - Variable naming conventions - Project-specific patterns One setup, consistent results every time. https://t.co/3dDSCc6QKz
+
+--------------------
+
+Instead of indexing, Cline starts with structure. Using ASTs, it maps your codebase architecture -- classes, functions, relationships. Then it explores. Need to add error handling? It traces from your function to your error utilities to similar patterns. Connected comprehension.
+
+--------------------
+
+/smol compresses your current conversation while staying in the same task. Use /smol when: - You're mid-debugging and need more space - You want to continue in the same task Use /newtask when: - You're transitioning to a new phase - You want to preserve full history https://t.co/Srq3yBQFLS
+
+--------------------
+
+quick guide to cline's slash commands: /newtask = branch your work with preserved context /newrule = teach Cline your coding preferences /smol = compress context without losing progress /workflow = automate repetitive tasks /reportbug = submit issues with proper formatting 🧵
+
+--------------------
+
+This isn't about being contrarian. It's about recognizing that language models are now powerful enough to work with code the way developers do. The future belongs to AI that can think, not just retrieve.
+
+--------------------
+
+The problems with RAG for code run deeper: - Chunking breaks the logical connections between functions and their dependencies - Indexes become stale the moment you push a commit - Your IP gets duplicated in vector embeddings (security nightmare) Why create these problems when
+
+--------------------
+
+"But isn't searching files slower than vector retrieval?" For keyword matching? Maybe. But we're not doing keyword matching. We're building genuine understanding. Your code is already on disk -- why copy it to a database?
+
+--------------------
+
+Deep dive into why we built it this way: https://t.co/tPq9lbZOKY
+
+--------------------
+
+The industry default: chunk your codebase, create embeddings, store in vector databases, retrieve "relevant" pieces. But code doesn't work in chunks. A function call in chunk 47, its definition in chunk 892, the context that explains why? Scattered everywhere.
+
+--------------------
+
+/workflow turns repetitive tasks into on-demand commands. Examples: - Check GitHub pull requests - Run your test suite - Deploy to staging - Generate release notes If you leave Cline to do it manually, consider making it a workflow. https://t.co/PuRDgfu9zM
+
+--------------------
+
+/reportbug transforms bug reporting from a chore into a conversation. Cline guides you through: - Issue description - Steps to reproduce - Expected vs actual behavior Then auto-formats everything for GitHub with system details included. https://t.co/LwTUDNuGyG
+
+--------------------
+
+/newtask is like a perfect developer handoff. When your context window fills up mid-project, it packages what matters -- your plan, progress, relevant files, and next steps -- into a fresh task. https://t.co/wDCj42Rlmz
+
+--------------------
+
+https://t.co/VGhbZbWUJ4

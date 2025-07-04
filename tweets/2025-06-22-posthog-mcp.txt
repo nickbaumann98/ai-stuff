@@ -1,0 +1,5 @@
+Manage your feature flags without leaving your editor.
+
+The new @PostHog MCP is now in the Cline marketplace, letting you ask your agent questions like "What feature flags are active for our homepage?"
+
+[link-to-media]

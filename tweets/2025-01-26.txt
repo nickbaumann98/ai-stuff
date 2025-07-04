@@ -1,0 +1,17 @@
+The "are you sure?" trick for troubleshooting coding errors: Our power users are using this trick to debug with Cline. Instead of jumping straight to implementation, they keep asking "are you sure?" in Plan mode until they get explicit confidence. 1. Start in Plan mode 2. https://t.co/y8G6Nbx2co
+
+--------------------
+
+1/ The Cline community is building something special. One user just shared how they went from "barely able to code" to launching a working prototype in 4 days - something they thought would take months. Here's what we're seeing... 🧵
+
+--------------------
+
+Check out the MCP server here: https://t.co/PdKDxpMO2n
+
+--------------------
+
+Important Notice: Cline is not affiliated with any cryptocurrency or token projects. If you see anything claiming to be a ‘Cline coin,’ it is not legitimate.
+
+--------------------
+
+Imagine having a research assistant that lives in your editor. That's exactly what one of our users for our MCP Hackathon built by connecting Perplexity to Cline through MCP. Research docs, deprecated code checks, and API suggestions all without leaving your flow state. Watch https://t.co/fOkHm2zKko

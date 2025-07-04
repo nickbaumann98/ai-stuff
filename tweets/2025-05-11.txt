@@ -1,0 +1,85 @@
+Slash your Gemini 2.5 Pro costs! Cline v3.15 integrates Google's new Gemini Implicit Caching. Get up to 75% token discounts automatically on repetitive prompt parts. Powerful AI, made more affordable. Thanks to Google's Gemini team for getting this working so swiftly!
+
+--------------------
+
+Spotted an issue? Cline 3.15 introduces the /reportbug slash command. A quick and easy way to report bugs with contextual information directly from your Cline chat, helping us improve faster. https://t.co/GB5i448Q68
+
+--------------------
+
+This release wouldn't be possible without our amazing community contributors! Huge thanks to: eomcaleb, weshoke, zapp88, danix800, DaveFres, PeterDaveHello, Watany, and WinterYukky for your invaluable code and feedback! 🙏
+
+--------------------
+
+Just pushed Cline v3.15! Task timeline, Gemini Implicit Caching, Open-source docs, &amp; much more Here's what we've got for ya ↓ https://t.co/hUnPOoEvC2
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Reporting issues just got simpler with the new /reportbug command. Send contextual bug reports directly from Cline chat, helping us improve faster. Your detailed reports are invaluable! https://t.co/SLgMaBbiRh
+
+--------------------
+
+The Task Timeline, built by community contributor eomcaleb, is a step towards our vision for future multi-agent visibility. As AI takes on more, seeing how it works is crucial. We even had internal discussions on the best way to achieve this transparency. https://t.co/ZrNbQuBYt2
+
+--------------------
+
+Read more: https://t.co/clozZrm5OA
+
+--------------------
+
+Details: https://t.co/clozZrm5OA
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Cline's docs are now open-source too! It's easier than ever for our amazing community to contribute via PRs and help build the best Cline resource together. https://t.co/VjQ0j4VW7y
+
+--------------------
+
+We've created a Task Timeline -- see Cline's workflow as a visual "storyboard" in your task header. Understand tool calls, file edits &amp; more at a glance. Hover for instant summaries. Clarity for complex tasks, and built by one of our community contributors (thanks eomcaleb!) https://t.co/V87CU62I69
+
+--------------------
+
+Clearer conversations, better context. Cline 3.15 now lets you quote previous messages directly in your chat. Easily reference earlier points and keep your discussions focused and efficient. pro tip: use this in Plan mode to give targeted feedback to Cline. https://t.co/cxBusVAkgF
+
+--------------------
+
+We've updated file edits so Cline no longer steals focus. While Cline edits files, your interface stays responsive -- type your next prompt, scroll files, navigate -- no more waiting. A smoother experience inspired by great user feedback thanks @sidahuj for your feedback! https://t.co/LWa3JQ3b2z
+
+--------------------
+
+A bunch of QoL updates in v3.15: - Improved Terminal Stability: Significant fixes for greater reliability. - Simplified Home Header`[VISUAL: Simplified Home Header]`And even more QoL improvements: - Enhanced Copy Buttons (Thanks weshoke!) - Favorite Tasks
+
+--------------------
+
+Ever wished for a "storyboard" of your AI collaboration? Cline 3.15 introduces the Task Timeline, a visual narrative of every key step Cline takes. This is more than a log; it's about bringing clarity to complex AI interactions. https://t.co/FLJ0rVEU4B
+
+--------------------
+
+- AI-Assisted Commit Messages (Thanks zapp88!) - UI for Windsurf &amp; Cursor Rules - Updated Auto-Approve UI (with "Approve All" button!) - Batch History Deletion (Thanks danix800!)
+
+--------------------
+
+Learn more: https://t.co/clozZrm5OA
+
+--------------------
+
+You can now Quote Messages in chat! For more precise communication and clearer feedback, easily pinpoint parts of earlier messages. Use this to give Cline pointed feedback during Plan mode. https://t.co/rD4QGvqTOf
+
+--------------------
+
+https://t.co/clozZrm5OA
+
+--------------------
+
+Hover over any block for an instant summary. Understand Cline's process, debug if needed, and gain deeper insights. It’s about balancing powerful automation with essential visibility. Try it in v3.15!
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f

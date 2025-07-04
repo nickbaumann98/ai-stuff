@@ -1,0 +1,37 @@
+The 21stdev MCP plugin from @serafimcloud is insane. With it, Cline taps into an amazing component library, sourcing &amp; customizing exactly what you need for your build—effortlessly. This feels like the next wave in frontend. Check it out now in the MCP Marketplace. https://t.co/uIW8u5tFds
+
+--------------------
+
+This is wild 🤯 Anyone using AI coding agents knows the power of context. Now imagine building a custom knowledge base from Linear, GitHub, Jira, or Discord—optimized for LLMs. @graphlit’s MCP server makes it happen. https://t.co/PUJc5DBkLc
+
+--------------------
+
+Did you know Cline can send emails? Now it can—thanks to @resend’s MCP server, now live in the MCP Marketplace! 🚀 https://t.co/kTWWpdWfdV
+
+--------------------
+
+Just pushed Cline 3.5.1 - MCP server timeout settings (so long-running MCP's won't time out) - Gemini Flash models for Vertex - Prompt caching for AWS Bedrock - AskSage provider support 🫡 https://t.co/jnWxllGc8Y
+
+--------------------
+
+Btw -- if you build an MCP plugin and want to get it in front of thousands of users, Cline has a Marketplace you can submit your MCP to: https://t.co/NLnyNPieq0
+
+--------------------
+
+What do you find confusing about MCP? Let's make this a Q&amp;A thread.
+
+--------------------
+
+Need a logo, icon, or visual on the fly? The @everartai MCP plugin lets you generate PNGs and SVGs with all EverArt models—instantly! https://t.co/NnrdU3zdBO
+
+--------------------
+
+Daily reminder: Cline’s MCP Marketplace has hundreds of plugins—ready to install in one click. Are you a dev? Submit your MCP and reach hundreds of thousands of devs. Build yours in minutes using the protocol below. 🚀 https://t.co/EAhICWHami
+
+--------------------
+
+@ChikeDEV Consider the tools/platforms you already use, for example Linear, GitHub, Slack. There are existing MCP plugins for those which you can connect with cline to query data from those platforms or write to them. I'd also consider how you use Cline in your development workflow and
+
+--------------------
+
+Deep research has arrived for Cline! With the @firecrawl_dev MCP Plugin, Cline can complete deep research during your development process. Research open source libraries, documentation, and more to give Cline access to rich context. Install it in the MCP Marketplace today. https://t.co/VNHVuawUnD

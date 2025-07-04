@@ -1,0 +1,21 @@
+Cost-effective computing with Qwen3 in Cline (input/output per m tokens): - qwen3-235b-a22b ($.20/.85) - qwen3-30b-a3b ($.10/.50)
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Qwen3 offers two headline variants: - Qwen3-235B-A22B (MoE): 235B total parameters with only 22B activated, competing with top-tier models in coding, math, and reasoning - Qwen3-30B-A3B (MoE): Outperforms models with 10× the parameters https://t.co/Jfd52L6nIb
+
+--------------------
+
+https://t.co/zcmUT21etT
+
+--------------------
+
+Qwen3 models are now available in Cline. Their flagship offering, Qwen3-235B-A22B sports a 131k context window that competes with frontier models like DeepSeek-R1 and o1, while maintaining much lower compute costs. https://t.co/6pOf3C1fs2

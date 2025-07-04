@@ -1,0 +1,13 @@
+Cline users in Japan, we’d love to see you more active in our community! Would you find a #japan channel in our Discord helpful? Let us know 👇
+
+--------------------
+
+@phuctm97 @cursor_ai Thanks for checking out Cline! 🚀 Unlike Cursor, Cline doesn’t economize for token usage. You pay for your own tokens which means no shortcuts—better context management, smarter edits, and more powerful results. It can cost more, but the output is worth it. https://t.co/ZKRYik2oaf
+
+--------------------
+
+Just added DeepSeek's R1 to Cline! R1 is DeepSeek's new "reasoning" model that touts o1's capabilities at 1/30th the cost: $0.55/M vs $15/M input tokens $2.19/M vs $60/M output tokens Here's how it compares on benchmarks: https://t.co/iqS10wGyc3
+
+--------------------
+
+Early community feedback is mixed but promising: "R1's reasoning is top tier, all problems I gave it, he solved them" "The model does well but context length (64k) is limiting. Not enough to read all files and get a good understanding of the code" Here's a quick demo of R1 in https://t.co/FNpsLKMchf

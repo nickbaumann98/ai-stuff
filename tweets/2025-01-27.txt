@@ -1,0 +1,37 @@
+7/ Our community keeps finding creative ways to extend Cline through custom instructions. Want to try memory bank? Download Cline here: https://t.co/VAq921WZ7c
+
+--------------------
+
+Remember Memento? Guy couldn't form new memories, so he tattooed notes all over his body and carried around polaroids with names. Context is everything in AI coding. But every time you start a new chat, you waste 10 minutes re-explaining your project, tech stack, and https://t.co/R6Y8huqzQI
+
+--------------------
+
+DeepSeek R1's API is experiencing severe performance issues due to overwhelming demand. We're working on optimizing Cline's integration, but we need to wait for DeepSeek to resolve their infrastructure challenges. For Cline users, we recommend: - Using alternative models for
+
+--------------------
+
+6/ Want to try it? Add these custom instructions to Cline: Full guide in our docs: https://t.co/ER45ItGWk8 https://t.co/omoIdVXH7v
+
+--------------------
+
+2/ The community built this entirely through custom instructions -- it's not a product feature. They've essentially programming Cline to: - Check for documentation before ANY work - Stop completely if docs are missing - Update files after significant changes - Record everything
+
+--------------------
+
+1/ Here's how it works: We tell Cline (via custom instructions): "Your memory resets completely between sessions. This isn't a bug - it's a feature. You MUST maintain perfect documentation to function." Just like Memento's protagonist, without these notes, Cline can't operate.
+
+--------------------
+
+5/ What makes this special: - Forces automatic documentation - Maintains context between sessions - Everything is in your codebase - No proprietary features needed And since it's just custom instructions, you can modify and improve it.
+
+--------------------
+
+4/ The workflow is simple but powerful: 1. Cline reads/creates Memory Bank files 2. Development work begins 3. Updates docs after major changes 4. Full context update before session ends https://t.co/ABYd1uH7JK
+
+--------------------
+
+3/ When you paste these instructions, Cline creates a Memory Bank: https://t.co/Oj7Yuh7a2O - Project goals https://t.co/mSk5YGNXrS - Current state https://t.co/ymJV36olaD - Architecture https://t.co/RxA6EPjeOr - Tech stack https://t.co/VVz0VXYBrE - Status https://t.co/NOofxwE1bv
+
+--------------------
+
+What happens when you give 100k developers access to a new model overnight (i.e. DeepSeek R1)? Things break, APIs get flooded, and we learn what scaling really means. Here's what we're seeing: 1. Our community has been burning through tokens so fast Deepseek's servers can't https://t.co/Ci9qxwL6OO

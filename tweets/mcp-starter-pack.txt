@@ -1,0 +1,15 @@
+Stop context-switching. Start building.
+
+Our new guide to the MCP starter pack shows you how to integrate web search, live documentation, and browser automation directly into your Cline workflow. It's the fastest way to make your AI a true development partner. 🧵
+
+1/ Supercharge your AI's knowledge with the Perplexity MCP. Give Cline access to the entire web for up-to-date research, so you never have to leave your editor to find answers.
+
+2/ Keep your code modern with the Context7 MCP. Get access to the latest documentation for over 4,000 libraries, ensuring your AI generates code that's accurate and up-to-date.
+
+3/ Automate your workflow with the Puppeteer MCP. Let Cline control a browser to run tests, take screenshots, and interact with your web apps, all from your IDE.
+
+4/ Ingest entire websites with the Firecrawl MCP. Scrape documentation, clone websites, or gather massive amounts of data for your AI to use as context.
+
+5/ Tackle complex problems with the Sequential Thinking MCP. Break down large tasks into manageable, auditable steps for more robust and reliable solutions.
+
+Ready to build your MCP starter pack? Read the full guide and learn how to install these essential tools today. [LINK TO BLOG POST]

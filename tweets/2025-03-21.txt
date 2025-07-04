@@ -1,0 +1,57 @@
+5/ Done! Make sure to have this .clinerules file in the root of your MCP directory for proper configuration. https://t.co/11J52LbwkN
+
+--------------------
+
+https://t.co/uuWUXXFf7p
+
+--------------------
+
+@jxnlco This MCP server from @sidahuj is pretty close https://t.co/f2gCSt7h3u
+
+--------------------
+
+1,000,000 installs—and our all-in bet on the future of software engineering: From the jump, we've envisioned a bolder path forward in AI coding. While others perfect tab autocomplete, we've been building a truly collaborative coding agent that transforms how software gets https://t.co/yuAY9wMx1c
+
+--------------------
+
+@lab_smart_ai we have it! https://t.co/ezfAYeab13
+
+--------------------
+
+Asked Cline to build a basketball court in Blender and make his pick for March Madness. Got a spacey court and UConn 3-peat prediction. AI has its rights to opinions now, I guess. https://t.co/FMn1oDnjSw
+
+--------------------
+
+Ableton MCP from @sidahuj shows the real future of AI creativity partnership—AI handles the tedious tasks while you maintain creative control. No more workflow disruptions; just pure creative experimentation unleashed. And it's also just super cool. Volume Up 🔊 https://t.co/prhYJt0zS0
+
+--------------------
+
+To that note -- we're hosting a party in SF next Friday. Hope to see you there! RSVP: https://t.co/uuWUXXFf7p
+
+--------------------
+
+4/ Test all the tools before completion. We verified the Astronomy Picture retrieval, Mars photo search, asteroid tracking, Earth imagery, and exoplanet data all worked perfectly with real NASA API data. https://t.co/X1y2WNgEkd
+
+--------------------
+
+1/ First, describe the MCP server you want in Plan Mode. We asked for a NASA data server using their public APIs with specific space exploration tools. Cline presented a complete plan with architecture, API integration, and implementation strategy. https://t.co/5BxP0uK9xD
+
+--------------------
+
+2/ After reviewing and confirming the plan, switch to Act Mode and let Cline build the MCP server. It creates the project structure, implements the API client with proper rate limiting, and develops all the specified tools. https://t.co/D8aIO1PBOF
+
+--------------------
+
+@tristanbob 👀 ironing out the details -- stay posted
+
+--------------------
+
+We just hit 1 million installs and we're going to celebrate! Come join us at the Woodbury in SF next Friday. There will be live DJs, food, and drinks (first round's on us). Can't wait to see you there! RSVP 👇
+
+--------------------
+
+We built a NASA MCP server in 12 minutes using Cline. It has these tools: - Astronomy Picture of the Day - Mars Rover Photo Search - Near-Earth Asteroid Tracker - Earth Satellite Imagery - Exoplanet Explorer Here's our step-by-step process: https://t.co/LZhHZBzyId
+
+--------------------
+
+3/ Cline builds the TypeScript project (npm run build) and adds configuration to your MCP settings automatically. The entire server is properly documented with TypeScript interfaces for all NASA data structures. https://t.co/7IErnV8rAi

@@ -1,0 +1,125 @@
+"2.5 pro also gives more detailed/direct actions. all around best model imo."
+
+--------------------
+
+Available in the MCP Marketplace: The Solana MCP server by @sendaifun https://t.co/goWwJ4d0GO
+
+--------------------
+
+"it can use tools and mcp servers quite well"
+
+--------------------
+
+Compelling -- We tried creating the Cline logo with Blender MCP using Claude 3.7 Sonnet when it launched. Wasn't worth sharing. Gemini 2.5 Pro delivered on the first try. Impressive. https://t.co/iMKZQKxIIZ
+
+--------------------
+
+Our community has been testing Gemini 2.5 Pro extensively. We're sharing their unfiltered feedback: 🧵 (hint: this might dethrone 3.7 Sonnet)
+
+--------------------
+
+Despite rave reviews, one consistent complaint: rate limits. Users report "Provider returned error" burning into their retinas with the 5 RPM cap. Many switch between providers just to keep working with it. Classic victim of its own success.
+
+--------------------
+
+Using this protocol, developers can build complex MCP servers in minutes instead hours because Cline is building them the right way. https://t.co/11J52LbwkN
+
+--------------------
+
+"gemini 2.0 is to gemini 2.5 what claude haiku is to claude sonnet 3.5 - night and day"
+
+--------------------
+
+Step 2: IMPLEMENTATION The protocol ensures you: - Properly bootstrap your project - Use the MCP SDK correctly - Implement comprehensive logging - Add proper typing - Handle errors with context These aren't just best practices—they're requirements. https://t.co/YaaqtTr0FX
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+Early reports indicate that Gemini 2.5 Pro might be giving 3.7 Sonnet a challenge as the best coding model. Let's break down the actual benchmark numbers behind these two frontier models and what they mean for you: 🧵 Gemini 2.5 Pro (left) vs Claude 3.7 Sonnet (right) https://t.co/x9j16GFYgB
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+"it doesn't feel clueless like previous gemini models"
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Install Cline right now 👇 https://t.co/fLQqAPObKM https://t.co/tutYLK4p9f
+
+--------------------
+
+"feeling like really good. I'm really impressed"
+
+--------------------
+
+Gemini 2.5 Pro is currently available for free with heavy rate limits. We're eagerly waiting for Google to release this model for full API access, where we'll see how it truly compares to Claude 3.7 in production environments.
+
+--------------------
+
+SWE-bench Verified: Claude 3.7 Sonnet leads with 70.3% vs Gemini's 63.8%. This measures how well models can fix real GitHub issues without human intervention -- a critical skill for assisted coding. https://t.co/SeoP1CPje6
+
+--------------------
+
+With Cline, you can already test both models yourself and switch seamlessly based on your specific coding needs. Try them today and see which performs better for your workflow.
+
+--------------------
+
+"I officially think 2.5 gemini is best"
+
+--------------------
+
+The protocol is implemented through a simple .clinerules file in your project directory. This isn't magic—it's carefully designed constraints that bring out Cline's best capabilities while preventing common mistakes. Think of it as pair programming with guardrails.
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+Step 1: PLANNING The protocol forces Cline to think before building. Cline helps you define: - What tools your MCP server will have - Which APIs you'll use - Authentication requirements This upfront investment prevents 80% of downstream issues. https://t.co/DWJlH8neEF
+
+--------------------
+
+"I vastly think 2.5 better than 3.7 sonnet its so good not even 3.7 amazed that much on release"
+
+--------------------
+
+Now available in Cline: Gemini 2.5 Pro https://t.co/cIU00YRH7f
+
+--------------------
+
+Step 3: TESTING (the most critical part) The protocol BLOCKS completion until you've: - Tested EVERY tool - Verified outputs are correct - Documented results This isn't optional—Cline enforces it through the protocol's structure. https://t.co/cPf0lEPkuF
+
+--------------------
+
+"It 98% one-shot my flappy bird test. Only thing that didn't work was restarting the game after you failed."
+
+--------------------
+
+We've built a development protocol .clinerules that makes it easy for anyone to build MCP servers. This isn't just a guideline—it's a structured workflow that ensures every MCP server you build with Cline is robust, well-tested, and ready to use. Here's how it works: 🧵 https://t.co/fLhbsUtutW
+
+--------------------
+
+"the code quality increase is insane"
+
+--------------------
+
+"2.5 pro way better than 3.5 imo. It really can hold on to details better than 3.5 or 3.7 in my opinion."
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Context window: Gemini offers 1M tokens vs Claude's 200K. On MRCR long-context tests, Gemini maintains 91.5% accuracy on 128K tokens, significantly outperforming the competition.

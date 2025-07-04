@@ -1,0 +1,69 @@
+Thanks to our friends over at @v0 for helping us bring their new model to Cline 🫡 Check the docs below on how to use it in Cline!
+
+--------------------
+
+How to use it in Cline: - Enable "Extended thinking" in the sidebar - Use the slider to set your budget (1,024 to 6,553 tokens) - Increase for complex debugging or architecture decisions https://t.co/cF3jgrhhKJ
+
+--------------------
+
+Extended Thinking gives Claude time to work through problems methodically before responding. Instead of instant answers, Claude breaks down the problem, considers approaches, and catches potential issues -- like how experienced developers actually think.
+
+--------------------
+
+Claude Opus 4 with Extended Thinking achieved 58% better performance on reasoning tasks. Sonnet 4 saw 68% improvement. Here's how to unlock Claude's deeper reasoning capabilities in Cline -- and when to use Extended Thinking vs Sequential Thinking MCP 🧵 (via @arcprize ) https://t.co/2Dt9xzBnBM
+
+--------------------
+
+Use Extended Thinking when: - You want deeper reasoning with faster results - You trust Claude's approach and want the final answer - You're working on general coding or reasoning tasks
+
+--------------------
+
+Live in Cline: DeepSeek-R1-0528 It's showing significant benchmark gains, now matching OpenAI o3 in reasoning tasks (key for Plan mode). We're excited to observe how these improvements impact real-world coding performance in Cline. https://t.co/rqZkZvMNHK
+
+--------------------
+
+Use Sequential MCP when: - You're not using Claude - Problems require self-correction and branching logic - You need to understand exactly how the LLM reached its conclusion
+
+--------------------
+
+https://t.co/44DLEzYtJD
+
+--------------------
+
+Pro tip: You can use both together. Extended Thinking gives Claude more reasoning capacity, while Sequential Thinking MCP structures that reasoning into visible, revisable steps. The combination unlocks Claude's most sophisticated problem-solving capabilities.
+
+--------------------
+
+Sequential Thinking MCP offers a different approach: structured, visible reasoning. &amp; it can be used with any model. https://t.co/Y4PWPJP8J5
+
+--------------------
+
+Both approaches make Claude significantly smarter. Extended Thinking is perfect for most complex tasks. Sequential Thinking MCP is ideal when you need transparency and self-correcting logic.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+The key difference: Extended Thinking: Claude thinks deeply in private, then shows you a summary of its reasoning plus the answer. Sequential Thinking MCP: Claude thinks step-by-step in the open, can question its own logic, and you see the full reasoning process unfold.
+
+--------------------
+
+referenced benchmarks: https://t.co/aReS9hyGQP
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Official announcement:
+
+--------------------
+
+Instead of thinking privately then showing a summary, the LLM breaks problems into numbered steps, can revise previous thoughts, branch into new approaches, and you see everything.
+
+--------------------
+
+@v0 Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f

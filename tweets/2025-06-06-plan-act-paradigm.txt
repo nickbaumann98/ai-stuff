@@ -1,0 +1,105 @@
+THREAD: The Plan-Act Paradigm
+
+Remember when AI coding meant tab autocomplete? The human did 95% of the work.
+
+Today's AI can search codebases, write modules, refactor systems. AI has eaten up nearly the entire coding pie.
+
+So what's left for humans? Intent.
+
+↓
+
+--------------------
+
+As AI capabilities expand, the human role doesn't diminish; it transforms.
+
+Tab-autocomplete era:
+- Human effort: 95%
+- AI effort: 5%
+
+Agentic era:
+- AI effort: 95%
+- Human effort: 5%
+
+But that 5% is everything. It's the difference between building the wrong thing perfectly and building exactly what you need.
+
+↓
+
+--------------------
+
+Here's the problem: AI is eager. Give it tools to read and write files, and it immediately wants to start coding.
+
+It's like having an incredibly talented developer who starts building before fully understanding the requirements.
+
+That's why we built the Plan-Act paradigm.
+
+↓
+
+--------------------
+
+Plan-Act isn't about different "modes" or AI personalities. It's the same AI throughout.
+
+What changes is the interaction paradigm:
+- Plan phase: Optimized for intent gathering
+- Act phase: Optimized for uninterrupted execution
+
+It's recognizing the natural rhythm of collaboration.
+
+↓
+
+--------------------
+
+We're anti-persona. No specialized "debugger" or "architect" agents.
+
+Why? The Bitter Lesson: general methods leveraging computation consistently outperform specialized solutions.
+
+Modern LLMs are trained on the entire coding process. Don't constrain what they naturally know.
+
+↓
+
+--------------------
+
+Here's what we've learned: Don't interrupt AI mid-task.
+
+Stanford research shows LLM accuracy drops 20% when processing interrupted contexts. Fresh starts produce better results because the model can construct a clean narrative from clear intent.
+
+Let AI cook.
+
+↓
+
+--------------------
+
+Once you've shared intent in Plan phase, get out of the way.
+
+We've observed agents perform significantly better on auto-approve. Every interruption breaks narrative flow. Every approval prompt forces context rebuilding.
+
+The most effective sessions? Uninterrupted AI.
+
+↓
+
+--------------------
+
+"But don't we need control?"
+
+Yes, but not in the moment. That's why we built:
+- Checkpoints to save states
+- Full visibility of AI actions
+- Undo capabilities
+- Safety boundaries
+
+The key insight is timing. Share intent, set boundaries, then let AI work.
+
+↓
+
+--------------------
+
+The future of coding isn't humans competing with AI or finding narrow specializations.
+
+It's humans doing what only humans can do: providing intent, meaning, and purpose.
+
+While AI handles the implementation.
+
+That's not a diminished role. It's the most important role of all.
+
+Read the full blog post: [link-to-blog]
+
+--------------------

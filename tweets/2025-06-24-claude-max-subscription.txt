@@ -1,0 +1,20 @@
+Claude Max subscribers: Here's how to use your subscription in Cline
+
+Instead of paying per token with an API key, you can use your existing Claude Max subscription. This can save you significant money if you're already a Max subscriber.
+
+Here's how you can set it up: 🧵
+
+↓
+
+Setup is simple:
+- Install Claude Code following Anthropic's guide
+- In Cline: Settings > API Configuration > Select "Claude Code"
+- Set the path to your path to Claude Code CLI (usually just "claude")
+
+That's it. You're now using your Max subscription instead of paying per token.
+
+↓
+
+How it works: When you select Claude Code as your provider, Cline connects to Claude through the CLI. Your Max subscription covers all the AI usage - you'll see $0.00 costs in Cline's billing.
+
+Full setup guide: https://docs.cline.bot/providers/claude-code

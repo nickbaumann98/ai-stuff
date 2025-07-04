@@ -1,0 +1,69 @@
+Result: Cline doesn't guess. It uses these precise, current snippets sourced via the MCP to generate accurate code, avoiding outdated examples. https://t.co/s0DA3PL0EN
+
+--------------------
+
+Discover popular community tools faster. The MCP Marketplace now shows download counts for each server -- now you can see which MCP servers people are finding most useful. https://t.co/awyIZBgfMs
+
+--------------------
+
+This sums it up well. Karpathy's careful rhythm – context analysis, planning, incremental steps – is fundamental to Cline's design. We believe this is the correct approach to AI coding. https://t.co/pPshBJ4Dcx
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Step 2: Get Specific Docs With the correct ID, Cline uses the `get-library-docs` tool, specifying a topic (like "mutations"). This fetches only the relevant, up-to-date code snippets and explanations from the official docs. https://t.co/ZyMx6f5WQn
+
+--------------------
+
+When should you use /smol vs /newtask? - Use /smol to continue the *same task* when history gets long/costly (like deep debugging). - Use /newtask to start a *fresh task* after finishing a phase, carrying over select context (like moving from feature A to feature B).
+
+--------------------
+
+LLMs often use old training data. Add `use context7` in Cline prompts to inject current docs via the Context7 MCP. But how does Cline actually use this MCP? It's not just magic. 🧵 https://t.co/mFUdDfcT4v
+
+--------------------
+
+When should you use /smol vs /newtask? - Use /smol to continue the *same task* when history gets long/costly (like deep debugging). - Use /newtask to start a *fresh task* after finishing a phase, carrying over select context (like moving from feature A to feature B).
+
+--------------------
+
+Using Gemini 2.5 Pro via Cline's built-in provider or OpenRouter? v3.13.3 adds prompt caching, significantly reducing token costs by not resending repeated prompt sections. Users are reporting cost savings of up to 50%.
+
+--------------------
+
+Small UI improvement: We've added tooltips to the bottom action bar icons for better clarity, especially for new users. https://t.co/NWQCYmwWMT
+
+--------------------
+
+Set up Context7 via MCP settings &amp; learn more: https://t.co/G7lJtxXinU
+
+--------------------
+
+Update Cline to v3.13.3 via the VS Code Marketplace to use these improvements. What features would you love to see in Cline? Let's hear it in the replies 👇
+
+--------------------
+
+Running into context limits or high costs in a long Cline task? Use the new /smol command (or /compact) to compress the conversation history *within the current task*. It summarizes the chat, reducing token usage for subsequent turns so you can keep working. https://t.co/uBuGsK8vOY
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Step 1: Resolve Library ID Cline uses Context7's `resolve-library-id` tool. It confirms the exact library you mean (e.g., turning "React Query v5" into the specific ID `/tanstack/query`), handling name changes or ambiguity. https://t.co/KmE9IwODWc
+
+--------------------
+
+Cline v3.13.3 is here with new ways to manage context and costs: - /smol slash command to compress long conversations 🤏 - Gemini 2.5 Pro prompt caching (Cline, OpenRouter) - MCP server download counts - UI tooltips for easier navigation Here's the breakdown ↓ https://t.co/PrrLvopVeB
+
+--------------------
+
+When you add `use context7`, Cline leverages tools provided by the Context7 server @upstash in a two-step process to ensure accuracy: https://t.co/tcRMnVvvpt
+
+--------------------
+
+Need to keep a long Cline conversation going without hitting context limits or high costs? Use the new `/smol` 🤏 command (alias `/compact`) to compress the chat history *within your current task*. It summarizes the past discussion, reducing token usage for future turns. https://t.co/zzR45DfUDI

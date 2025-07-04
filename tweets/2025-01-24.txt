@@ -1,0 +1,41 @@
+While everyone's fighting about Deepseek R1 vs o1 benchmarks, something fascinating has happened in the Cline community: Developers organically started using: - DeepSeek R1 ($0.55/M) for planning phases - Claude 3.5 Sonnet for implementation Result: 97% cost reduction on https://t.co/D2Y2yVMvU0
+
+--------------------
+
+5/ One enterprise user says it best: "MCP lets us connect our AI assistant to every part of our development pipeline. It's not just coding anymore - it's a true development partner."
+
+--------------------
+
+6/ The ecosystem is growing rapidly. Teams are building: - Self-improving systems that learn from usage - Cross-project knowledge sharing - Advanced multi-tool workflows
+
+--------------------
+
+3/ The community has already built a ton of innovative MCP servers including: - GitHub issue automation - Knowledge graph integration - API testing with Postman - Browser automation with Playwright - Database analysis tools
+
+--------------------
+
+4/ The GitHub MCP server lets Cline handle everything from file updates to repository management https://t.co/jtoV1LRapC
+
+--------------------
+
+https://t.co/WBRiCgylEv
+
+--------------------
+
+7/ This is what next-gen AI development looks like - AI assistants that can truly understand and interact with your entire development environment. Read more about it here👇
+
+--------------------
+
+2/ 🏗️ MCP servers act as intermediaries between LLMs and external tools. They're essentially APIs that let AI assistants interact with the outside world, from Git to testing to documentation. https://t.co/ViaEDQo4vb
+
+--------------------
+
+1/ The Model Context Protocol isn't just another dev tool - it's letting AI assistants break free from chat windows to directly manage your Git repos, run tests, and maintain project memory. Here's why MCP is a game-changer 🧵 https://t.co/gMDpRVnFGd
+
+--------------------
+
+Want to try this workflow? Install Cline: https://t.co/VAq921WZ7c
+
+--------------------
+
+@DevToD4 Seconding using OpenRouter, which you can use to bypass rate limits altogether. Other option would be increase your Tier with Anthropic.

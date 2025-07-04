@@ -1,0 +1,57 @@
+This is Cline's core philosophy. We're not in the business of gatekeeping inference. Our focus is on sophisticated agentic workflows -- helping you tackle complex tasks, automate the mundane, and free you up to think more architecturally and creatively.
+
+--------------------
+
+The challenge: more automation can mean less insight into what your AI agents are doing. For serious engineering teams, this isn't acceptable. Cline is committed to ensuring that as our capabilities grow, so does your ability to understand and guide the process.
+
+--------------------
+
+The future of AI in development isn't just about cheaper tokens; it's about smarter, more capable AI partners. Cline is built to be that partner, evolving with you as the power of AI becomes universally accessible. How do you see the application layer evolving?
+
+--------------------
+
+As raw compute becomes a commodity, the focus sharpens on the "application layer." It's no longer just about accessing AI, but about what you can achieve with it. How do we build tools that truly empower developers in this new landscape?
+
+--------------------
+
+@openrouter Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Why is this so effective? As @arafatkatze explained, it helps direct the LLM's attention when as you compete with the thousands of tokens already in the model's context window.
+
+--------------------
+
+Simply select the text you want to focus on in a previous message, and a "Quote" option will appear. Clicking it adds that specific snippet to your input, allowing you to ask targeted questions like "Explain this part" or "Refactor only this section."
+
+--------------------
+
+"LLM inference cost trending to zero is a question of when, not if." - @pashmerepat This isn't just an economic shift; it fundamentally changes where the value lies in AI development. We're designing Cline for the future where inference is in abundance. 🧵 https://t.co/srVIDbIZ3f
+
+--------------------
+
+As Cline moves towards a multi-agent future with tasks running in parallel, a key question arises: how do we maintain visibility and control for engineers? @pashmerepat shared some thoughts on this. 🧵 https://t.co/6TuHmN9pay
+
+--------------------
+
+@openrouter whoops, meant @OpenRouterAI 🤦
+
+--------------------
+
+By placing the precise context you care about at the end of your prompt (via the quote), you leverage how attention mechanisms often prioritize the start/end of context, leading to more focused and better results.
+
+--------------------
+
+One step we're taking is our "enhanced task card" -- a visual way to see at-a-glance what multiple Cline instances are working on. Or even managing your Cline agents remotely from your phone, keeping that human-in-the-loop feel, no matter how complex the orchestration.
+
+--------------------
+
+This vision for "absolute visibility," even in a multi-agent world, is core to Cline. It's about building powerful AI tools you can trust and collaborate with effectively. We believe this synergy is vital.
+
+--------------------
+
+Ever received a lengthy response from Cline and wished you could focus on one specific part for your follow-up? Now, you can "quote a message," a powerful way to gain precise context. Shoutout to @arafatkatze for this! 🧵 https://t.co/n2irbniZ4V
+
+--------------------
+
+@PeterDaveHello @openrouter @OpenRouterAI 🤦

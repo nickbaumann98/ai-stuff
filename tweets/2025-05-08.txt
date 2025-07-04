@@ -1,0 +1,37 @@
+Systematically managing instructions (capturing them when fresh) and context (keeping it lean and relevant, mindful of ~50% usage) transforms your AI coding. It leads to a more powerful, efficient, and aligned development experience.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Next: context management. As coding sessions get long, or you switch focus, how do you prevent AI from "forgetting" vital details or getting overwhelmed?
+
+--------------------
+
+Remember, model performance can dip after ~50% context window usage. When context gets full, or you're shifting to a new part of your project, starting a "fresh chapter" is often best. Cline's /newtask command helps here to start a new task without losing momentum. https://t.co/atSKRF0dsA
+
+--------------------
+
+You're not ready for a new task, but need to keep Cline focused and efficient. This is where compressing your current session's history helps. Cline's /smol command (or /compact) does just this. https://t.co/KV2VpmFaTg
+
+--------------------
+
+How? Capture key instructions as they emerge. After guiding AI through a pattern you plan on repeating -- that's the moment! Cline's /newrule command uses that success to create a reusable .clinerules file, so Cline consistently applies your way. https://t.co/YYKCD1GJgI
+
+--------------------
+
+Effective AI coding isn't just about the first prompt. It’s about clearly defining instructions and intelligently managing the context to get the most out of LLMs. Master these, and you shift from basic code generation to powerful, collaborative development. 🧵 https://t.co/Wofk9fTspM
+
+--------------------
+
+First, let's consider instructions. Constantly re-explaining project standards or your preferred coding patterns is frustrating and slows you down. There's a more efficient way: teach your coding partner these rules once so they stick.
+
+--------------------
+
+It summarizes the ongoing chat, reducing token load and keeping your coding partner sharp and on-point for the current objective.
+
+--------------------
+
+It begins a new session but intelligently carries over a summary and key details from your previous work, preserving momentum. But what if you're deep in a single complex task and the context window is filling up (nearing that ~50% mark)?

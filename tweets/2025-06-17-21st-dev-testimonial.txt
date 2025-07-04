@@ -1,0 +1,25 @@
+"[AI] is making stuff which is still quite generic and we're trying to push the boundary."
+
+A YC founder on why they use 21st.dev's Magic MCP with Cline to build UI.
+🧵
+--------------------
+AI code generation is powerful, but can often produce generic code that reeks of "this is an AI-generated website".
+
+It lacks taste.
+--------------------
+The 21st.dev Magic MCP for Cline solves this. It doesn't write code from scratch.
+
+Instead, it pulls from a library of high-quality, production-ready components based on your natural language description.
+
+- "responsive navbar with logo"
+- "pricing card with gradient"
+--------------------
+This gives your AI agent design taste.
+
+You get the speed of AI with the quality of a curated component library. This is how you move from "generic" to production-ready, fast.
+--------------------
+Read more about how it works in our deep-dive blog post.
+
+Have you tried using a component MCP in your workflow? Let us know.
+
+https://cline.ghost.io/beautiful-ui-components-how-to-use-21st-devs-magic-mcp-with-cline/

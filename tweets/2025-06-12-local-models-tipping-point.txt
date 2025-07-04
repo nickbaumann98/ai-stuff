@@ -1,0 +1,15 @@
+For a long time, local models were basically unusable in Cline for real work. That's starting to change in a big way. 🧵
+
+↓
+
+Here's a demo of it in action, along with the setup we used.
+
+[link-to-media]
+
+↓
+
+- Hardware: MacBook Pro (M4 Max, 36GB RAM)
+- Model: Qwen3-30B-A3B (Q3_K_L GGUF) via @LMStudioAI
+- Context: 32k tokens
+
+Model link: https://huggingface.co/lmstudio-community/Qwen3-30B-A3B-GGUF

@@ -1,0 +1,33 @@
+https://t.co/98J8A3LFU7
+
+--------------------
+
+Global Workflows are here! Your best workflows can now travel with you across all projects. Store them in ~/Documents/Cline/Workflows and they're available everywhere. Local workflows still take precedence, so project-specific customizations remain intact. https://t.co/LnKPcuNTMe
+
+--------------------
+
+What's new in 3.17: - Global Workflows (share across all projects) - Claude 4 support across all providers - Redesigned settings interface - Nebius AI Studio integration - Smart Act mode prompts - MCP server fixes Solid improvements across the board.
+
+--------------------
+
+Get v3.17 in VS Code, Cursor, or Windsurf marketplace.
+
+--------------------
+
+Also new: @nebiusai integration! Thanks to Aktsvigun for adding another provider option to Cline's growing ecosystem. More choice = more flexibility for your specific needs.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo77wAB https://t.co/tutYLK3RjH
+
+--------------------
+
+Quality of life improvements: - Smart Act mode prompts with hotkey suggestions - Fixed MCP server configuration issues - Requesty provider fixes - All advanced settings now in the settings page Small touches that make daily development smoother. https://t.co/MbLJSEnzxa
+
+--------------------
+
+The settings page got a major redesign! Thanks to Yellow Bat for this contribution! https://t.co/bNFYVTDpex
+
+--------------------
+
+🌎 Global Workflows &amp; more improvements in Cline v3.17 Here's what's new 🧵

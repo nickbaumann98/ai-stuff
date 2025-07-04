@@ -1,0 +1,97 @@
+Some Cline are reporting formatting issues and finding it less reliable than Sonnet 3.7 for complex tasks. So should you try GPT-4.1? 👇
+
+--------------------
+
+Ready to build workflows that beat context limits? Learn how to implement this with `.clinerules` and the `new_task` tool in our docs: https://t.co/80q7E4emll
+
+--------------------
+
+One our Cline devs "loaded it with 600k context and it was still able to approach the task at hand without getting lost". In this case, "this amount of context would have been too much for Gemini 2.5 Pro and way too much for 3.7 Sonnet." In itself, this use case is compelling.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+The magic happens when you combine these in `.clinerules`. You define the trigger (e.g., "if context 50%, propose handoff") and exactly what context Cline should package using `new_task`. This creates an automated, proactive context management workflow. https://t.co/M1TBJM7UJt
+
+--------------------
+
+Impressions confirm 4.1 is "blazing fast compared to claude, and cheaper." Many see a "good speed/quality ratio," noting that while it "does not seem smarter than sonnet 3.7," the "speed and price is a good trade off." It's a clear play for market share across different segments.
+
+--------------------
+
+The first piece is awareness: Cline is aware of its own context window usage (visible in `environment_details`). It knows how much "memory" is being used relative to the model's limit (e.g., 105k/200k tokens = 53%). https://t.co/zuuOYrZt1x
+
+--------------------
+
+One our Cline devs "loaded it with 600k context and it was still able to approach the task at hand without getting lost". In this case, "this amount of context would have been too much for Gemini 2.5 Pro and way too much for 3.7 Sonnet." In itself, this use case is compelling.
+
+--------------------
+
+Impressions confirm 4.1 is "blazing fast compared to claude, and cheaper." Many see a "good speed/quality ratio," noting that while it "does not seem smarter than sonnet 3.7," the "speed and price is a good trade off." It's a clear play for market share across different segments.
+
+--------------------
+
+GPT-4.1 is here. One of our devs claims it handles large context tasks (600k tokens+) better than Gemini or Sonnet. We looked at how compares to Gemini 2.5 Pro and Claude 3.7 Sonnet price, speed, &amp; coding performance, + insights from our power users. Here's the breakdown: 🧵 https://t.co/y0sIKsRTNf
+
+--------------------
+
+The big draw is speed and cost. Cline users report GPT-4.1 models are "blazing fast," noticeably quicker than Claude 3.7. Pricing is aggressive, undercutting premium rivals.
+
+--------------------
+
+- Yes, care if speed or cost are key. `Mini`/`Nano` offer great value. - Be cautious if peak quality is non-negotiable (Claude 3.7/Gemini 2.5 may still be better). - We believe 4.1 may excel at tasks requiring a large amount of context -- consider it for this use case.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+https://t.co/GvGwRpglAj
+
+--------------------
+
+The second piece is the `new_task` tool. This allows Cline to cleanly end the current session and immediately start a fresh one, crucially preloading it with specific context you define (summaries, next steps, file states, etc.). https://t.co/k3Ai9uoNvA
+
+--------------------
+
+OpenAI claims improvements, but benchmarks show GPT-4.1 (54.6% SWE-bench) trails Gemini 2.5 Pro (63.8%) and Claude 3.7 Sonnet (62.3%).
+
+--------------------
+
+- Yes, care if speed or cost are key. `Mini`/`Nano` offer great value. - Be cautious if peak quality is non-negotiable (Claude 3.7/Gemini 2.5 may still be better). - We believe 4.1 may excel at tasks requiring a large amount of context -- consider it for this use case.
+
+--------------------
+
+The new `mini` and `nano` tiers drive this, offering huge cost savings and challenging even budget options like DeepSeek. But what about code quality? https://t.co/YvuGwsQSns
+
+--------------------
+
+The outcome? Cline intelligently manages its own context before performance degrades. No more manual resets or tedious re-explaining. For complex, multi-session tasks, it feels like working with an agent that has persistent memory.
+
+--------------------
+
+Large context windows aren't a silver bullet. Models can still struggle or "forget" past ~50% usage, degrading performance. Plus, manually re-explaining project context each time you restart is a major workflow killer.
+
+--------------------
+
+The big draw is speed and cost. Cline users report GPT-4.1 models are "blazing fast," noticeably quicker than Claude 3.7. Pricing is aggressive, undercutting premium rivals.
+
+--------------------
+
+SICP taught us to write code for people. But what happens when AI agents are the primary readers? We need to adapt. Thoughts from our Head of Engineering @andrinkf on why we need to evolve our practices to accommodate both human and AI readers ↓ https://t.co/gWu35rQMmr
+
+--------------------
+
+The new `mini` and `nano` tiers drive this, offering huge cost savings and challenging even budget options like DeepSeek. But what about code quality? https://t.co/hOBAakZbbp
+
+--------------------
+
+Problem: AI coding performance dips when context windows exceed 50% Solution: Combine Cline's context window awareness with the `new_task` tool + .clinerules to create a workflow that autonomously hands off tasks before hitting limits, ensuring persistent memory. A guide: 🧵 https://t.co/IzcjoYpJyE
+
+--------------------
+
+Some Cline are reporting formatting issues and finding it less reliable than Sonnet 3.7 for complex tasks. So should you try GPT-4.1? 👇

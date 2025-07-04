@@ -1,0 +1,41 @@
+OpenAI's GPT-4.1 is solid for coding, and have a 1 million token context window. It's also extremely fast. That said, we'd recommend 2.5 Pro for its better coding abilities. ($2/8 per M tokens in/out)
+
+--------------------
+
+Deepseek models are the value champions: Deepseek-V3 (128K context): Good coding performance at very low cost. About 80% of the capability for 20% of the price compared to premium models. ($.30/.88 per M tokens in/out)
+
+--------------------
+
+Note: we've found that Claude 4 Sonnet works best when interrupted as little as possible. This model is great at figuring things out and self-correcting.
+
+--------------------
+
+Quick recommendations: - Claude 4 Sonnet: Daily coding work (200K context) - Gemini 2.5 Pro: Long tasks, big files (1M context) - Gemini 2.5 Flash: Speed + large context on budget (1M context) - Deepseek models: Maximum value (128K context)
+
+--------------------
+
+Gemini 2.5 Flash (1M context) gives you the same large context but optimized for speed and MUCH lower cost. Solid performance for most tasks. ($.15/.60 per M tokens in/out)
+
+--------------------
+
+If you're using Cline, the /newtask and /smol slash commands help you work effectively even with smaller context models. You can preserve context across additional or recurring tasks without starting anew.
+
+--------------------
+
+Deepseek-R1 (128K context): Strong at reasoning and math problems (in case you're using Cline for homework). Excellent bang for your buck. ($.45/2.70 per M tokens in/out)
+
+--------------------
+
+Using Cline means having unfettered access to the best models. In the name of decision paralysis, here are the ones we recommend for your daily use among the Claude family, Gemini 2.5 Pro/Flash, OpenAI, and Deepseek models. 🧵 https://t.co/IFHQCGmlaK
+
+--------------------
+
+Claude 4 Sonnet (200K context) is the daily driver for most of the Cline team. Good at understanding complex logic and generating clean code. There are some diff/edit issues being worked through (use 3.7 if this impacts you), but it's solid for daily development work. ($3/15 per
+
+--------------------
+
+Claude 4 Opus (200K context) costs way too much for regular coding, though it might be useful for orchestrating multiple agents down the road (👀). ($15/75 per M tokens in/out)
+
+--------------------
+
+Gemini 2.5 Pro (1M context) is also really great for coding. Its massive context window lets you work on long tasks without losing track of what you did earlier, or process huge files in one go. Definitely worth considering. ($1.25/10 per M tokens in/out)

@@ -1,0 +1,143 @@
+# Model Agnosticism Tweet
+
+## Single Big Tweet (Recommended):
+
+Developers deserve uninterrupted access to the AI models they depend on.
+
+That's why Cline is built differently: you bring your own API keys and connect directly to AI providers. We literally cannot restrict your access to Claude, Gemini, GPT, or any model you choose.
+
+No middleman. No artificial limits. No corporate politics affecting your workflow.
+
+When the next breakthrough model launches, you'll have access on day one. When AI companies compete, your work continues uninterrupted.
+
+This is what true model agnosticism looks like.
+
+https://cline.bot/blog/why-we-built-cline-to-never-hold-you-hostage
+
+## Thread Option:
+
+**Tweet 1/7:**
+Yesterday, Windsurf users lost Claude access with 5 days notice because of corporate politics between Anthropic and OpenAI.
+
+This is exactly why we built Cline to be model-agnostic from day one. 🧵
+
+**Tweet 2/7:**
+Picture this: You're deep into a critical project, relying on Claude's capabilities, and suddenly your AI coding assistant is crippled because of acquisition politics you have zero control over.
+
+Free tier users lost access entirely. Even paid users face severe capacity constraints.
+
+**Tweet 3/7:**
+Here's the fundamental problem: When a tool company sits between you and the AI models, they become a chokepoint.
+
+Corporate acquisitions, partnership disputes, or business changes can suddenly restrict your access to the AI capabilities you depend on.
+
+**Tweet 4/7:**
+Cline's BYOK (bring-your-own-key) architecture means we literally CAN'T restrict your model access even if we wanted to.
+
+You pay Anthropic directly for Claude, Google directly for Gemini, OpenAI directly for GPT. No middleman. No corporate politics.
+
+**Tweet 5/7:**
+This isn't just about cost (though you do get full value for your AI spend).
+
+It's about independence. Your access to cutting-edge AI doesn't depend on our business relationships, acquisition status, or corporate politics.
+
+**Tweet 6/7:**
+Open source adds another layer of protection. Even if our company disappeared tomorrow, Cline would continue to evolve through its community.
+
+Corporate gatekeepers can't kill what they don't control.
+
+**Tweet 7/7:**
+The AI coding space is consolidating fast. More vendor lock-in situations like Windsurf are coming.
+
+The solution isn't hoping for better corporate relationships—it's building tools that can't be used as weapons in AI company wars.
+
+Read more: [blog link]
+
+## Personal Account Tweet (Nick's Account):
+
+Watching Windsurf users lose Claude access overnight is exactly why we built @cline_ai differently.
+
+When Anthropic cut them off (likely because they don't want data flowing to OpenAI), thousands of developers got screwed. 5 days notice. Projects disrupted. Trust broken.
+
+This is what happens when your coding tool becomes a chokepoint between you and AI models.
+
+With Cline, you bring your own keys. We literally CAN'T restrict your access to Claude, Gemini, or any model. No middleman. No corporate BS affecting your work.
+
+The irony? You can use Cline inside Windsurf itself. Same IDE, actual model independence.
+
+https://cline.bot/blog/why-we-built-cline-to-never-hold-you-hostage
+
+## Alternative Personal Account Version (More Direct):
+
+Corporate politics just killed Claude access for Windsurf users. 
+
+Anthropic doesn't want their data flowing to OpenAI (who's acquiring Windsurf), so they pulled the plug. 5 days notice. Developers caught in the crossfire.
+
+This is EXACTLY why @cline_ai uses BYOK. We can't restrict your model access even if we wanted to. You pay providers directly. No middleman that can be pressured, acquired, or cut off.
+
+Your AI access shouldn't depend on which companies are beefing this week.
+
+https://cline.bot/blog/why-we-built-cline-to-never-hold-you-hostage
+
+--------------------
+
+# What Makes a Coding Agent Thread
+
+Here's what actually happens under the hood when you ask Cline to "add a button to the homepage." 🧵
+
+Most developers think AI coding tools just respond to prompts. But true coding agents work through recursive execution - the model itself decides what to do next, which tools to call, and when it's finished.
+
+Let me walk you through the actual process:
+
+**Step 1: Exploration**
+Cline starts by calling the list_files tool to understand your codebase structure. It's not following a script - the model autonomously decides this is the logical first step.
+
+**Step 2: Investigation** 
+With the file structure mapped, Cline recursively calls read_file to examine homepage.tsx, understanding the current implementation and identifying exactly where the button should go.
+
+**Step 3: Implementation**
+Armed with context, Cline calls write_to_file to generate the necessary code changes, adding the button with appropriate styling and functionality that fits your existing patterns.
+
+**Step 4: Completion**
+After making changes and confirming no errors occurred, Cline calls attempt_completion, terminating the recursive loop. The model itself decided the task was complete.
+
+This is fundamentally different from ChatGPT, which is a fine-tuned model for chat applications. ChatGPT responds to prompts but doesn't independently orchestrate complex workflows or make autonomous decisions about multi-step tasks.
+
+The key insight: each decision (what tool to use next, how to interpret results, when to stop) is made autonomously by the model based on current context and its understanding of the task.
+
+In practice, Cline often performs many more recursive cycles than this example. The model might read documentation, run tests, check for conflicts, or explore related files - all decided dynamically.
+
+This recursive execution engine is what people mean when they describe their "AGI moment" with Cline. It's not just generating code suggestions - it's functioning as an autonomous coding partner.
+
+The three building blocks that make this possible:
+- Model (the brain making decisions)
+- Tools (the hands taking action) 
+- Instructions (the guidance defining behavior)
+
+Unlike black box tools, Cline's open-source transparency lets you see every file read, every tool called, every decision made. This isn't just about trust - it's about maintaining human oversight over sophisticated automation.
+
+Read the full breakdown of what makes a coding agent: https://cline.bot/blog/what-makes-a-coding-agent
+
+--------------------
+
+# Plan Mode Thread
+
+Imagine catching AI coding errors *before* they happen. One user told us Cline's Plan Mode helped them catch issues they "would have had to go back after the code was already written and fixed" - things like comment style and processing order. 🧵
+
+Most AI coding tools operate on "fire and forget" - you give a prompt, cross your fingers, and hope the output matches your vision. Then you spend time debugging misaligned code.
+
+Plan Mode flips this entirely.
+
+Plan Mode creates space for a true "brain dump" - both ways. You share your full intent, constraints, and vision. Cline explores your codebase and shares its understanding back. Together, you build mutual comprehension *before* any code gets written.
+
+This isn't Cline just telling you what it plans to do. It's you fully articulating what you actually want, and Cline demonstrating it truly understands your project's nuances. [link-to-media]
+
+Think of it as briefing an intelligent partner who asks clarifying questions, explores your existing patterns, and collaboratively shapes the approach with you.
+
+The result? Code that's more precise, relevant, and harmonized with your specific needs because the AI actually understands your intent, not just your prompt.
+
+As that user put it: "Man, I caught a bunch of stuff there that I would have had to go back after the code was already written and fixed."
+
+Plan Mode transforms AI coding from hoping the AI guesses right to ensuring it genuinely understands what you're building.
+
+Try Plan Mode in Cline and experience the difference: https://docs.cline.bot

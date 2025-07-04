@@ -1,0 +1,33 @@
+Strange prompting technique # 20593: Tell Cline he’s the greatest designer alive. We’ve found that boosting Cline’s confidence leads to better results. In this demo, we asked him to “beautify” a frontend with 21st .dev components. In a real-world scenario, we’d flesh out this https://t.co/3DcvyWVpVY
+
+--------------------
+
+What's the real value of an AI coding agent? Not the sticker price, but how drastically it accelerates your development workflow. When engineering time costs $75-150/hr, the economics become crystal clear: &gt;Average developer daily cost: $600-1,200 &gt;Cline with Claude 3.7 Sonnet
+
+--------------------
+
+Btw here are the docs on Memory Bank: https://t.co/cK0BqyEoLs
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+Here's our full analysis: https://t.co/dUCdiO7wP3
+
+--------------------
+
+The most effective MCP server monetization strategy we've observed is remarkably straightforward: solve a specific pain point, offer limited free access, then charge a reasonable monthly fee. https://t.co/kzv9laKkYC
+
+--------------------
+
+༼ つ ◕_◕ ༽つ give people full access to the models ༼ つ ◕_◕ ༽つ
+
+--------------------
+
+Memory Bank isn't about minimizing tokens -- it's about maximizing project efficiency. Yes, reading memory files costs tokens. Cline users confirm this. But they also report: &gt;More context = fewer hallucinations &gt;Fewer hallucinations = less rework &gt;Less rework = fewer total https://t.co/42krK1pchR
+
+--------------------
+
+🎉 Cline 1M Bash – 1M Installs. Let’s Celebrate! Good drinks, great people, and (not too much) AI chatter. No talks or panels—just a solid mix of SF’s AI coding crew. &gt;First round’s on us &gt;Food’s covered &gt;DJ, drinks, &amp; good vibes &gt;Woodbury in SOMA | Fri Mar 28, 6PM RSVP 👇 https://t.co/CqdJXzY3pJ

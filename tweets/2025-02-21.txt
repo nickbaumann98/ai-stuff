@@ -1,0 +1,49 @@
+6/📊 Supabase Why it matters: - Direct PostgreSQL database access - Smart schema exploration - SQL query validation - Secure read-only operations Now Cline can access Supabase from within your IDE https://t.co/gOjkk0VaBx
+
+--------------------
+
+9/📝 Notion Why it matters: - Complete workspace control - Database &amp; page management - Block &amp; comment handling - User permission management Cline can reference internal notes and knowledge bases while you're coding https://t.co/AWkpRaEdRA
+
+--------------------
+
+1/🔄 Google Drive Why it matters: - Instant file search &amp; retrieval - Auto-converts Google Docs to Markdown - Exports Sheets to CSV seamlessly - Transforms Slides to PNG - Perfect for referencing and updating internal documentation while building with Cline https://t.co/C9nVBP4IXg
+
+--------------------
+
+5/🎨 Figma Why it matters: - Accesses design data directly - Generates accurate code from designs - Simplifies API responses - Optimizes design-to-development workflow Bridge the gap between design &amp; code https://t.co/GzEKvg3Ebv
+
+--------------------
+
+Adding MCP plugins to Cline: Simple as 1-2-3-4 Installation steps: 1. Click the install button 2. Let Cline do its magic 3. Drop in your API key 4. Wait for the success message What makes it great? Cline automatically tests the MCP server connection before finishing - no manual https://t.co/9VVduiETWq
+
+--------------------
+
+Want to try this in Cline? Get Cline today and add the Firecrawl MCP Plugin: https://t.co/VAq921WZ7c https://t.co/th3F9qoElU
+
+--------------------
+
+8/🔍 Perplexity Research Why it matters: - Deep documentation search - Smart API discovery - Deprecation analysis - Chain-of-thought reasoning Cline can research docs during development so he never gets stuck https://t.co/LqBoSWBTom
+
+--------------------
+
+2/🧠 Knowledge Graph Memory Why it matters: - Creates persistent memory across conversations - Builds relationship maps between topics - Remembers user preferences &amp; context - Gets smarter with each interaction Your AI actually remembers you! https://t.co/a8IpDRHasa
+
+--------------------
+
+🚀 Massive Update: Cline's MCP Marketplace is LIVE! MCP servers are plugins that connect Cline to your favorite tools, enabling direct AI interaction with your daily apps. With just one click, transform Cline into a super-powered workspace companion. Let's explore 10 of our https://t.co/eqroWAog43
+
+--------------------
+
+yes
+
+--------------------
+
+Want to clone a website's design DNA? 🧬 @firecrawl_dev MCP plugin (just added to MCP Marketplace) for Cline lets you: • Feed it any website for inspiration • Extract design patterns • Analyze content structure • Map navigation flows Real example: - Analyzed https://t.co/s7YBylLwvG
+
+--------------------
+
+7/📋 Linear Why it matters: - Comprehensive project tracking - Team task management - Issue organization - Work item updates Cline can update project issues on the fly https://t.co/7jp8ljpPNR
+
+--------------------
+
+4/🎥 YouTube Subtitles Why it matters: - Instant subtitle extraction - Enables video content analysis - Perfect for content research - Automates video summarization - Transform video content into actionable insights https://t.co/0GTq9WJaAa

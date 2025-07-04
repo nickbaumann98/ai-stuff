@@ -1,0 +1,21 @@
+MCP Servers actually don't have to be difficult to build at all -- you can build and start using them all within Cline in a minute 👇
+
+--------------------
+
+1/ First, find your MCP server. You've got options: - Official MCP servers repo - Awesome-MCP list - https://t.co/CAn7mYll1B - https://t.co/1NxBeJUXrp Pro tip: Look for servers with recent commits and clear documentation. https://t.co/PqtZyLPbbP
+
+--------------------
+
+This is awesome! Thanks to @code and @Microsoft for putting Cline on the featured page for VS Code Extensions! Everybody in the world should be able to code, and we appreciate your help getting us closer to achieving that mission! https://t.co/Fnr0chSp9C
+
+--------------------
+
+Four (4) Cline commands that will change how you code with AI. No more context switching, just smart context management. Here's how: 🧵 https://t.co/npoq8T5d67
+
+--------------------
+
+MCP servers are like giving your dev tools steroids. They let your AI assistant actually USE your tools instead of just talking about them. Here's how to build using Cline one in &lt; 1 minute: 🧵 https://t.co/tUmMho2u29
+
+--------------------
+
+Straw poll says 3.5 Sonnet is still king 👑 https://t.co/fZPC4julky

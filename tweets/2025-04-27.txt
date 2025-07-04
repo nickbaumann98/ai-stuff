@@ -1,0 +1,29 @@
+Now available in the MCP marketplace: Official GitHub MCP Server Automate your @github workflows directly with Cline. Manage issues, pull requests, and repository tasks using natural language, keeping your development flow uninterrupted. https://t.co/8Finhowjgn
+
+--------------------
+
+Now available in the MCP marketplace: Webflow MCP Server Connect Cline directly to @webflow's Data APIs. Developers can now automate CMS updates, site configurations, and more using natural language within their IDE, streamlining Webflow management. https://t.co/QlWf42rBK2
+
+--------------------
+
+For clarification, with Cline's latest release you can compress the current context window and continue in the same task by using the /smol or /compact slash commands
+
+--------------------
+
+Now available in the MCP marketplace: PlanetScale MCP Server Interact with your @PlanetScale database directly using Cline. Developers can inspect schemas and run read-only queries with natural language, bringing database insights into their development workflow. https://t.co/JciyaA7bN6
+
+--------------------
+
+Now available in the MCP marketplace: Official Auth0 MCP Server Manage your @auth0 tenant directly using Cline. Developers can automate app configuration, API management, and Action deployment with natural language, streamlining authentication workflows. https://t.co/0cPM2tzZqJ
+
+--------------------
+
+Now available in the MCP marketplace: Pinecone MCP Server Interact with your @pinecone vector database directly using Cline. Developers can manage indexes, perform vector searches, and build RAG applications using natural language, simplifying AI development. https://t.co/4FoHihYbRI
+
+--------------------
+
+Now available in the MCP marketplace: Cline Community MCP Server Report issues or feedback directly to the cline/cline GitHub repo using Cline. Streamline your contribution workflow and help improve Cline without interrupting your coding. Your bug reports are much appreciated! https://t.co/R5DF1TlrZc
+
+--------------------
+
+/smol or /compact?

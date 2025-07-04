@@ -1,0 +1,21 @@
+🔍 The Sentry MCP Plugin: Your AI Debugging Companion 👋 Hey developers! Say goodbye to dashboard diving and hello to conversational debugging with the Sentry MCP plugin for Cline. Here's what makes it awesome: 🚨 Error Tracking Made Simple "List all new errors in the last 24 https://t.co/gdkMDU0tQx
+
+--------------------
+
+Today we added anonymous telemetry in Cline, designed to help us better understand usage patterns and make data-driven improvements to our open-source coding agent. This opt-in system collects only anonymous, aggregated data via PostHog—never your code, prompts, or personal
+
+--------------------
+
+Retweeting for posterity's sake You can use Cline in the right pane 🫡
+
+--------------------
+
+Ever hit that frustrating moment when your API calls seem perfect, but the data isn't there yet? That's where the Sleep MCP plugin comes in — it's the developer's secret weapon for handling those tricky timing issues. Here's what makes it fascinating: When you create a resource https://t.co/YzA87XtMFU
+
+--------------------
+
+Update: 3.5 Sonnet no longer on top It's been replaced by 3.7
+
+--------------------
+
+800k installs 🫡 Thanks to everyone in the Cline community who's helped us get this far! We've got so much more in store for you all ❤️

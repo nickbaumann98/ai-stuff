@@ -1,0 +1,45 @@
+A user's take on Cline's 'F U, I'll do what I want' approach: "What Cline has going for it is that it will dive deeper than any other solution I've used. I can walk into a mono-repo I've never seen and have Cline take a deep dive, giving me a full architectural breakdown. Sure, https://t.co/xJBGN9YTmh
+
+--------------------
+
+🚀 Cline 3.2.13 just dropped with massive model additions: - 3 new Gemini 2.0 models (up to 2M context) - All @MistralAI API models - @LiteLLM provider support More providers = more options = better tools for your specific needs. ⚡️ https://t.co/7Zn8rsF2ei
+
+--------------------
+
+2/ The Unix rewrite proved something profound: Operating at a higher level of abstraction isn't about being lazy. It's about focusing your cognitive load on problems that matter. Watch how Cline lets developers think purely in systems: https://t.co/LAoR93llQq
+
+--------------------
+
+Every AI model trying to beat Claude 3.5 Sonnet at coding since July 2024 https://t.co/4b79QeUq9z
+
+--------------------
+
+3/ Just as C abstracted away memory management, Cline abstracts away implementation details. The result? Engineers can finally focus purely on system design and architecture. Your limiting factor was never typing speed. It was thinking speed. https://t.co/LLGiv2XsXS
+
+--------------------
+
+@karpathy https://t.co/OBd1G9ws1I
+
+--------------------
+
+🚀 Just added three new Gemini 2.0 models to Cline: &gt;Pro Experimental: 2M context + best coding performance &gt;Flash-001: 1M context + multimodal &gt;Flash-Lite: Cost-efficient with same context Each crushes benchmarks in its lane. Pick your weapon.⚡️ https://t.co/nqMGOl4GoY
+
+--------------------
+
+What @karpathy calls 'vibe coding' isn't just a style -- it's the next fundamental abstraction layer in computing. In 1973, Unix devs sparked outrage by rewriting assembly in C. We're seeing the same reaction to AI-driven development. Here's why this matters 🧵 https://t.co/byWVTMilQA
+
+--------------------
+
+1/ Every major abstraction in computing faced the same pushback: Assembly → 'But what about memory control?' C → 'Too slow, need assembly' Python → 'Real engineers use C++' React → 'Just write vanilla JS' AI → 'You don't understand the code' They were wrong every time.
+
+--------------------
+
+5/ Want to join in on the conversation? Join the community of builders who are on the bleeding-edge of building with AI: Discord: https://t.co/qrEzhiooh2 r/cline: https://t.co/RlWwJO5TKf
+
+--------------------
+
+The v0 → Cline hack most AI engineers don't know about yet. Transform your @v0 prototype into a structured development project in 2 min: 1. Copy the 'Add to Codebase' command 2. Open Cline and paste: 'Add this project from v0, investigate it, then ask me questions about https://t.co/zOQO7VDXPO
+
+--------------------
+
+4/ We're witnessing the same pattern that's played out for 50 years: 1. New abstraction emerges 2. Veterans say 'you're losing control!' 3. Productivity wins 4. It becomes the new normal The only question is: which side of history do you want to be on?

@@ -1,0 +1,45 @@
+4/ Perplexity MCP Server Research that goes beyond basic search. Watch Cline synthesize information from multiple sources, cross-reference data, and generate insights - all through natural conversation. https://t.co/FJZhBGAJXr
+
+--------------------
+
+1/ The mistake most people make is treating AI like a magic code generator. They paste requirements, get code back, and get frustrated when it doesn't work perfectly. That's like trying to pair program with someone who has amnesia. You're setting yourself up for failure.
+
+--------------------
+
+Actually, starting from scratch is Cline's superpower. Here's exactly how you can do it using Plan mode &amp; Memory Bank: 🧵 https://t.co/2Cpr6Nf4ot
+
+--------------------
+
+"MCP-inception" Watch Cline use one MCP tool (Perplexity) to troubleshoot building another (Firecrawl) (what if it was easier to click-add MCP servers from within Cline? 👀) https://t.co/NRvf4HbKcJ
+
+--------------------
+
+Each new MCP server makes Cline more capable. But the real magic? Cline can read any API docs and build new MCP servers on its own. Try it: https://t.co/VAq921WrhE
+
+--------------------
+
+Your AI shouldn't need a different integration for every tool. With MCP, Cline works like a universal remote that learns new devices instantly. But better - it can create new buttons when it needs them. Watch what this actually means: 🧵 https://t.co/odYeSIZmFt
+
+--------------------
+
+4/ Here's how effective AI-assisted development actually works: 1. Map out the architecture together 2. Identify potential edge cases 3. Create a step-by-step implementation plan 4. THEN write code No magic, just structured collaboration.
+
+--------------------
+
+2/ Instead, we split development into two modes: 1. Plan Mode: You and AI collaborate on architecture and approach. Think of it as pair programming where you're the senior engineer leading the design. 2. Act Mode: The AI executes against that plan, with you validating each
+
+--------------------
+
+Seeing a lot of hot takes about AI being "incapable" of software engineering. They're missing the point entirely. AI isn't meant to replace engineers -- it's meant to augment them. Here's how: 🧵 https://t.co/EMRDSxpDvr
+
+--------------------
+
+SF people! We're doing a meetup in 12 days -- in attendance will be the people who are defining AI codegen space (there will also be 🍕. Spots are limited -- reserve yours now 👇
+
+--------------------
+
+1/ Notion MCP Server From "I need a product roadmap" to a fully structured database in seconds. No API keys. No complex setup. Just Cline naturally working with your tools. https://t.co/L93l5eTvUN
+
+--------------------
+
+Follow up -- if you're already using MCP servers, tell us how they fit into your workflow 👇

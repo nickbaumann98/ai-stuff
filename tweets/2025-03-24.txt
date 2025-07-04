@@ -1,0 +1,77 @@
+3/ DeepSeek V3-0324 vs Claude 3.7 Sonnet: - Context Window: 128K tokens (vs 200K tokens) - Generation speed: ~60 tokens/second
+
+--------------------
+
+1/ DEFAULT ROUTING Balances price and performance for everyday coding tasks. This is your standard option when you don't have specific constraints. Good for: Regular development work, code reviews, and day-to-day assistance without special requirements. https://t.co/kHqRkKCj2a
+
+--------------------
+
+5/ On top of all that, it's open-source.
+
+--------------------
+
+We were well under 1 million installs when we booked or bash for this Friday, March 28. Fortunately, we hit our target with time to spare. Would've been a little awkward had we not 😅 RSVP linked below
+
+--------------------
+
+Here's the MCP server we used here btw: https://t.co/bVOb7TMhxB
+
+--------------------
+
+@_AustinCalvert_ @tristanbob 100%
+
+--------------------
+
+🚀 DeepSeek V3-0324 is now available in Cline. This model offers significant improvements for coding tasks while being up to 53x cheaper than Claude 3.7 Sonnet with competitive performance. Here's why you might want to give it a try: 🧵 https://t.co/oGVjJZN4uc
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+2/ Key improvements in V3-0324 over previous version: - 60% more specialized experts (increased from 160 to 256) - Enhanced front-end coding capabilities - Doubled compute efficiency with FP8 training - Post-training refinements for math and reasoning
+
+--------------------
+
+4/ Pricing comparison: - DeepSeek V3-0324: $0.14/$0.28 per million tokens (input/output) - Claude 3.7 Sonnet: $3/$15 per million tokens (input/output) That's 21x cheaper for input and 53x cheaper for output.
+
+--------------------
+
+2/ PRICE ROUTING Prioritizes the most cost-effective AI provider for each request, helping you conserve credits. Good for: Non-urgent projects, exploration, personal projects, and tasks where response time isn't the priority. https://t.co/dPulZ1HEvl
+
+--------------------
+
+3/ THROUGHPUT ROUTING Routes to providers with highest capacity (like DeepSeek) when you need to process large requests. Good for: Large refactoring jobs, codebase analysis, generating test suites, and handling multiple parallel requests. https://t.co/o3XjLs6Iw5
+
+--------------------
+
+4/ LATENCY ROUTING Prioritizes providers with lowest response times when speed matters most. Good for: Live coding sessions, urgent debugging, demo preparation, and those final hours before a deadline. https://t.co/QlPfqDNllJ
+
+--------------------
+
+New in Cline 3.8.0: Sort Provider Routing gives you control over how your API requests are handled. Here's a quick breakdown of each option and when to use them: 🧵 https://t.co/GXO4tyDoHN
+
+--------------------
+
+When you see that lightbulb icon, you can now choose "Fix with Cline" to instantly create a new task with your code and error context already loaded. Cline gets everything it needs to solve the problem without you having to explain what went wrong. A smarter way to handle https://t.co/nZhUQ20u9R
+
+--------------------
+
+The new "Add to Cline" right-click feature helps you manage context more efficiently as your codebase grows. Simply right-click on code, error messages, or terminal output to instantly add it to your current Cline task -- perfect for complex projects where context control is https://t.co/jfLl35xgkl
+
+--------------------
+
+https://t.co/uuWUXXFf7p
+
+--------------------
+
+1/ What makes this model special: - Mixture of Experts (MoE) architecture: only activates 37B of its 685B parameters per task - Result: 4x faster responses with lower resource usage - Practical benefit: more responsive coding assistance at a fraction of the cost
+
+--------------------
+
+@GorkaCesium a few! https://t.co/9JM7Jng5K9
+
+--------------------
+
+https://t.co/tutYLK4p9f

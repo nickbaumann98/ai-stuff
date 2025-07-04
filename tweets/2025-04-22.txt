@@ -1,0 +1,65 @@
+# Self-Improving Cline Reflection **Objective:** Offer opportunities to continuously improve `.clinerules` based on user interactions and feedback. **Trigger:** Before using the `attempt_completion` tool for any task that involved user feedback provided at any point during the
+
+--------------------
+
+Our thinking for the toggle UI: reduce this friction with a lightweight way to easily activate/deactivate rules. We wanted creating/managing rules (global or workspace, just Markdown files) to feel effortless and intuitive. https://t.co/G3BIBKWd5Q
+
+--------------------
+
+How it works: The `.clinerules` popover shows your rules. Click the toggle -- its content is instantly added to (or removed from) Cline's system prompt for the current session.
+
+--------------------
+
+Want to enact this workflow? Add this rule (`https://t.co/iH3KgvcBdo`) to your Global or Workspace `.clinerules`:
+
+--------------------
+
+What this enables: Fluidly changing Cline's operational focus mid-task. Need Cline to shift from 'code generator' to 'test writer'? Just toggle the relevant instruction sets without losing conversation history. https://t.co/nP9inqXqIR
+
+--------------------
+
+The workflow: As you work with Cline, your conversation naturally provides feedback. If Cline's behavior, guided by active `.clinerules`, needs adjustment, ask it to update *those specific rules* to incorporate your guidance. https://t.co/e3ZLr9u5Fo
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+With the rule above active, Cline will proactively ask if you want it to reflect on the interaction and suggest improvements to the `.clinerules` used during the task, making the self-improvement loop even smoother.
+
+--------------------
+
+For our full thoughts, read our blog below:
+
+--------------------
+
+The benefit? A Cline that becomes progressively more aligned with your specific needs, coding style, and project standards. It learns from your guidance, making personalization an ongoing, collaborative process.
+
+--------------------
+
+Our most recent update enables a powerful workflow: "Self-Improving Cline" Now, Cline can edit its own .clinerules based on user interactions for a given task, meaning Cline gets better and better the more you use it. https://t.co/P5TNUXufPq
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Bonus: Because `.clinerules` are just `.md` files, Cline can create and edit them for you using its file tools. Ask it to define a new workflow rule or refine an existing one based on feedback – making the system dynamic and self-improving.
+
+--------------------
+
+https://t.co/C8yFUv1vnV
+
+--------------------
+
+How it works: `.clinerules` are just markdown files containing instructions. Cline uses its standard file editing tools to modify these rules directly when you provide guidance during a task. This makes instructions dynamic, not fixed settings. https://t.co/C5Wyjfyk9k
+
+--------------------
+
+We saw many Cline users crafting different `.clinerules` to act as specialized 'instruction sets' or personas for specific tasks (e.g., 'React expert', 'API designer'). Switching between them often meant manual file juggling from a .clinerules/ and .clinerules-bank/ folders. https://t.co/EZsuYS9c4N
+
+--------------------
+
+Let's look closer at toggleable .clinerules in Cline v3.13. We'll share our design thinking (focused on simplicity) and show how you can use them to fluidly manage Cline's instruction sets for different tasks. 🧵 https://t.co/XwCWDOScse

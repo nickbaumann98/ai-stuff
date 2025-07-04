@@ -1,0 +1,46 @@
+# Grok 3 Free Access Announcement - Twitter Thread
+
+We're offering free Grok 3 access through the Cline provider for the next 2 weeks 🧵
+
+Grok 3 delivers solid performance with an Intelligence Index of 51 and 1M token context window. Normally costs $3 input/$15 output per 1M tokens.
+
+↓
+
+Here's what you need to know:
+- Free for Cline account users
+- 2-week trial period
+- Access via x-ai/grok-3-beta in Cline provider
+- 1M context window for large codebases
+- Competitive coding and reasoning capabilities
+
+↓
+
+Transparency: In exchange for free access, your conversations help improve Cline models. This includes conversational data and telemetry - we're upfront about this trade-off.
+
+↓
+
+How Grok 3 stacks up:
+- Intelligence Index: 51 (solid mid-tier performance)
+- Speed: 89.6 tokens/sec (decent for most tasks)
+- Context: 1M tokens (great for large projects)
+- Strong coding performance on LiveCodeBench
+
+↓
+
+Perfect for developers who want to try a capable model without the usual cost. Not the fastest or smartest, but reliable for most coding tasks.
+
+Get started: Sign up for a Cline account and select x-ai/grok-3-beta in your provider settings.
+
+https://cline.bot
+
+--------------------
+
+# Alternative Single Tweet Version
+
+Free Grok 3 access for Cline users - 2 weeks only! 
+
+Solid performance (Intelligence Index 51), 1M context window, normally $3/$15 per 1M tokens. In exchange for free access, conversations help improve Cline models.
+
+Try it: x-ai/grok-3-beta in Cline provider
+
+https://cline.bot

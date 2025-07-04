@@ -1,0 +1,137 @@
+@ringoapp Here's our take: https://t.co/QE8uHBOosL
+
+--------------------
+
+The server gives Cline access to key IDA Pro functionality: listing functions, accessing assembly code, viewing decompiled functions, and even modifying the analysis by adding comments and renaming variables.
+
+--------------------
+
+(we understand this may be unfortunate news for those with roommates who are aspiring DJs) https://t.co/id3Sqw6HX7
+
+--------------------
+
+The Memory Bank follows a simple hierarchy: - https://t.co/AO5oTSDr9q: Your project's foundation - https://t.co/Oj7Yuh7a2O: Business goals and user needs - https://t.co/ymJV36olaD: Architecture and technical decisions - https://t.co/RxA6EPjeOr: Your development environment
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Available now in the MCP Marketplace: Unity Bridge https://t.co/wxpMmj25Bq
+
+--------------------
+
+The workflow is elegant: 1. Cline reads Memory Bank at session start 2. Development work happens normally 3. Documentation updates after significant changes 4. Full context preserved for next session
+
+--------------------
+
+IDA Pro is the industry standard tool for reverse engineering compiled binaries when you don't have source code. This integration lets Cline interact with binary analysis workflows.
+
+--------------------
+
+One of our users connected Cline to IDA Pro, letting it help crack binary puzzles and analyze software without source code. Imagine having Cline assist you in deciphering the cryptic assembly code inside compiled programs -- that's what this experimental integration enables. 🧵 https://t.co/mfD26C4J2j
+
+--------------------
+
+@baterikursu https://t.co/V5nF6OXwV7
+
+--------------------
+
+Available now in the MCP Marketplace: Browser Use https://t.co/kFRxfagqCN
+
+--------------------
+
+Every time you start a new task, you waste time re-explaining your project, tech stack, and architecture. What if Cline could maintain perfect memory of your project without filling up context windows or resetting?
+
+--------------------
+
+1/ First, you'll need to get a Gemini API key: - Go to Google AI Studio (https://t.co/q4oWocPzhq) - Sign in with your Google account - Click "Get API key" in the top-left corner - Select "Create API key" and choose "Create in new project"
+
+--------------------
+
+4/ While Gemini 2.5 Pro is 100% free, it's very likely you wil experience rate limiting while using it at this time.
+
+--------------------
+
+4/ Note;
+
+--------------------
+
+Memory Bank is a self-documenting system built right into your codebase. It uses structured markdown files to create a persistent memory that survives between sessions and across context resets. https://t.co/QjcwC6U9aF
+
+--------------------
+
+"Crackmes" are deliberately created puzzle programs used to practice reverse engineering skills - typically requiring you to find a password or bypass protection. This tool helps Cline assist in solving these challenges by analyzing code patterns.
+
+--------------------
+
+Between tasks, all context gets wiped away. It's like working with a genius who gets amnesia every 15 minutes. We've updated our Memory Bank system to use fewer tokens while maintaining project memory across sessions so Cline has persistent memory. Here's how it works: 🧵 https://t.co/83NruwHf1p
+
+--------------------
+
+This continues with: - https://t.co/mSk5YGNXrS: Current state and insights - https://t.co/VVz0VXYBrE: Project status and next steps All working together to maintain perfect context between sessions. https://t.co/nyiXb1jLGb
+
+--------------------
+
+We're gonna see if Cline can DJ this one https://t.co/uyi3hugx5m
+
+--------------------
+
+2/ After getting your API key, open Cline and select "Google Gemini" as your API Provider in settings. Past in your Gemini API Key Then, select 'gemini-2.5-pro-exp-03-25' as the model Note: though rate limited, this model is 100% free to use https://t.co/XOOqfn6U26
+
+--------------------
+
+What makes Memory Bank special: - Forces automatic documentation - Maintains context between sessions - Everything is in your codebase - No proprietary features needed And it's completely iterable -- you can tweak it to fit your codebase and your workflow.
+
+--------------------
+
+Available now in the MCP Marketplace: Ableton Live https://t.co/QgmhG2Nu1W
+
+--------------------
+
+https://t.co/uuWUXXFf7p
+
+--------------------
+
+https://t.co/uuWUXXFf7p
+
+--------------------
+
+@douglasfugazi right now https://t.co/DBNEtDBOfC
+
+--------------------
+
+In practice, this means Cline can help understand what's happening in assembly code, suggest better function and variable names, and maintain context when working through complex binaries.
+
+--------------------
+
+Cline now supports Gemini 2.5 Pro -- here's how you can use it in Cline for free: 🧵 https://t.co/ZfITPRCxOu
+
+--------------------
+
+We're having a party on Friday. You should come. (rsvp below) https://t.co/kKPEapnY15
+
+--------------------
+
+3/ Not ready to set up a Google account? You can also use Gemini 2.5 Pro through OpenRouter: Get an OpenRouter API key at https://t.co/DYcQCxSnhC Select 'OpenRouter' as your API Provider &amp; paste in your key Select 'google/gemini-2.5-pro-exp-03-25:free' https://t.co/oZxUAoWGyD
+
+--------------------
+
+Want to try Memory Bank? Add the custom instructions to Cline and watch how it transforms your development workflow. Documentation available here: https://t.co/IyDJNlINS9
+
+--------------------
+
+The project is open source and available at https://t.co/OYPecoHBgJ if you want to explore how it works.
+
+--------------------
+
+Some of the more powerful commands include: - decompile_function - View C-like pseudocode - disassemble_function - Read raw assembly - set_decompiler_comment - Document code understanding - rename_local_variable - Improve code readability
+
+--------------------
+
+Here's how it works: When you first use Memory Bank, Cline creates a memory-bank/ directory with documentation files. Before any work begins, Cline reads these files to rebuild full context of your project. https://t.co/dSfQwvKjhc
+
+--------------------
+
+What makes this project interesting is how it demonstrates Cline's extensibility beyond traditional coding tasks. Reverse engineering requires specialized knowledge that Cline can now help with.

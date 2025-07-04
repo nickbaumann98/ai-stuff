@@ -1,0 +1,20 @@
+Claude Max subscribers: you can use your subscription in Cline instead of pay-per-token.
+
+Settings → Add Claude provider → select "Claude Max subscription" → add your Claude CLI path
+
+↓
+
+Find your Claude CLI path:
+
+Mac/Linux: which claude
+Windows CMD: where claude  
+Windows PowerShell: Get-Command claude
+Cross-platform: command -v claude
+
+Use what you're already paying for.
+
+--------------------
+
+Date: 2025-06-23
+Topic: Claude Max subscription integration with Cline
+Type: Thread (2 tweets)

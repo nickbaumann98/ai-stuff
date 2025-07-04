@@ -1,0 +1,53 @@
+What’s the new local Chrome connection for? Debug faster: Cline inspects elements and logs in your active session to fix bugs without switching context. Automate tasks: Cline uses your logins to operate tools like email and PM apps—no re-authentication needed.
+
+--------------------
+
+Some experience it reporting tasks complete without actually coding, or feeling like it got dumbed recently. Consistency seems to be a key issue during this alpha phase.
+
+--------------------
+
+It's an intriguing model worth testing while it's free in Cline, but manage expectations—performance can vary.
+
+--------------------
+
+Cline 3.10 is here! The standout feature? Seamlessly link Cline to your active Chrome browser through remote debugging. Say goodbye to sessionless browsing -- Cline now operates dynamically within your actual browser. 🧵 https://t.co/rBPre460Ts
+
+--------------------
+
+We've added a "New Task" tool: Cline can create new tasks using context from the current conversation, allowing you to maintain task flow while opening a new context window. Try using .clinerules to suggest that Cline "start a new task when the context window is 50% full."
+
+--------------------
+
+Even more -- Access private content: Cline summarizes information from logged-in sites or dashboards using your authenticated session, eliminating the need for manual copy-pasting. https://t.co/PmzlBjgxRE
+
+--------------------
+
+New in 3.10: Need to give Cline full autonomy? We've added "Enable all commands" to the Auto-approve options, allowing you to put Cline in "YOLO" mode. Use with caution! https://t.co/WOJm2bAvE7
+
+--------------------
+
+Under-the-hood improvements for smarter context handling: Cline now intelligently removes unnecessary context, enhancing narrative clarity and performance while reducing looping on lengthy tasks.
+
+--------------------
+
+We've also added QoL enhancements: - Drag &amp; Drop Context: Drag files/folders onto chat (hold Shift) for instant context building. - MCP Modal: Quickly enable/disable MCP servers directly from the chat input. - CMD+' Shortcut: Add selected code/text to chat instantly
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+One user described its brevity as potentially lazy, but in a good way, compared to overly verbose models. However, others find it frustrating. Reports mention it stopping all the time, needing constant prompting—you need to babysit.
+
+--------------------
+
+On the plus side, users report Quasar is really good at following instructions and tool use. Some find it works nicely for agent systems and seems faster than Gemini 2.5 Pro Exp.
+
+--------------------
+
+Quasar Alpha is free to use in Cline via @OpenRouterAI, boasting a 1M token context and strong coding capabilities. But while the specs look impressive, early user reports paint a mixed picture of its real-world performance. Let's look at the pros and cons people are seeing. https://t.co/zIT6ZaFpsZ
+
+--------------------
+
+We hope you enjoy version 3.10 and can't wait to see what you build with the latest release of Cline. View the changelog here: https://t.co/2jyrCvJ4U8

@@ -1,0 +1,53 @@
+Cline v3.12 focuses on refining the core experience: faster edits, quicker model selection, and better control. Update via VS Code Marketplace. Changelog: https://t.co/2jyrCvJ4U8
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Quick access boost: You can now mark your favorite models in the Cline &amp; OpenRouter providers. Your top choices appear right at the top of the list. https://t.co/pnks4C99WD
+
+--------------------
+
+Cline v3.12 is out, and it just got a lot faster 💨 We've significantly boosted performance for applying diff edits, especially noticeable in large files -- making the editing process feel much faster. https://t.co/I40cQAHkN9
+
+--------------------
+
+NYC Cline folks we'll see you next week 🌎 ↓
+
+--------------------
+
+https://t.co/jv6BbeMMub
+
+--------------------
+
+We also added a small indicator in chat showing the number of edits Cline is making for better transparency. https://t.co/BJkYuI1zEU
+
+--------------------
+
+More control over safety: New auto-approve settings let you specifically disable Cline's ability to read/edit files outside your current workspace, unless you explicitly approve. https://t.co/PJg39cvWJe
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Working with large files in Cline just got a lot faster. We've significantly boosted performance for applying diff edits in v3.12, making the process much faster, especially when dealing with numerous changes. Iterate quicker without the lag. https://t.co/5um5GgS0Qc
+
+--------------------
+
+We've also added greater transparency, allowing you to see exactly what edits Cline made. https://t.co/2ZivCNVXq6
+
+--------------------
+
+Also in v3.12: - Streaming &amp; reasoning effort support for Grok 3 Mini. - Easier MCP server settings access. - Ollama provider improvements (retries, timeouts, errors - thanks `suvarchal`!). - Bug fixes for browser tool results, checkpoints &amp; more.
+
+--------------------
+
+Tired of scrolling through model lists? Cline v3.12 introduces Model Favorites for Cline &amp; OpenRouter providers. Just click the star to pin your preferred models to the top for quick access. https://t.co/f6CrU1fzHj

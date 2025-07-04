@@ -1,0 +1,17 @@
+AI's architectural obsession? Symmetry (with a hint of central command). Blender's MCP server allows you to create 3D worlds using Cline. Check it out now in MCP Marketplace. https://t.co/7kqVKd1JuA
+
+--------------------
+
+New in Cline 3.7.0: The .clinerules folder -- a better way to organize your project rules. Here's how you can implement a modular rules system that transforms how Cline understands your projects: 🧵 https://t.co/i5gLbz1KDg
+
+--------------------
+
+"5x force multiplier" How an SF-based sports analytics startup scaled their engineering team with Cline: 🧵
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+Engineers using Cline consistently report completing tasks in a fraction of the time it would normally take. This isn't magic -- it's what happens when frontier AI models can actually see and understand your entire codebase instead of working with limited context. From

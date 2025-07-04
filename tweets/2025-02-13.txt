@@ -1,0 +1,113 @@
+This is how you use docs to your advantage with Cline 👇
+
+--------------------
+
+5/ Key Benefits 🎯 - No more repeating project setup - Consistent development patterns - Self-documenting projects - Perfect context preservation - Works with any tech stack - Scales with project size
+
+--------------------
+
+Just added AWS Bedrock support in Cline! Use Claude 3.5 Sonnet directly in your editor through your AWS infrastructure. Complete privacy, your environment, your rules. Here's how you can get started (full guide linked) 👇 https://t.co/nozbny0rqq
+
+--------------------
+
+7/ The future? Imagine AI that can: - Use your company's internal tools - Learn new apps just by reading docs - Build its own integrations - Share them with others This isn't just another protocol. It's the future of AI tool integration.
+
+--------------------
+
+3/ When Cline uses a Notion MCP server, it's like this: - Server: "Here are the tools you can use" - Cline: "I see create_database, I need X, Y, Z info" - Server: "Cool, I'll handle the API calls" https://t.co/rBqtdP8sW5
+
+--------------------
+
+Want to use o3 in Cline? @OpenRouterAI just added support for OpenAI's new models: 🧠 o3-mini (fast at advanced reasoning) 👾 o3-mini-high (great at coding and logic) Use them in Cline via OpenRouter today 👇 https://t.co/xtoruO71cm
+
+--------------------
+
+6/ While others are just adding basic MCP support, we went further. Every MCP server Cline builds makes it more capable, and these capabilities are shared with the whole community.
+
+--------------------
+
+1/ The Problem: AI Amnesia 🤔 Every time you start a new chat or hit the context limit, your AI assistant forgets everything about your project. It's like working with a genius who gets amnesia every coffee break!
+
+--------------------
+
+2/ The Solution: Memory Bank 📚 Memory Bank is a structured documentation system that lets AI rebuild its understanding instantly. Imagine taking detailed notes throughout your dev process -- this is what Cline does with Memory Bank.
+
+--------------------
+
+We agree with Jack. Companies shouldn't have to worry about privacy to get access to the best-in-class coding agent. This is yet another reason why we are open-source and why we support AWS Bedrock, Azure, and Vertex, so you can use Cline and keep your data, YOUR data.
+
+--------------------
+
+5/ But here's where it gets wild: Cline doesn't just USE MCP servers. It can BUILD them. Give Cline a readme file for any API, and it can create a new MCP server from scratch. Then debug it. Then use it. https://t.co/G1SaJKNsy5
+
+--------------------
+
+🧜‍♀️ Did you know that Cline can create Mermaid diagrams to explain your codebase architecture visually? Ask Cline to create the diagram, then paste the output in the Mermaid editor to see your project visually. (we may or may not be building this natively into Cline 👀) https://t.co/1EXkzSmln4
+
+--------------------
+
+1/ Think of pre-MCP Cline like a computer without internet — powerful but isolated in your IDE. Adding MCP is like not just giving it internet access, but also an app store where each new app gives it new capabilities.
+
+--------------------
+
+New to Cline? Install it here: https://t.co/VAq921WZ7c
+
+--------------------
+
+Ever wished your AI coding agent had perfect memory? 🧠 Memory Bank is a game-changing approach that gives AI persistent memory across coding sessions. Here's how it works and why you should be using it: 🧵/ https://t.co/XI6kW73P95
+
+--------------------
+
+Read the full story: https://t.co/Dv6Rfn8oex
+
+--------------------
+
+4/ You still need API keys and security. MCP isn't magic — it's a standard way for AI to discover and use tools without learning every API's specific details.
+
+--------------------
+
+2/ An MCP server is like a menu of tools. Each tool has: - A name - A description in plain language - A schema defining what info it needs - Code that makes the API calls
+
+--------------------
+
+6/ Getting Started 🚀 1. Create a memory-bank/ folder 2. Add Memory Bank instructions to your Cline custom instructions (in settings ⚙️) 3. Initialize with "initialize memory bank" 4. Start coding! Want to try it? Check out the full docs: https://t.co/ER45ItGWk8
+
+--------------------
+
+3/ Core Architecture 🏗️ The system uses 6 core markdown files that build on each other. Everything flows from https://t.co/AO5oTSDr9q down to https://t.co/VVz0VXYBrE, creating a complete project understanding. https://t.co/djusPD8pEl
+
+--------------------
+
+🧵 Let's finally explain MCP servers in a way that actually makes sense. You've probably heard of MCP (Model Context Protocol) servers, but if you're not quite sure what they are or why they matter, this thread is for you. https://t.co/sAdDMzPlLq
+
+--------------------
+
+4/ How It Works: The Lifecycle ⚡️ 1. Read files at session start 2. Verify context is complete 3. Plan work based on current state 4. Execute tasks 5. Update documentation 6. Ready for next task! https://t.co/wIMZ6uCuJg
+
+--------------------
+
+1/ You know who loves reading documentation? Cline! Give him all that great info BEFORE he starts building so that he's got all the necessary context first. https://t.co/XhV1ub1gJw
+
+--------------------
+
+If you aren't using MCP servers yet, install Cline and get started 👇 https://t.co/VAq921WZ7c
+
+--------------------
+
+Struggling to keep Cline in line with your project standards? Try .clinerules and set your own guidelines for your project. Check out 8 practical examples to supercharge your project 👇 https://t.co/mU6BRcDVn5
+
+--------------------
+
+Cline supports GCP Vertex AI, meaning you can use Claude 3.5 Sonnet directly in your VS Code, with your own API keys and complete privacy. No code leaves your environment, and your code stays YOUR code. Full guide to setup Vertex AI with Cline below 👇 https://t.co/gfBRxjxfcr
+
+--------------------
+
+2/ Use Memory Bank Memory Bank forces Cline to read and update project documentation so YOU DON'T HAVE TO Imagine if Cline were taking notes throughout the entire build process -- that's memory bank https://t.co/ER45ItGWk8
+
+--------------------
+
+If you INSIST on vibe coding, here are 4 precautionary measures so you don't completely fall asleep at the wheel 🫡 /🧵 https://t.co/iWu0E1BT91
+
+--------------------
+
+4/ Do your research! (Or have Cline do it) Use the Perplexity MCP to create custom docs https://t.co/JHiSeJTQE4

@@ -1,0 +1,45 @@
+Claude 3.7 Sonnet just landed in Cline and it's mind-blowing. Claude 3.5 has been our gold standard for coding since release, but 3.7 crushes SWE-bench with 70.3% accuracy (vs ~49% for 3.5) and dominates TAU-bench with 81.2% on retail tasks. Select Anthropic in your provider https://t.co/beRKXR4UU1
+
+--------------------
+
+🔍 The @raygunio MCP plugin for Cline is transforming how developers manage application errors through natural language commands. 💬 Instead of clicking through dashboards and logs, developers can now type simple queries like "Show me the latest crashes in Mobile App" and get https://t.co/ITTlOiCXsL
+
+--------------------
+
+Still confused about MCP in Cline? Let's cut through the jargon and show exactly what MCP plugins do in real developer workflows. 7 examples and diagrams of each: 🧵 https://t.co/xgtFhmImr9
+
+--------------------
+
+8/ MCP isn't about protocols -- it's about eliminating the constant context switching that fragments your day. Add just one tool and see how quickly "let me check another tab" becomes "Cline, can you check that for me?"
+
+--------------------
+
+Want to turn Cline into a document-searching superpower? The Needle Search MCP plugin lets you handle documents with natural language commands - like having a brilliant librarian at your fingertips 📚 Instead of digging through folders or wrestling with complex search syntax, https://t.co/ex90yS9qck
+
+--------------------
+
+Claude 3.7 Sonnet is already available in Cline! We've integrated Anthropic's most powerful model yet, giving you immediate access to its 70.3% SWE-bench accuracy and 81.2% TAU-bench retail performance. Update Cline, select Anthropic in your provider menu, and experience the https://t.co/T5vLHmzeTD
+
+--------------------
+
+Excited to see @stripe's MCP plugin in action! It's available now in the Cline MCP Marketplace. Thanks to @jeff_weinstein for sharing this game-changing integration! One-click install lets LLMs understand official Stripe docs, query your customer data, and execute API calls https://t.co/jZeaZhpMlx
+
+--------------------
+
+🚀 The @neondatabase Database MCP plugin in Cline is transforming how developers interact with serverless PostgreSQL. It's like having a database expert who speaks your language. 💬 Instead of writing complex SQL queries, you can simply say "Create a new table named customers https://t.co/ZzuNAitGH8
+
+--------------------
+
+The numbers tell the story. Claude 3.7 Sonnet excels across the board, but especially in the areas that matter most for real-world coding: SWE-bench (70.3%) and TAU-bench Retail (81.2%). This is why we're so excited to bring it to Cline users today. https://t.co/800fBNdrzg
+
+--------------------
+
+🤖 Cline's iTerm MCP plugin is transforming how developers interact with their terminal - imagine having an AI assistant that can execute shell commands and manage your development environment through natural conversation. 💻 Instead of typing out complex command chains, you https://t.co/Uf5Ycj2GKY
+
+--------------------
+
+Look at that SWE-bench gap. Claude 3.7 Sonnet (62.3% base/70.3% with scaffolding) vs everyone else stuck around 49%. This isn't incremental progress - it's a completely different league. And now it's available in Cline with a single click. https://t.co/aFBVnXnkPJ
+
+--------------------
+
+We've also added support for AWS Bedrock and GCP Vertex AI. If you are using 3.7 Sonnet via these endpoints, you will first have to enable the models in your account.

@@ -1,0 +1,45 @@
+Want to use Google's powerful Gemini 2.5 Pro with Cline? Here’s a quick guide to get you set up and understand the rate limits: 🧵 https://t.co/Q9ZpDUxqQq
+
+--------------------
+
+happy april 1 everyone :)
+
+--------------------
+
+@zapier @composiohq Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Next, configure Cline. Open Cline's settings, add your copied Gemini API key under the Google Gemini provider section. Make sure to set the Model ID to `gemini-2.5-pro-exp-03-25`. https://t.co/KwA0d2NL2c
+
+--------------------
+
+What does "remote MCP via SSE" mean? You can now paste a link from any compatible SSE endpoint directly into Cline's UI to instantly access its tools. https://t.co/XIgjcmByb2
+
+--------------------
+
+To support our open-source efforts, we’ll be rolling out an ad-supported version of Cline over the next few weeks. Here’s what we’ve learned: while Cline 10x’s engineers of all skill levels, it doesn’t 10x API response times. The average developer spends 48% of their time https://t.co/k2UGpF8PFE
+
+--------------------
+
+Also in v3.8.6: - Fixed bugs with menu opening/buttons - Resolved issue with Cline account info in popouts Here's the changelog: https://t.co/2jyrCvJ4U8 Happy Tuesday!
+
+--------------------
+
+Just pushed Cline v3.8.6, fixing a couple bugs and making integrations smoother. We've added a dedicated UI for connecting remote MCP servers via Server-Sent Events (SSE). This means you can add remote MCP servers from platforms like @zapier and @composiohq https://t.co/JZA0scuqjl
+
+--------------------
+
+Now, let's talk rate limits for the free key from AI Studio. You get: - 2 Requests Per Minute (RPM) - 32,000 Tokens Per Minute (TPM) - 50 Requests Per Day (RPD) However, Cline users have reported far more liberal usage with rate limits seeming far less severe.
+
+--------------------
+
+First, grab your free API key from Google AI Studio. Head over to https://t.co/ri3ORVJlbv, sign in, click 'Get API Key', and create it within a new or existing project. Copy the key somewhere safe – you'll need it for Cline! https://t.co/XCsrlvYQXH
+
+--------------------
+
+@iamgoncaloalves When do you use each model? i.e. for what purposes do you find each model performs best?

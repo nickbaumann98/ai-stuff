@@ -1,0 +1,61 @@
+&amp; our all-in bet on the AGENTIC future of software engineering: https://t.co/IuCBUB4CpO
+
+--------------------
+
+Cline's approach to full-powered AI development https://t.co/dUCdiO6YZv
+
+--------------------
+
+@sriramenn Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+3/ Don't let context accumulate indefinitely on long tasks or debugging sessions. - Use the `new_task` tool frequently. - Starts fresh, carrying over only essential context you define. - Prevents runaway token usage and associated costs. https://t.co/s5Li7v5GiX
+
+--------------------
+
+AI agent stuck debugging? One of our power users @sriramenn built Deebo, an MCP server that lets Cline delegate the problem to a team of autonomous agents for resolution. 🧵 https://t.co/Rc2ZP1906N
+
+--------------------
+
+When Cline hits a tricky bug, it uses the Deebo MCP tool to offload the task. Deebo takes over the investigation, freeing up Cline. It's like giving Cline a specialized debugging assistant.
+
+--------------------
+
+1/ Instead of loading entire framework docs into `.clinerules` (which adds cost to every prompt), try using a RAG (Retrieval-Augmented Generation) MCP. [link-to-media] - Query relevant doc sections on demand. - Keeps base context smaller &amp; cheaper. - Check out Upstash's Context7 https://t.co/LV8KMUiilE
+
+--------------------
+
+2/ Detailed planning pays off, especially with models less prone to "going off on their own" than Claude. - Use PLAN MODE to outline steps clearly. - Provide specific instructions. - Reduces the need for the model to infer from massive context, saving tokens.
+
+--------------------
+
+Here's a look at the workflow: Cline delegates, Deebo's Mother Agent orchestrates parallel Scenario Agents in Git branches, validates fixes, and returns the solution. https://t.co/8qM9wUc3OS
+
+--------------------
+
+Deebo isn't a monolith. A central 'Mother Agent' receives the bug context and generates hypotheses. It then spawns multiple 'Scenario Agents', each testing a hypothesis in an isolated Git branch. https://t.co/jNc4oPhqhf
+
+--------------------
+
+This shows the power of MCP: enabling Cline to collaborate with specialized agents like Deebo for complex tasks. Huge props to @sriramenn for building this! Check out the open-source repo: https://t.co/Qhc3aynlTC
+
+--------------------
+
+Here's how Cline users are reducing token burn: using RAG MCPs for docs, detailed planning, and leveraging the `new_task` tool strategically. 🧵 https://t.co/f3nGAoNuMu
+
+--------------------
+
+Deebo also features a Memory Bank, storing notes and results from past sessions. This helps it learn codebase-specific patterns and avoid redundant tests, improving efficiency over time.
+
+--------------------
+
+4/ Combining these techniques helps make AI development with Cline more sustainable. Manage context actively to control costs. Learn more about context management in Cline: https://t.co/t50iEkNhUb
+
+--------------------
+
+The Mother Agent coordinates these scenarios using an OODA loop (Observe, Orient, Decide, Act). It analyzes reports from Scenario Agents, decides if a fix is validated, or generates new hypotheses for another loop. https://t.co/r8EUS1JRRI
+
+--------------------
+
+This future is exactly what Cline is architected for -- providing unrestricted access to models designed to become perfect, instant, and near-zero cost. Our philosophy: Don't limit AI potential today to fit subscription economics. Build with full power, ready for tomorrow's https://t.co/r6qkxGrdYl

@@ -1,0 +1,5 @@
+Happy friday everybody. But really I wanted to wish a happy friday to everyone who's participating in our MCP Hackathon (in our discord). 4 days left -- time to lock in! Submissions open on Tuesday -- the race is on 🚀
+
+--------------------
+
+Mistral just released Codestral-2501. It's 2x faster than its predecessor and is touted as best-in-class for lighter weight models. We just added it to Cline, and while we're unsure how it compares thus far to models like 3.5 Sonnet or DS-V3, we do know one thing -- it flies💨 https://t.co/hHme2hQvHk

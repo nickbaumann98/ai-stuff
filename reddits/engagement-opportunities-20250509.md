@@ -1,0 +1,11 @@
+# Reddit Engagement Opportunities - 2025-05-09
+
+1.  [https://www.reddit.com/r/vibecoding/comments/1kibbvi/help_needed_with_tools_suggestions_clinewindsurf/](https://www.reddit.com/r/vibecoding/comments/1kibbvi/help_needed_with_tools_suggestions_clinewindsurf/) - User asking for tool suggestions, mentions Cline & Windsurf.
+2.  [https://www.reddit.com/r/ChatGPTCoding/comments/1ki6lxh/these_ai_assistants_will_get_you_fired_from_work/](https://www.reddit.com/r/ChatGPTCoding/comments/1ki6lxh/these_ai_assistants_will_get_you_fired_from_work/) - Discussion about AI assistants and job security.
+3.  [https://www.reddit.com/r/ChatGPTCoding/comments/1khyo1a/llm_for_linux_kernel_development/](https://www.reddit.com/r/ChatGPTCoding/comments/1khyo1a/llm_for_linux_kernel_development/) - LLMs for Linux kernel development.
+4.  [https://www.reddit.com/r/ChatGPTCoding/comments/1khs18r/what_ai_programming_setup_should_i_use/](https://www.reddit.com/r/ChatGPTCoding/comments/1khs18r/what_ai_programming_setup_should_i_use/) - Seeking advice on AI programming setup.
+5.  [https://www.reddit.com/r/cursor/comments/1khq3tu/built_a_tool_to_let_cursor_rag_over_my_private/](https://www.reddit.com/r/cursor/comments/1khq3tu/built_a_tool_to_let_cursor_rag_over_my_private/) - User built a RAG tool for Cursor.
+6.  [https://www.reddit.com/r/vibecoding/comments/1khel4g/im_building_an_ai_factory_program_should_i/](https://www.reddit.com/r/vibecoding/comments/1khel4g/im_building_an_ai_factory_program_should_i/) - User building an "AI factory program."
+7.  [https://www.reddit.com/r/ChatGPTCoding/comments/1kh06kr/alternatives_to_windsurf_for_ui/](https://www.reddit.com/r/ChatGPTCoding/comments/1kh06kr/alternatives_to_windsurf_for_ui/) - Seeking alternatives to Windsurf for UI.
+8.  [https://www.reddit.com/r/cursor/comments/1kgtain/25_pro_still_keeps_stopping_inappropriately/](https://www.reddit.com/r/cursor/comments/1kgtain/25_pro_still_keeps_stopping_inappropriately/) - Cursor Pro issues.
+9.  [https://www.reddit.com/r/ChatGPTCoding/comments/1kgsnok/how_do_i_get_md_docs_condensed_docs_of_new/](https://www.reddit.com/r/ChatGPTCoding/comments/1kgsnok/how_do_i_get_md_docs_condensed_docs_of_new/) - Condensing markdown documentation.

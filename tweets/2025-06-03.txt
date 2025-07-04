@@ -1,0 +1,61 @@
+--------------------
+MAIN THREAD: Cline v3.17.9 Release
+--------------------
+
+Cline v3.17.9 is here with experimental Claude 4 optimizations, task timeline navigation, and CSV/XLSX support 🧵
+
+We've been fine-tuning how Cline works with Claude 4, focusing on search/replace operations. The latest optimizations use improved delimiter handling that's showing great results in our testing.
+
+[VIDEO: Claude 4 Improved Edit Success Rate]
+
+The changes center on communication protocols -- we've adjusted how Cline formats instructions for Claude 4, using - and + delimiters instead of < and >, which aligns better with the model's training.
+
+Since these are experimental optimizations, we'd love your feedback on how Claude 4 feels compared to Claude 3.7 or Gemini. Early testing has been promising.
+
+New feature: Task timeline scrolling. Click any point in your task timeline and jump directly to that moment in the conversation. Perfect for understanding context or exploring different approaches.
+
+[VIDEO: Task Timeline Navigation Demo]
+
+Also added CSV/XLSX file support -- drag and drop spreadsheets directly into Cline for analysis. CSV files work seamlessly, basic Excel files are supported. For complex Excel files, Cline can generate Python scripts to handle the processing. Good foundation for data workflows.
+
+Other improvements:
+- New Grok-3 models from xAI
+- Enhanced AWS Bedrock credential handling
+- Optimized search tool performance
+- Checkpoint system reliability
+- Improved chat box UI
+
+Huge thanks to our community contributors: @PeterDaveHello for Grok-3 additions, @DaveFres for AWS improvements, and especially @heguro whose delimiter insights became the foundation for the Claude 4 optimizations.
+
+We're excited to hear how the Claude 4 optimizations work in your workflows. What's your experience been like with the latest models?
+
+Available now on VS Code, Cursor, and Windsurf marketplaces.
+
+Docs: https://docs.cline.bot
+Discord: https://discord.gg/cline
+
+--------------------
+FEATURE TWEET: Claude 4 Optimizations
+--------------------
+
+We've been optimizing how Cline works with Claude 4, focusing on search/replace operations. New delimiter handling (- and + instead of < and >) aligns better with the model's training and shows great results in testing.
+
+[VIDEO: Claude 4 Improved Edit Success Rate]
+
+Early feedback welcome!
+
+--------------------
+FEATURE TWEET: Task Timeline
+--------------------
+
+New in Cline: Task timeline scrolling. Click any point in your task timeline and jump directly to that moment in the conversation. Perfect for understanding context behind code changes or exploring different approaches.
+
+[VIDEO: Task Timeline Navigation Demo]
+
+--------------------
+FEATURE TWEET: CSV/XLSX Support
+--------------------
+
+Cline now supports CSV and XLSX file uploads. CSV files work seamlessly for data analysis. Basic Excel files are supported, while complex ones can be handled via Python scripts. Good foundation for data workflows.
+
+[VISUAL: CSV/XLSX File Upload Demo]

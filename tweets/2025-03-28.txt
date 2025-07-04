@@ -1,0 +1,85 @@
+Developers: MCP is about to become extremely relevant as AI needs to connect with real-world data. Most don't know how to build MCP servers yet. Here's how to build them with Cline in 3 simple steps using our .clinerules protocol.
+
+--------------------
+
+This is massive for agent infrastructure. OpenAI adopting MCP instead of creating their own protocol means we now have a universal standard for agents to connect with tools and data. Network effects are accelerating - the time to build on MCP is now. 🧵 https://t.co/D5esbzxD2B
+
+--------------------
+
+MCP Resources allow your MCP servers to expose specific data to Cline. They're how servers provide context from your local environment to Cline: 🧵 https://t.co/PihZKF9CRu
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Step 3: TESTING The .clinerules protocol REQUIRES testing before completion: &gt;Each tool is tested with valid inputs &gt;Output formats are verified &gt;Results are documented This ensures robust plugins every time. https://t.co/Vbd5I2sW1i
+
+--------------------
+
+Think of Resources as extending what your MCP servers know about. Better informed servers = more helpful responses when you're working with Cline.
+
+--------------------
+
+Step 2: BUILDING Switch to ACT MODE and Cline helps implement your plugin: &gt;Bootstrap the project structure &gt;Implement core functionality with the MCP SDK &gt;Add error handling and logging https://t.co/IBAb6JWCm1
+
+--------------------
+
+MCP servers with well-configured Resources understand your workspace better. This makes Cline's interactions with those servers much more productive.
+
+--------------------
+
+MCP Resources are read-only data that enhance your servers' understanding of your environment. They provide crucial context without executing any code.
+
+--------------------
+
+https://t.co/uuWUXXFf7p
+
+--------------------
+
+In simple terms: Resources let your MCP servers expose files, code, logs, database info -- any contextual data - directly to Cline when needed.
+
+--------------------
+
+For more information, refer to our docs: https://t.co/ipRIJb0PUT
+
+--------------------
+
+Cline users are combining models strategically: - Gemini 2.5 Pro for planning &amp; handling large codebases (leveraging its 1M token context) - Claude Sonnet 3.7 for implementation &amp; UI work (precision execution) "I'm doing 2.5 plan and 3.7 act" is becoming a common pattern, with https://t.co/Lwfi3Rrg9o
+
+--------------------
+
+The secret sauce? Our .clinerules file Drop this in your MCP project directory and Cline instantly knows how to guide you through the entire development process. Get the file and full tutorial here: https://t.co/11J52LbwkN
+
+--------------------
+
+@schrepfler Please refer here for the updated docs: https://t.co/IyDJNlINS9
+
+--------------------
+
+Step 1: PLANNING Start by describing what you want to build. Cline will help define: &gt;Problem your plugin solves &gt;APIs or services to integrate &gt;Desired outputs Cline guides this entire phase using our protocol. https://t.co/1LgMtJVAuP
+
+--------------------
+
+Resources are essentially context providers for your MCP servers. They give your servers more information to work with, making them more capable during your Cline sessions.
+
+--------------------
+
+Want your MCP servers to better understand your codebase? Add relevant Resources -- it's the most direct way to give them the context they need to be truly helpful.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+The key advantage: Resources give your MCP servers direct access to your project context -- source files, configs, logs, documentation - so Cline doesn't need to guess.
+
+--------------------
+
+For developers: Adding Resources to your MCP servers means they'll have more context about your specific projects, leading to more relevant assistance in Cline.
+
+--------------------
+
+CLINE_1M -- TONIGHT Time: 6pm - whenever Place: Woodbury in SOMA Attire: The sweater grandma got you First round’s on us. Food’s covered. We'll see you there! https://t.co/1Hot5SZKyf

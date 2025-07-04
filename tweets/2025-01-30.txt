@@ -1,0 +1,29 @@
+Holding out for o81
+
+--------------------
+
+🎯 One of our most requested features is here: Seamless Plan &amp; Act mode switching. Use different models for different tasks: - Planning: Try Gemini Flash Thinking 2.0 or DeepSeek R1 - Execution: Use 3.5-Sonnet or DeepSeek V3 - Auto-saves your preferences plan-act-models No https://t.co/e1DlXIn4RG
+
+--------------------
+
+"Would be cool to have visual indication of context size before important context gets removed." 🚀 Just shipped exactly this in Cline 3.2.6 -- a real-time progress bar that shows when you're about to hit limits. How else can we make Cline better for you?👇 https://t.co/4srXRNotfw
+
+--------------------
+
+🚀 Added Gemini 2.0 Flash Thinking (1-21) to Cline with its new 1M token context window. That's a 30x increase from 32K, and way ahead of other models: 📈 Claude 3.5: 200K 📈 GPT-4: 128K 📈 DeepSeek: 128K Large-scale analysis just got much easier. ⚡️ https://t.co/rw72YxMYia
+
+--------------------
+
+🧠 A context window is like RAM for your AI coding assistant. It's the "working memory" that holds your conversation, code, and project context. Let me show you why we added a progress bar to Cline: 🧵 1/7 https://t.co/7hdSz6mo6U
+
+--------------------
+
+🔍 Using Memory Bank? We just made it better. New in Cline: Context window progress bar shows you exactly when to update your memory bank. No more guessing when to refresh context - just watch the bar and tell Cline "update" when it's full. ⚡️ https://t.co/5wTlgnYbNf
+
+--------------------
+
+🚀 Just shipped Cline 3.2.6: 🔄 Model persistence between Plan &amp; Act 📊 Context Window progress bar tracking ⚡️ Gemini 2.0 Flash Thinking (1-21) support ⚙️ Advanced MCP settings &amp; Git (checkpoint) controls https://t.co/CjYpOVRlMo
+
+--------------------
+
+4/7 ⚠️ The biggest problem? You couldn't see when you were running out of space. That's why we added a context window progress bar to Cline that shows you exactly how much of that whiteboard you have used. https://t.co/pGHV4dShTM

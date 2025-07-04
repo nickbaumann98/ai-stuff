@@ -1,0 +1,81 @@
+We believe this is the correct paradigm for AI coding, and really for any effective agentic framework: understand deeply, then act. Once this shared understanding is locked in, toggling to Act Mode unleashes a fully briefed, highly capable agent.
+
+--------------------
+
+The new Gemini 2.5 Pro isn't just about fewer errors; it's a smarter collaborator. Cline users find it creates effective plans and smoothly transitions from Plan to Act. It remembers instructions and checks in with "was it fixed or not?" to ensure tasks are completed.
+
+--------------------
+
+Cline's Plan &amp; Act modes embody our conviction: the most effective AI partnerships are built on deep understanding and a shared plan. It’s how we move beyond antsy code-gen to intelligent creation. https://t.co/0qE5Ygne6L
+
+--------------------
+
+And what about the code itself? The feedback is that it's cleaner -- users are appreciating that it's writing fewer comments, leading to more focused and readable code.
+
+--------------------
+
+We've been excited with Gemini 2.5 Pro since the experimental version was released. Its massive context window combined with SOTA coding capabilities sets it up to be a premier coding model within Cline. What's been your experience so far with the upgraded Gemini 2.5 Pro?
+
+--------------------
+
+Here's what we noticed: LLMs can be a bit antsy. They're often quick to generate code, sometimes before fully grasping the nuanced context of your project. This can lead to that frustrating cycle of near-misses. We saw a need for a more deliberate approach.
+
+--------------------
+
+FYI, the model name still refers to 03-25, but it points to the 05-06 endpoint. So if you're using 03-25, you're actually using 05-06 already. We will be updating the model name today.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+The upgraded Gemini 2.5 Pro (03-25 --&gt; 05-06) has been available for over 24 hours now, and we're already seeing some exciting feedback from our users putting it to the test. So, what's the word on how it's actually performing in Cline? (hint: very well) ↓
+
+--------------------
+
+In Act Mode, Cline isn't just following instructions; it's executing a co-created mission with the full power of that frontloaded context. The result? Code that's not only generated faster but is more robust, maintainable, and truly aligned with your project.
+
+--------------------
+
+This "context-first" philosophy is key. Your role is to articulate your core intent. While Cline intelligently analyzes files, it needs your vision to connect the dots. Plan Mode facilitates this partnership, forging a precise strategic plan before any code is written.
+
+--------------------
+
+Of course, it's still evolving. There might be occasional picky nits like linting misses or a rare loop on a very complex task. But the big picture from the community is that this upgrade is a significant step forward.
+
+--------------------
+
+We believe the best AI coding happens when context of your development intent and codebase is front-loaded into the agent BEFORE it starts coding. Cline's Plan &amp; Act modes embody this paradigm. Here's a quick look at why this approach works: https://t.co/fn4s8o9Paf
+
+--------------------
+
+https://t.co/bJNlcRvdNo
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+The overall sentiment from early users has been incredibly positive. We've heard it called "INSANE," "Amazing," and that it's "fixing bugs that the old Gemini 2.5 Pro was unable to fix." One user noted that it feels like "a perfect model is now perfecter somehow."
+
+--------------------
+
+We nearly decided against creating Plan &amp; Act modes, but now we see planning as a cornerstone feature of Cline. Effective AI coding isn't prescriptive -- it demands a shared strategy transitioning from one-shot Hail Marys to context-riche, agent-driven success:🧵 https://t.co/npSQS7xi9Q
+
+--------------------
+
+That’s why Plan Mode is foundational in Cline. It’s designed to ensure that crucial context-gathering happens first. Here, you collaboratively brief Cline, defining the task, discussing constraints, and exploring the codebase together. Cline maps your repository and asks https://t.co/2w3Y2f1xXO
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+So, how should you leverage this? - Start complex tasks in Plan Mode to frontload context. - Clearly express your intent and goals. - Co-create the strategy with Cline. - Use Act Mode for precise, context-aware execution. This is agentic coding done right.
+
+--------------------
+
+One of the first things users are noticing is a smoother experience with file edits. If you've wrestled with "diff edit" errors with complex changes or large files before, the new version seems to navigate these much more reliably. We're hearing it's "actually doing well with

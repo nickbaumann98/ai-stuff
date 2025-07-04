@@ -1,0 +1,45 @@
+v3.15 blog post: https://t.co/clozZrlxZ2
+
+--------------------
+
+Some quality of life wins: - Quote messages in chat for precise feedback - Redesigned settings with tabs (3.17) - Claude 4 support across all providers - Open source docs you can contribute to
+
+--------------------
+
+v3.16 blog post: https://t.co/0qwwrFTPZU
+
+--------------------
+
+Also in 3.15: We integrated Google's new Gemini Implicit Caching. This means up to 75% cost savings on repetitive prompts -- automatically. No setup needed. Just cheaper Gemini 2.5 Pro usage. (Shoutout to Logan &amp; the Gemini team for the quick implementation!)
+
+--------------------
+
+And that's just scratching the surface. We've also shipped: - /reportbug command - Collapsible task lists - Nebius integration - Better terminal stability - Auto-approve improvements - ...and dozens more fixes &amp; enhancements
+
+--------------------
+
+Plus tons of community contributions. Big thanks to eomcaleb, weshoke, zapp88, danix800, cosmix, soniqua, BarreiroT, Aktsvigun, DaveFres, and many others making Cline better every day.
+
+--------------------
+
+First up -- Task Timeline in v3.15. Now you can see exactly what Cline is doing with a visual "storyboard" right in your task header. Every tool call, every file edit, all laid out chronologically. Hover for details. https://t.co/3wEJdCBSZq
+
+--------------------
+
+v3.17 made Workflows global. Store your best automation scripts in ~/Documents/Cline/Workflows and use them across all projects. Local workflows still take precedence when you need project-specific customization. https://t.co/9tWVoRWdC9
+
+--------------------
+
+ICYMI: Here's what's new in Cline over the past couple weeks 🧵 (&amp; a cline wallpaper if you're so inclined) https://t.co/Y3Vj0UzYAd
+
+--------------------
+
+The big one in v3.16: Workflows. Define sequences of actions in simple .md files - CLI commands, Cline tools, MCP calls -- then trigger them with /[workflow-name]. That PR review that takes 10 minutes? Now it's one command. https://t.co/VXzGtI3ZKf
+
+--------------------
+
+All available now in VS Code, Cursor, and Windsurf. Catch up on our latest blogs 👇
+
+--------------------
+
+v3.17 blog post: https://t.co/98J8A3LFU7

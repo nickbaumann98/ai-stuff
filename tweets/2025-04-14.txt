@@ -1,0 +1,13 @@
+For developers, GPT-4.1 brings significant coding upgrades: - 54.6% on SWE-bench Verified (+21.4% over GPT-4o), meaning better real-world task completion. - Improved diff format following (beats GPT-4.5 by 8% on Aider polyglot diff), saving cost/latency on code edits. - Better https://t.co/nBD0IC2J2c
+
+--------------------
+
+Optimize for your needs: - GPT-4.1 is the highest-performing coding model - GPT-4.1 mini often matches/exceeds GPT-4o at ~83% lower cost. - GPT-4.1 nano is the fastest/cheapest option, great for low-latency tasks. https://t.co/bdic0AQL9k
+
+--------------------
+
+OpenAI's GPT-4.1 Models are available in Cline. Leverage the new 1M token context window and significant coding improvements (e.g., +21.4% on SWE-bench Verified) directly through the Cline Provider. https://t.co/NrGGSRUO1P
+
+--------------------
+
+All three models (GPT-4.1, mini, nano) now support up to 1M tokens of context with improved retrieval reliability (demonstrated on Needle, OpenAI-MRCR, Graphwalks evals). Process large codebases or extensive documentation directly within Cline.

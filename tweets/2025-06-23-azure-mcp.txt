@@ -1,0 +1,5 @@
+Manage Azure right from Cline.
+
+The new Azure MCP Server lets you control services like Storage, Cosmos DB, and Monitor with natural language.
+
+[link-to-media]

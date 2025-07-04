@@ -1,0 +1,77 @@
+Pentest Agent System: An LLM-based multi-agent system for automated offensive cybersecurity. Impressive work that won an award! https://t.co/D3Y8YbR0KE
+
+--------------------
+
+Electric Youth Me: Put your face on Debbie Gibson's "Electric Youth" album cover. Pure 80s. https://t.co/5dS004Od65 https://t.co/ed88TSsRNb
+
+--------------------
+
+Want to try Cline for free? @OpenRouter has free models that show a peek into the future of commodified inference. Four models that are worth a try: deepseek/deepseek-chat-v3-0324:free meta-llama/llama-4-maverick:free deepseek/deepseek-r1:free qwen/qwen3-235b-a22b:free 🧵
+
+--------------------
+
+1/ Create an account and get an API key from OpenRouter https://t.co/FLtBgqEnzA
+
+--------------------
+
+grab the YouTube MCP server in one-click from the MCP Marketplace https://t.co/9E8ss9zfMT
+
+--------------------
+
+@MatthewBerman Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Here's how you can get started using Cline with a free model from OpenRouter 👇
+
+--------------------
+
+@sidahuj Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Free models offer a basic intro to Cline, but for optimal performance, consider the premium versions. Free models may cause slowness, rate limiting during high traffic, less effective tool calling leading to errors, and more frequent diff errors.
+
+--------------------
+
+@browserbasehq Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+3/ We recommend trying one of these four: - deepseek/deepseek-chat-v3-0324:free - meta-llama/llama-4-maverick:free - deepseek/deepseek-r1:free - qwen/qwen3-235b-a22b:free Note: you can paste these exact model IDs in the dropdown
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+DERELICT: A dark sci-fi horror novel written with Cline, now on Amazon. https://t.co/bNOqlyMGHn
+
+--------------------
+
+Bark FM: Custom audio designed to calm anxiety and spark curiosity in dogs. https://t.co/yIwMao7oZM https://t.co/AU8Wz4w7Vw
+
+--------------------
+
+The models we've identified perform well enough to utilize Cline, which is exciting, and they offer a glimpse into a future where inference approaches zero, making the use of Cline essentially free.
+
+--------------------
+
+Love seeing the creativity. What are you building?
+
+--------------------
+
+FeudalSim: A browser-based medieval MMO. Build your legacy. On Kickstarter. https://t.co/R5ex0l0RYp (Kickstarter: https://t.co/SRuZAO7VYI) https://t.co/oS75qp7lrz
+
+--------------------
+
+So much cool stuff emerging from the Cline community! Alongside developers shipping production code, it's awesome to see the creativity extend to powerful security tools, fun apps, games, and even books. Here's a look at the range: 🧵
+
+--------------------
+
+2/ Navigate to 'Settings' and select OpenRouter from the dropdown. Paste in your API key and select one of the free models from the dropdown. https://t.co/4sBtDPmGzA
+
+--------------------
+
+Highly underrated MCP server: YouTube Did you know you can basically feed Cline YouTube tutorials? Pull subtitles as context and watch it build what you're learning. In this example, we pulled down instructions from @MatthewBerman building a crewAI orchestration ↓ https://t.co/UTeKQizJBK

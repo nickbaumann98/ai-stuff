@@ -1,0 +1,89 @@
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Coding performance gets rave reviews: - "Impressive coding &amp; fixing issues" - Handles modern stacks (Next.js, Tailwind, ShadCN) well - Often matches or beats Sonnet quality for $0 - Some even prefer its code commenting style
+
+--------------------
+
+Minor tweaks shipped in Cline v3.8.5! Just polishing things up based on feedback. Here's a quick rundown: 👇
+
+--------------------
+
+Mastering context management is key to unlocking Cline's full potential. Dive deeper into these strategies: https://t.co/t50iEkNhUb
+
+--------------------
+
+Gemini 2.5 Pro: Hype vs. Reality according to Cline devs. We dove into recent Cline community Discord chatter to see what the verdict is among users 🧵
+
+--------------------
+
+Hitting the context window limit while working with Cline? It happens. Finite memory means you need smart strategies to stay productive without constant re-explaining. Here's 4 strategies we recommend: 🧵
+
+--------------------
+
+The hype is real for context &amp; cost: - Jaw-dropping 1M token window (users testing 400k+ and still getting good results) - "$0 price tag" vs costly alternatives
+
+--------------------
+
+Strategy 3: Build persistent knowledge for Cline. Use context files like the Memory Bank pattern or task-specific docs (`https://t.co/0BT5OVCZhb`, `https://t.co/wRc0Ksgupa`) to give Cline long-term project understanding across sessions. https://t.co/JnHFwad0id
+
+--------------------
+
+Strategy 1: Keep an eye on Cline's context progress bar. Don't wait for it to max out. Consider starting a fresh task around 70-80% capacity to maintain optimal performance and avoid 'amnesia'. https://t.co/RxT4qoYokB
+
+--------------------
+
+MCP gets smoother: Remote server support via SSE, easier enable/disable toggles for remote servers, and reorganized controls (Restart/Delete buttons moved + new auto-approve toggle!). Manage your tools effortlessly.
+
+--------------------
+
+Grab the update from the VS Code/Cursor Marketplace or check the full notes! https://t.co/2jyrCvJ4U8
+
+--------------------
+
+Strategy 2: Use the 'Plan Mode' to create a https://t.co/HkcV3docTA. When context gets full, switch to Plan mode. Ask Cline to summarize progress &amp; next steps into a markdown file (you'll need to switch to Act Mode for this). Then, start a new task using that summary as context. https://t.co/8nj7zCpRLn
+
+--------------------
+
+Model updates: Added Gemini 2.5 Pro via Vertex AI, improved Requestly UX for model selection, and fixed an HTML escaping issue for Gemini command output. More power, less friction.
+
+--------------------
+
+How are developers scaling their work with AI? Some Cline users are moving beyond 1:1 pairing, experimenting with orchestrating multiple instances simultaneously. Imagine managing several Cline workstreams, each on a different feature branch, tackling tasks in parallel. https://t.co/5nLhJAMEvQ
+
+--------------------
+
+Strategy 4: Focus Cline's context. Instead of loading everything, create *task-specific* context files listing only essential functions, classes, or requirements. Guides Cline's attention &amp; saves tokens. Use these on a per-task basis. More details on this approach:
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Verdict? Gemini 2.5 Pro is incredibly powerful, especially for long-context tasks, and the free tier is disruptive. But the API limits &amp; bugs are real hurdles. We're anxiously anticipating Google ironing out these issues and releasing the fully-available version.
+
+--------------------
+
+Want this for your team? - Pick your shared tool (Notion, Obsidian, GDocs...) - Find/build its MCP server - Adapt Memory Bank prompt: Swap file logic for MCP tool calls (e.g., `notion_retrieve_page`) https://t.co/c9CvW5p4jS
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Using Memory Bank locally is powerful for giving Cline persistent context for your individual workflow. But engineering teams face a bigger challenge: shared context and knowledge silos. We saw a startup tackle this brilliantly. They adapted the Memory Bank concept by swapping https://t.co/8E4G9Ck6lE
+
+--------------------
+
+Small UX wins: Access history, MCP, and new task buttons directly from the popout view, and enjoy more robust search/replace edit failure behaviors.
+
+--------------------
+
+Some annoying issues: - HTML entity bug (`&amp;;` appearing in terminal commands) is a constant annoyance. - Some users report inconsistencies in tool use, following instructions (.clinerules), and occasional code quality dips.

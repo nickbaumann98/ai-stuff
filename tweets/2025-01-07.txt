@@ -1,0 +1,11 @@
+--------------------
+Auto Approve Productivity Tip
+
+Quick tip for new Cline users: Start with auto-approving read access to project files and set a request limit of 10-20.
+
+This gives Cline enough freedom to explore your codebase without constant interruptions, while still requiring permission for edits or potentially destructive actions.
+
+You can always adjust permissions as you build trust - tighten for production work, loosen for prototyping.
+
+[link-to-media]
+--------------------

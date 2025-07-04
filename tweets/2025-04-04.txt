@@ -1,0 +1,105 @@
+You can just build MCP servers for platforms you use if there's an API. No need to wait. Here's the example of building a spiral-MCP (@every), showing the steps from docs to tested tools: 🧵 https://t.co/CRMYTRTl6Q
+
+--------------------
+
+Beyond SQL and migrations, the server unlocks 20+ tools: - Fetch project config (`getprojecturl`, `getanonkey`) - Manage database branches (create, list, merge - experimental) - Generate TypeScript types (`generatetypescripttypes`) - Retrieve logs for debugging (`get_logs`)
+
+--------------------
+
+With the plan confirmed, Cline builds the MCP server code. This involves setting up the server using the MCP SDK, implementing the logic to call the spiral API endpoints, handling authentication (likely via environment variables for API keys), and managing request/response https://t.co/SgvMikfWVS
+
+--------------------
+
+Complex software tasks often require a methodical, step-by-step approach, not just quick code generation. Cline utilizes the Sequential Thinking MCP to enable this structured reasoning, helping break down intricate problems into manageable parts for more effective https://t.co/zWyX6yXAJZ
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Here's our guide on using the new Supabase MCP Server with Cline: https://t.co/X04lXtKwNg
+
+--------------------
+
+Need to modify an existing table? Cline can handle that too, generating the necessary `ALTER TABLE` statements and applying them via the `apply_migration` tool. Keep your schema evolving without leaving your IDE. https://t.co/tYn8yHlLiL
+
+--------------------
+
+Next, head to the MCP Marketplace within Cline (Extensions -Cline -&gt; MCP Marketplace). Find the official Supabase server and click install. You'll be prompted to enter the PAT you just generated. https://t.co/jvp5bInlo4
+
+--------------------
+
+First step: grab the API docs for the service you want to integrate. For spiral, we found their documentation outlining endpoints for getting spirals and generating output. This becomes the input for Cline. https://t.co/rmsoLBXHYE
+
+--------------------
+
+That's the process – from API documentation to a functional, tested Cline integration. You don't need to wait for official support. If a tool has an API, you have the power to build the MCP server yourself. Here's docs on how to build MCP servers: https://t.co/11J52LbwkN
+
+--------------------
+
+🚀 Cline v3.9.0 is now available, adding support for Google's Gemini 2.5 Pro Preview. Access its advanced coding capabilities and large context window directly within Cline without rate limits.
+
+--------------------
+
+https://t.co/rBaaG1Ox1E
+
+--------------------
+
+It is still crazy that you can use Cline with the best coding model in the world 100% for free
+
+--------------------
+
+🚀 Now available in Cline: Gemini 2.5 Pro's paid preview. Get access to the leading coding model without rate limits. https://t.co/EydhX75k7u
+
+--------------------
+
+Crucially, Cline then tests the newly created MCP server tools. We invoke `get_spirals` to list available spirals and `generate_output` with sample input to ensure the integration works correctly with the live spiral API. https://t.co/7DWzvYZ40F
+
+--------------------
+
+Just added 5 new @awscloud MCP servers to the MCP Marketplace https://t.co/hCwMh9Nj2j
+
+--------------------
+
+Getting started is straightforward. First, you'll need a Supabase Personal Access Token (PAT) to authenticate the MCP server. Generate one securely here: https://t.co/FhIoQUOg3j https://t.co/jZ0prpFvYE
+
+--------------------
+
+Also included: - Extended thinking support for the LiteLLM provider - Fixes for DeepSeek token counting/context management - Fixes for occasional checkpoint hangs
+
+--------------------
+
+Once installed, Cline can manage your database schema using migrations. Ask Cline to create a new table or even an entire schema, and it will use the `apply_migration` tool. https://t.co/57jMXNX8Dw
+
+--------------------
+
+Update your Cline extension in VS Code to get v3.9.0.
+
+--------------------
+
+This release also introduces a dedicated tab in settings for configuring local MCP servers, making it easier to manage and add your own custom tools to Cline. https://t.co/sU9mRGmRH0
+
+--------------------
+
+Next, Cline analyzes the API documentation to understand the endpoints, authentication methods, and expected data structures. Based on this, Cline plans the MCP server implementation, defining the necessary tools (`get_spirals`, `generate_output`) and their schemas. https://t.co/dISaVz67pT
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+AT LAST, manage your Supabase database directly within Cline. The official @supabase MCP server is available, allowing SQL execution, schema changes, and full database interaction. Yes, that means read AND write: 🧵 https://t.co/fVzgUDoEaH
+
+--------------------
+
+This integration significantly reduces context switching and empowers AI-driven database development. Install the Supabase MCP server from the Cline Marketplace today and let us know what you build. Learn more: https://t.co/Yuy0yIXTRm
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+This deliberate process helps avoid errors and leads to more robust, reliable solutions. It's one of the most popular tools in the MCP Marketplace for a reason. Explore Sequential Thinking and other tools to enhance your Cline workflow. https://t.co/nsFakZc00t

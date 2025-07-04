@@ -1,0 +1,33 @@
+Cline Corner Livestream -- live right now👇 https://t.co/hpLpDdzw9S
+
+--------------------
+
+Claude Sonnet 4 offers an upgrade for daily coding tasks. It's designed for more precise instruction following and is reportedly 65% less likely to take shortcuts or loopholes compared to Sonnet 3.7, making it a more practical and reliable choice for many development scenarios.
+
+--------------------
+
+Make sure you update to Cline V3.17!
+
+--------------------
+
+Our take for Cline users: The combination of Opus 4's deep planning capabilities (Plan mode) and Sonnet 4's improved, efficient execution (Act mode) could be a particularly powerful pairing. However, planning at $15/$75 per 1M tokens is not cheap.
+
+--------------------
+
+Both Claude 4 models maintain a 200k token context window, similar to Sonnet 3.7, which is less than the 1M+ offered by some alternatives like Gemini 2.5 Pro. Effective context utilization remains key. Sonnet 4 is priced at $3/$15 (in/out per 1M tokens).
+
+--------------------
+
+Live in Cline: Claude Opus 4 &amp; Sonnet 4 Anthropic touts Opus 4 as their most powerful model for agentic workflows, while Sonnet 4 is your "always on" coding model. Experience the power of Opus and Sonnet to their fullest extent in Cline, today. https://t.co/vhDmiZZIIL
+
+--------------------
+
+Claude Opus 4 is engineered for complex, long-running agentic workflows. It's been trained to create and update 'memory files' (akin to context files in Cline), enhancing long-term task awareness. This power comes at a steep API cost ($15/$75 per 1M tokens). https://t.co/K56F3bOnMt
+
+--------------------
+
+Anthropic's Claude 4 models are here. Opus 4 and Sonnet 4 both show strong (&amp; improved) coding abilities, with Sonnet 4 at 72.7% on SWE-bench and Opus 4 at 72.5% What does this mean for developers using Cline? 🧵 https://t.co/WXcfI7hA18
+
+--------------------
+
+What are your early experiences with Claude 4?

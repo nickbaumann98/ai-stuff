@@ -1,0 +1,37 @@
+"Make something cool or don't bother." That's the ethos of the Yard Work Hackathon coming next weekend, and it's why we're thrilled to partner with them. 6 days to go. @thelaunchyard There's still time to get in on the action 🔗👇
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Fewer interruptions from diff errors. Cline now intelligently detects when you manually edit a file and re-reads it before making changes. This means fewer diff edit errors.
+
+--------------------
+
+We pushed v3.9.2 last night, making improvements to Cline's diff editing and adding recommended models. Here's what this means for you as a developer🧵
+
+--------------------
+
+Benefit for setup: Faster configuration with recommended models. Cline 3.9.2 guides you by suggesting optimal models (like Sonnet 3.7, Gemini 2.5 Pro, Llama 4 Maverick/Scout) directly within the provider setup, saving you lookup time.
+
+--------------------
+
+🔗 https://t.co/L5QFX7baVp
+
+--------------------
+
+Additional improvements in v3.9.2: - Enhanced file mention search speed &amp; relevance scoring. - Support for Bytedance Doubao models (Thanks Tunixer!). - Fix for duplicate BOM characters (Thanks bamps53!).
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Cline team was cooking last night -- v3.9.2 is out Key updates: - Smarter file change detection (fewer diff errors!) - Recommended models in provider setup (easier config) Also includes faster file mention search, relevance scoring, ByteDance Doubao support, and a BOM fix. https://t.co/OdtXbDxWOp
+
+--------------------
+
+Wishing you all a great Sunday 🫡

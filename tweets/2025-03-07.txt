@@ -1,0 +1,81 @@
+The most critical step that separates hobbyist plugins from monetizable ones: Testing Cline blocks completion until all tools are tested - this isn't arbitrary. Reliable plugins that users will pay for require thorough testing before deployment. https://t.co/wjYuZj5tha
+
+--------------------
+
+The .clinerules file guides Cline through our 3-step development protocol: 1. Planning: Define requirements 2. Implementation: Build the server 3. Testing: Verify functionality This enforced structure is why Cline-built MCP servers perform well.
+
+--------------------
+
+🚀 Cline v3.6 is now available with major upgrades to accessibility and performance. Get started completely free with our new Cline API provider option, and experience dramatically faster performance with our Checkpoints 2.0 system. Plus support for new models from within GCP https://t.co/aqK1gIhQId
+
+--------------------
+
+Submit your MCP server to our marketplace for instant distribution to thousands of developers. Early movers who build quality plugins now will establish market position before competition increases. Full docs: https://t.co/11J52LbwkN
+
+--------------------
+
+🚀 Cline just got way more accessible with v3.6. Create an account directly through the extension, get started without a credit card or API key, and receive enough credits for your first task completely free. Managing credits is simple at https://t.co/REAThmEHxd. We're https://t.co/W72Lt4KZYz
+
+--------------------
+
+Once built, monetization is straightforward: - Implement API key authentication - Offer free tier (5-10 requests) - Charge $20/mo for increased limits The playbook is simple but effective. We're seeing MCP plugins generate real revenue already.
+
+--------------------
+
+Want to build MCP servers with Cline? Start today: https://t.co/VAq921WZ7c
+
+--------------------
+
+Aftermath of a dev who just finished an engineering marathon 🫡
+
+--------------------
+
+🚀 Checkpoints 2.0 in Cline v3.6 completely transforms how we manage your codebase. The new branch-per-task strategy dramatically reduces storage requirements and significantly improves load times, especially after initial checkpoint creation. The best part? Zero migration https://t.co/c5imWwhTFZ
+
+--------------------
+
+Done. And getting better everyday 🤝 https://t.co/202DFDhBlf
+
+--------------------
+
+For the people who are using MCP servers everyday, which ones are you using and how are you using them? Let's hear it 👇
+
+--------------------
+
+🚀 We just released v3.6, focusing on making Cline more accessible and performant than ever before. Here's everything new in this update: 🧵
+
+--------------------
+
+Start your chat with a clear description of what you want to build. Cline automatically begins in Planning mode, helping you: - Define what problem your tool solves - Choose which API/service to use Be specific about the real-world actions you want enabled. https://t.co/GDIEtE1Vp9
+
+--------------------
+
+For implementation, Cline guides you through bootstrapping: (For JavaScript projects) npx @modelcontextprotocol/create-server my-server cd my-server npm install Cline then helps implement each component with production-quality patterns for logging, error handling, and types. https://t.co/MpUEx3k93V
+
+--------------------
+
+Worried about vendor lock-in with AI tooling? That's why we built Cline to be completely model-agnostic. As new AI models emerge over the next 6-12 months (and they will), Cline integrates them seamlessly. You get the best available tooling without rebuilding your workflows or https://t.co/iOt8DGMyBx
+
+--------------------
+
+Cline sits at the center of the MCP ecosystem in three key ways: First, Cline USES MCP servers to give you access to your tools and data without context switching. Second, Cline helps you BUILD MCP servers, making development 10x faster and more structured. Third, Cline helps https://t.co/opefN249Fd
+
+--------------------
+
+Your company's internal knowledge is its biggest untapped asset. With Cline + MCP, your team's documentation, codebase, and internal tools become accessible directly in the IDE. Ask questions about your own systems, get context-aware answers, and navigate complex codebases https://t.co/7NRLAEqvE8
+
+--------------------
+
+We're witnessing the birth of the MCP economy -- a rare, wide-open market with minimal competition and huge potential. Here's how to build MCP servers with Cline in &lt; 15 minutes: 🧵
+
+--------------------
+
+@mckaywrigley Hey @mckaywrigley ! Cline is an open-source coding agent that has full abilities to build &amp; use MCP servers throughout the development process (or other workflows tbh). Cline agentically leverages MCP servers just as other tools in its toolbelt -- this is the future of MCP. https://t.co/NOnK0mGZ7y
+
+--------------------
+
+Creating an MCP server starts with a .clinerules file in your /MCP/ directory. This special file puts Cline in MCP development mode. Get the template at: https://t.co/11J52LbwkN https://t.co/O21x2UVhH9
+
+--------------------
+
+MCP servers don't just add features to Cline -- they fundamentally transform how AI works with your tools. No more context switching. No more copy-pasting. Just seamless integration between Cline and everything else in your workflow. https://t.co/u6cGvOUmDy

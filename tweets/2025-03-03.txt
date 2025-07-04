@@ -1,0 +1,13 @@
+Developers who master MCP now will be highly valuable soon. MCP isn't just another API integration -- it's the fundamental bridge connecting AI agents to everything digital. Start building today with Cline. https://t.co/VAq921WZ7c
+
+--------------------
+
+The secret sauce? Our .clinerules file Drop this in your MCP project directory and Cline instantly knows how to guide you through the entire development process. Get the file and full tutorial here: https://t.co/11J52LbwkN
+
+--------------------
+
+Step 1: PLANNING Start by describing what you want to build. Cline will help define: &gt;Problem your plugin solves &gt;APIs or services to integrate &gt;Desired outputs Cline guides this entire phase using our protocol. https://t.co/vq4YuUjihL
+
+--------------------
+
+Developers: MCP is about to become extremely relevant as AI needs to connect with real-world data. The problem? Most don't know how to build MCP plugins yet. Here's how to build them with Cline in 3 simple steps using our .clinerules protocol. Thread 🧵 https://t.co/EQTcC5YJX5

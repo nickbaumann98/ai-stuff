@@ -1,0 +1,41 @@
+FYI check out @ArcanEdgeAI -- Bruce and his company led the way on this Mermaid diagram prompting technique
+
+--------------------
+
+The $200K+ mistake AI companies make isn’t hiring great ML talent—it’s hiring them too early. What they actually need first: ✅ Engineers who build robust measurement systems ✅ People who ask, “How do we measure success?” before, “How do we fine-tune?” ✅ Teams focused on
+
+--------------------
+
+Build better with Cline: https://t.co/VAq921WZ7c Join our community: - Discord: https://t.co/qrEzhiooh2 - Reddit: https://t.co/b4cX5H8RJW
+
+--------------------
+
+Blog: https://t.co/cDnkzmyEO2
+
+--------------------
+
+Unfortunately, AI coding assistants aren't quite psychics who can read your mind. Here's how to get past the '75% problem' in AI development and unlock truly collaborative coding: 🧵 https://t.co/jOWFzC2uZt
+
+--------------------
+
+2. Start with a complete implementation doc It's simple: - Have your AI read ALL relevant source files - Get it to ask about edge cases - Create actual examples together - Build shared understanding
+
+--------------------
+
+5. The results speak for themselves: - More maintainable code - Faster iterations - True human-AI collaboration It's not about limitations -- it's about process. AI coding assistants are incredibly powerful when you work with them rather than just throwing requirements over the
+
+--------------------
+
+3. Break features into atomic units The secret is manageability: - Focus on smaller, testable chunks - Keep context fresh and focused - Build iteratively together
+
+--------------------
+
+1. The first 75% of AI coding is magical. You describe a feature, and boom - working code appears. But there's an art to handling that final 25% effectively.
+
+--------------------
+
+(purely hypothetically speaking 👀) what would YOU demo at an SF Cline event? drop it in the replies 👇 https://t.co/0OnkffV6Cp
+
+--------------------
+
+4. Fresh sessions for implementation The key is clean context: - Start with your collaborative doc - New context = cleaner output - Build systematically

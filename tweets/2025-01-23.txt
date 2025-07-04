@@ -1,0 +1,37 @@
+3/ Here's what else I'm seeing from our power users: "R1's reasoning is top tier for planning, all problems I gave it, he solved them" "The model does well but context length (64k) is limiting. Not enough to read all files"
+
+--------------------
+
+7/ Want to learn more about integrating DeepSeek R1 into your workflow? Read about it here⬇️ https://t.co/3P2fFjnoom
+
+--------------------
+
+4/ This is exactly why we added Plan/Act modes to Cline. Use R1 ($0.55/M) for deep planning in Plan mode, then switch to Sonnet's proven coding abilities in Act mode. The cost savings are wild - 1/30th the price of o1 for the planning phase.
+
+--------------------
+
+5/ The real innovation isn't finding a "better" model - it's combining the right models for each phase: - R1 for architectural planning ($0.55/M) - 3.5-Sonnet for precise implementation - Plan/Act modes to seamlessly switch between them https://t.co/ikFD02983i
+
+--------------------
+
+1/ The DeepSeek R1 launch is revealing something fascinating about how we'll use AI models in 2025. The community reactions are telling a very different story than the benchmark comparisons suggest... 🧵
+
+--------------------
+
+The MCP Hackathon is underway in our Discord! 🛠️ Submissions are open now—build your MCP server and vote on your favorites. Details &amp; rules👇
+
+--------------------
+
+2/ "I'm loving planning with R1's reasoning, then switching to Sonnet for implementation. Planning is where you want to spend your slower tokens." Our community is discovering that mixing models isn't just cheaper - it's more effective.
+
+--------------------
+
+6/ The future of AI development isn't about picking a winner - it's about orchestrating strengths: - R1's reasoning muscle at planning prices - Sonnet's battle-tested coding - Plan/Act modes tying it all together
+
+--------------------
+
+1/ Plan/Act mode is changing how we code. One dev's workflow: 'Right now my SOP is to respond "are you sure? anything u need to double check?" each time until it says "Yes I'm 100% sure" then click act' Increases accuracy and automation in one click. Simple but game-changing.
+
+--------------------
+
+Download the Cline VS Code Extension: https://t.co/VAq921WZ7c

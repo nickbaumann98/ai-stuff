@@ -1,0 +1,37 @@
+4/6 Memory Bank uses these diagrams to solve a common AI problem: Every new chat = complete memory reset. Instead of re-explaining your project each time, Memory Bank gives Cline a structured way to rebuild context.
+
+--------------------
+
+5/6 Want to experiment with this? Add Mermaid diagrams to your Cline custom instructions. The process is simple -- take your current custom instructions and have AI convert it to a Mermaid diagram.
+
+--------------------
+
+Writing walls of text to tell an AI what to do is painful. Our community discovered something interesting: using Mermaid diagram code for custom instructions instead of paragraphs. Here's what it looks like in practice 🧵 https://t.co/LbLBixQcit
+
+--------------------
+
+https://t.co/t0tLvup1dU
+
+--------------------
+
+1/6 Traditional prompt: "First check the context, then validate files..." Mermaid version: flowchart TD Start --&gt; ReadFiles ReadFiles --&gt; Verify Verify --&gt; Execute
+
+--------------------
+
+Tired of your AI assistant getting amnesia? Our community built something fascinating: 🧠 Memory Bank. It's like giving your AI a perfectly organized brain. Through custom instructions, Cline maintains a living documentation system that rebuilds context after every reset. The https://t.co/vL17YAVj0c
+
+--------------------
+
+2/6 Here's a real example from our Memory Bank sytem: Instead of paragraphs explaining relationships, the hierarchy is instantly clear through visualization. https://t.co/bI61VUtaJ8
+
+--------------------
+
+Build better with Cline: https://t.co/VAq921WZ7c Join our community: - Discord: https://t.co/qrEzhiooh2 - Reddit: https://t.co/b4cX5H8RJW
+
+--------------------
+
+6/6 This is cutting-edge stuff we're exploring. No guarantees, but the early feedback from our community is promising.
+
+--------------------
+
+3/6 Why might this work better? &gt;Each node &amp; connection is explicit &gt;No room for ambiguity &gt;Clear decision points &gt;Visual representation of process flow It's like giving AI a map instead of written directions.

@@ -1,0 +1,165 @@
+https://t.co/tutYLK4p9f
+
+--------------------
+
+@firecrawl_dev https://t.co/tutYLK4p9f
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+🚀 Spot an error in your code? Let Cline fix it immediately. When you see the lightbulb icon in your editor, select "Fix with Cline" to send the code and its error context directly for resolution. Cursor users can also access this through Quick Fix (CMD + .) https://t.co/7njtJYSSZ5
+
+--------------------
+
+🚀 We just shipped Cline v3.8 with a bunch of important updates. Here's what they mean for you as a developer: 🧵👇
+
+--------------------
+
+Read our full analysis: https://t.co/IgBk9MHEE9
+
+--------------------
+
+🚀 Need to give Cline more context? We've made it easier than ever in v3.8.0. Just right-click a file or terminal output and select "Add to Cline" to instantly feed that information to your current task. No more copying and pasting. https://t.co/6mDA1P1hFg
+
+--------------------
+
+4/ Take control of your model selection with our new 'Sort underlying provider routing' setting. Choose models based on what matters to you: throughput for faster results (try DeepSeek!), price for budget-conscious projects, or latency for real-time applications. https://t.co/7vJQGhKb45
+
+--------------------
+
+4/ We expect this pattern extend beyond Blender to: &gt; Data visualization (Tableau, PowerBI) &gt; Video editing (Premiere, DaVinci) &gt; Music production (Ableton, Logic) &gt; Database management And yes, even "no-code" platforms
+
+--------------------
+
+2/ Most AI coding tools operate on subscription models with credit systems that artificially limit context to control costs. The result? Models that can't see your whole codebase, don't understand your architecture, and generate code that barely works. This isn't how these
+
+--------------------
+
+7/ The choice is simple: Do you want an AI agent optimized for low monthly fees or one optimized for results? The most expensive coding assistant is the one that wastes your time with half-solutions because it can't understand your problem. Try Cline. First tokens on us.
+
+--------------------
+
+1/ Every professional tool follows the same pattern: &gt; Powerful software requires complex interface &gt; Complex interface requires weeks/months to learn &gt; Only dedicated specialists can use it effectively This isn't just inefficient—it's a practical barrier that limits who can
+
+--------------------
+
+The most expensive AI coding agent isn't the one that costs the most per token—it's the one that wastes your time with half-baked solutions because it lacks context. Cline gives models unrestricted access to your entire codebase, not just snippets. 🧵 on why this matters: https://t.co/5PRKzEylQB
+
+--------------------
+
+6/ Flexibility to choose: - Free: Gemini-pro models at $0/token - Economic: DeepSeek at ~$1/M tokens - Premium: Claude 3.5/3.7 at ~$3-15/M tokens Use premium models for complex architecture, economical options for routine tasks.
+
+--------------------
+
+1/ When a senior dev tells you they spent $125 on API credits in a single day but produced 35,000 lines of functional code, is that expensive or a bargain? Average dev cost: ~$100/hour Daily cost: ~$800 Cline daily cost: $5-25 The math isn't complicated.
+
+--------------------
+
+3/ Model Context Protocol (MCP) servers offer a practical solution. They translate between your intent and the software's interface. You: "Create a mountain landscape with snow and a lake" MCP: executes the specific Blender commands to make it happen No shortcuts to memorize.
+
+--------------------
+
+7/ The demand we're seeing is real: - Figma (already in our marketplace) - AutoCAD (our most requested engineering tool) - Excel/Google Sheets - Jira (already in our marketplace) - Many more People consistently want the same thing: less interface friction.
+
+--------------------
+
+4/ With proper context, models like Claude 3.7 Sonnet can break down complex problems and deliver precisely what you need. But only if they can see the whole picture. We're talking 10-100x developer productivity with the right approach.
+
+--------------------
+
+🚀 Cline 3.8 elevates your custom tools with dynamic image loading and GIF support in rich MCP display. Imagine accessing NASA's Picture of the Day right in your coding environment, or watching your data visualizations animate in real-time. Less context switching, more visual https://t.co/nOgp2ZSU8W
+
+--------------------
+
+2/ Fix errors as soon as they appear with our new code actions. When you see the lightbulb icon, choose "Fix with Cline" to send code and error context directly to Cline. Cursor users can also access this through Quick Fix (CMD + .) https://t.co/ss7V0Tbq77
+
+--------------------
+
+9/ The next phase of software isn't about better UIs. It's about reducing or eliminating them where possible. Just you, your ideas, and tools that understand what you're trying to accomplish.
+
+--------------------
+
+Our full thoughts: https://t.co/dUCdiO7wP3
+
+--------------------
+
+5/ Complete transparency: - See exactly which model you're using - Understand token costs - Control your spending - Use the right tool for each job No hidden credit systems or arbitrary usage tiers.
+
+--------------------
+
+🚀 With v3.8, we've integrated a full Account view directly into the extension. Track credits consumed, view your transaction history, and manage your billing -- all without leaving your development environment. https://t.co/ENJvBfgIEH
+
+--------------------
+
+3/ The new Account view streamlines how you manage your Cline usage. Now you can track billing and usage history right in the extension -- monitor your credit consumption and see transaction details without leaving your editor. https://t.co/CKv6Y1S7do
+
+--------------------
+
+8/ This is about making professional tools more accessible. The senior exec who needs data visualization without calling the analytics team. The filmmaker who can't afford months learning editing software. The small business owner who wants an app without learning Bubble.
+
+--------------------
+
+2/ Think about your own experience: How many hours have you spent hunting through nested menus? How many tutorials have you watched just to do ONE specific thing in your software? How many projects never happened because the tool was too difficult to learn?
+
+--------------------
+
+7/ No more "Context Window Exceeded" errors when using OpenRouter or Cline Accounts. We've fixed this frustrating bottleneck, with more improvements coming soon. Keep your workflow uninterrupted, even with complex projects and large context requirements.
+
+--------------------
+
+6/ The practical benefits are straightforward: &gt; Reduced training time - be useful from day one &gt; Focus on your actual work, not the tool &gt; Apply your knowledge across different software &gt; Spend time on creation instead of menu navigation
+
+--------------------
+
+🚀 New in Cline 3.8: Take full control of your AI providers with 'Sort underlying provider routing.' Optimize for throughput when speed matters, price when you're budget-conscious, or latency for real-time applications. No more compromises between cost and performance! https://t.co/xn5M8FssOJ
+
+--------------------
+
+3/ Cline connects you directly to model APIs with zero context limitations: - Models read entire files, not snippets - AI actively explores related files - Full capability to understand broader architecture - No arbitrary request limits Result: Quality solutions, not just code
+
+--------------------
+
+When an SF startup told us Cline made their engineers 5x more productive, we did the math on what happens if this scales globally. The numbers are staggering. 27M global developers × 5x productivity = $14 TRILLION in new economic value. That's adding another Germany to the world https://t.co/oYEG7Y5eoB
+
+--------------------
+
+6/ Easier access to help with our new Documentation menu item. One-click access to Cline's docs means you're never far from the guidance you need. https://t.co/pZE30ooFze
+
+--------------------
+
+Complex UIs are cooked: https://t.co/QE8uHBOosL
+
+--------------------
+
+8/ Better resource management with our improved History view. Now you can see exactly how much disk space Cline is using next to the "Delete all Tasks" button -- making it easier to maintain performance and manage system resources. https://t.co/H7jsoewpvZ
+
+--------------------
+
+5/ Rich MCP display now supports dynamic image loading and GIFs. This means more intuitive visualization tools when working with visual data, giving you clearer insights and better context directly in your development environment. https://t.co/oXaMGMjVFA
+
+--------------------
+
+🚀 Cline v3.8.0 is now available with exciting new features! - New workflow integrations: 'Add to Cline' context menu option and 'Fix with Cline' code actions via lightbulb/Quick Fix - Track your usage with our new Account view: monitor billing and credit consumption right in https://t.co/46Z7L9bnqD
+
+--------------------
+
+1/ Add context faster with our new right-click integration. Just right-click text in a file or terminal and select "Add to Cline" to feed relevant information directly to the chat. https://t.co/LTaHkaXW2C
+
+--------------------
+
+View the full breakdown in our latest blog: https://t.co/b4rIJlvwd8
+
+--------------------
+
+The complex UI is dying, and it's about time. Those viral videos of people creating Blender scenes just by typing? That's a glimpse into the future. MCP servers are finally eliminating the "UI tax" we've all been paying for decades. 🧵 on the future we envision: https://t.co/Q5FAAPccD0
+
+--------------------
+
+5/ The "no-code" situation is particularly telling: Tools designed to make software creation easier ended up with their own learning curves. It turns out describing what you want to an AI assistant is often simpler than navigating these platforms manually.
+
+--------------------
+
+https://t.co/tutYLK4p9f

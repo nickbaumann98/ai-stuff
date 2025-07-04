@@ -1,0 +1,21 @@
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Here's how the prompt is 30% leaner: Cline now dynamically loads context, such as tool guides, referencing them only when needed.
+
+--------------------
+
+This is just the beginning of our push for more intelligent context management. We're actively exploring further optimizations, such as better handling of verbose terminal output, to continue improving Cline's focus and efficiency.
+
+--------------------
+
+Why this focus on context efficiency? Reducing noise -- like outdated file versions or prompt sections not relevant to the current task -- helps Cline stay better aligned with your immediate goal, improving the reliability of its output.
+
+--------------------
+
+Cline 3.12.1 continues our push for smarter context management, with a 30% leaner system prompt that loads dynamically, plus automatic pruning of old file versions that bloat context. For you, this means a smarter and more efficient Cline. 🧵
+
+--------------------
+
+Context clutter from file edits is also reduced. Cline now automatically detects multiple versions of the same file in the window and intelligently removes older copies as space gets tight, keeping the latest, most relevant version active.

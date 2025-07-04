@@ -1,0 +1,13 @@
+RELEASE UPDATES Today we released Plan &amp; Act modes in Cline. It formalizes the workflow used by the best AI Engineers today, where PLANNING &gt; PROMPTING. Here's how you can use Cline's new Plan &amp; Act modes to get the most out of AI in your development 1/🧵
+
+--------------------
+
+@sdrzn The best AI Engineers don't obsess over writing perfect prompts – they obsess over planning. There's a reason for this, and it has everything to do with context. more on why we think Plan &amp; Act modes are a step change improvement in Cline. blog: https://t.co/qGhcT7Xgjp
+
+--------------------
+
+Adding MCP servers is pretty quick. Even when it doesn't work. Here's how to add and troubleshoot adding MCP servers to Cline in 2 mins. https://t.co/QcmPh3FRdG
+
+--------------------
+
+Build &amp; use Model Context Protocol (MCP) servers all within Cline. The possibilities with Cline x MCP are ENDLESS. https://t.co/pH96lSBXKY

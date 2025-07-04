@@ -1,0 +1,5 @@
+Most AI assistants are stuck reading error messages you paste. Cline can launch Chrome, find my broken Next.js routes, and fix them while showing me exactly what it was doing. This isn't just code completion -- it's AI that can actually debug your running app. https://t.co/sEafAV2qQB
+
+--------------------
+
+Want to join the conversation with other builders on the bleeding-edge of AI? Join our discord: https://t.co/iR3tX9FAwS Join our subreddit: https://t.co/RlWwJO5TKf

@@ -1,0 +1,87 @@
+"Intelligence too cheap to meter is well within grasp" - Sam Altman just laid out the future of AI.
+
+Here's why we've been building Cline for this exact future—where inference abundance, not scarcity, defines how developers work.
+
+[screenshot: "intelligence too cheap to meter" quote]
+
+↓
+
+We made a deliberate choice:
+
+While others architect around inference scarcity (caps, throttling, hidden operations), we built for abundance.
+
+Why? Because limiting AI to protect margins is like rationing water next to the ocean. The economics are already shifting.
+
+Our architecture reflects this belief:
+- No artificial context limits
+- Full transparency (see every file read, every edit)
+- Bring your own API key
+- Use any model, any provider
+
+We don't profit from inference. We profit from making developers more powerful.
+
+This isn't theoretical. Our community already experiences this daily.
+
+Developers tell us they're 2-3x more productive. They tackle entire refactors, build complex features, debug across massive codebases.
+
+When you remove artificial limits, developers do incredible things.
+
+[screenshot: "the idea guys" section]
+
+Altman: "technical people...have made fun of 'the idea guys'...It now looks to me like they are about to have their day in the sun."
+
+Our users are already there—focusing on architecture and vision while Cline handles implementation details. The future is here.
+
+But abundance without alignment is chaos.
+
+That's why our glass-box approach matters. As AI grows more powerful, you need MORE visibility, not less.
+
+Every action transparent. Every decision traceable. Human-in-the-loop by design.
+
+This is how we build trust at scale.
+
+We're not done. As inference costs plummet, we're building:
+- Multi-agent orchestration
+- Deeper IDE integrations  
+- Richer MCP ecosystem
+
+All open source. All transparent. All designed for the abundant future that's already arriving.
+
+Join 2M+ developers already experiencing development without limits.
+
+Cline is free, open source, and works with any model.
+
+The future Altman describes? You can use it today.
+
+GitHub: https://github.com/cline/cline
+Community: https://discord.gg/cline
+
+--------------------
+
+Speaking of alignment, as AI capabilities grow, human intent becomes the critical 5%. We've seen this in how our users work with Cline.
+
+Early on, we noticed users (and ourselves internally) asking Cline to not write code until given permission. They needed brakes for AI eagerness.
+
+↓
+
+This observation was the precursor to our Plan-Act paradigm. It's not just a mode—it's a recognition that agentic AI requires space for human intent.
+
+Plan phase: gather intent, ask questions, align. Act phase: execute uninterrupted. Two phases, one AI, optimized for collaboration.
+
+↓
+
+Interestingly, we see Plan-Act as both a crutch for current model eagerness and a fundamental paradigm. Agents aren't just fixing bugs—they need direction.
+
+We almost didn't build it, hesitant to add complexity. Cline must feel intuitive out of the box. But user needs drove us forward.
+
+↓
+
+It's validating to see other AI coding tools adopt similar approaches recently. It confirms what we observed months ago about the need for intent.
+
+We're open to evolving how planning looks—tweaks, new form factors. What do you think? How should intent-gathering shape AI collaboration?
+
+↓
+
+Share your thoughts with us. We're curious to hear how you guide AI to align with your vision.
+
+Join the conversation in our community: https://discord.gg/cline

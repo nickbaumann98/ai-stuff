@@ -1,0 +1,105 @@
+Inspired by this, Cline users are creating their own variations. Some build detailed 'codemaps' within their Memory Bank, using diagrams to help Cline navigate large codebases more effectively. https://t.co/Vf0HVX7d2W
+
+--------------------
+
+Other models like Claude 3.7 Sonnet and GPT-4.1 are generally seen as capable, but users still report occasional inconsistency in following detailed, multi-step instructions compared to Grok's perceived reliability in that specific area.
+
+--------------------
+
+Contrast that with Grok 3. Users consistently report it's remarkably good at following complex custom instructions, especially for stateful tasks using methodologies like Memory Bank. It seems to have a strong "fixation" on adhering to the prompt.
+
+--------------------
+
+- Caching and context management are essential for keeping costs down with large-context models. Users frequently start new tasks or use /smol to manage context. - New models (Qwen3, Grok-3 Mini) are being tested for the best performance/price ratio.
+
+--------------------
+
+Popular community instructions often use Mermaid diagrams to define the documentation structure Cline should follow: https://t.co/EpUIhyEBLN
+
+--------------------
+
+You might soon be using Cline to buy software 👀 @jeff_weinstein
+
+--------------------
+
+- Prompt quality matters: GPT-4.1 shines with a detailed plan, while Gemini 2.5 Flash and Deepseek V3 are popular for high-volume, low-cost acting. - Some users plan outside Cline (https://t.co/5CdInKyVtw, Google AI Studio), then bring detailed plans in for execution.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+- The dominant workflow: Plan with a top-tier model (reasoning, architecture), then Act with a cheaper, faster model (code edits, execution). - Example combos: Claude 3.7 Sonnet or o4-mini-high for planning, then Deepseek V3 or Gemini 2.5 Flash for acting.
+
+--------------------
+
+Ultimately, Memory Bank is an adaptable methodology guided by your custom instructions or `.clinerules`. Experiment with structures and visual prompts that work for your workflow. How are you managing persistent context in Cline? Share your ideas!
+
+--------------------
+
+Join the discussion: https://t.co/qrEzhiooh2
+
+--------------------
+
+We've also seen experiments using Mermaid sequence diagrams within prompts to guide Cline through complex task execution, building on the context established by the Memory Bank files. https://t.co/eDfLgF5qoh
+
+--------------------
+
+What’s your Plan/Act combo?
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+We’ve watched Cline users experiment with every major model to find the right balance of cost, speed, and quality. Here’s what’s actually working 👇
+
+--------------------
+
+AI assistants like Cline operate with context limits. The 'Memory Bank' methodology tackles this using structured documentation (simple markdown files in your project) that Cline reads via custom instructions or `.clinerules` to rebuild project understanding across sessions.
+
+--------------------
+
+A common theme: inconsistency. Users find that getting any model to reliably follow detailed instructions (like those for Memory Bank or complex refactors) often requires careful, structured prompting. It's rarely perfect out-of-the-box.
+
+--------------------
+
+- Cost is king: users swap models when API costs spike, especially for “Act.” The introduction of caching for Gemini 2.5 Pro was a major event. - Claude 3.7 Sonnet is the reliability benchmark, but Gemini 2.5 Pro and GPT-4.1 are strong contenders—each with their own quirks.
+
+--------------------
+
+Example: Gemini 2.5 Pro gets mixed reviews. Some users describe it as "insane" in its capability when it works, but others call it a "dice roll," sometimes ignoring instructions or going completely off-task. Extremely powerful, but needs supervision.
+
+--------------------
+
+Others integrate the Memory Bank methodology with the new_task tool. This combines persistent context stored in files with the short-term context summary passed between tasks, offering layered memory management.
+
+--------------------
+
+Because this methodology uses standard markdown files, it's great for collaboration. Committing the `memory-bank/` directory (or your custom structure) to Git allows teams to share a persistent, evolving understanding of the project context.
+
+--------------------
+
+The takeaway? Leaderboards don't capture everything. Real-world developer experience using tools like Cline reveals crucial nuances in how models handle instruction following for complex tasks. What's your experience been? Which models follow your Cline instructions best?
+
+--------------------
+
+Benchmarks show model progress, but how well do they actually follow complex instructions during real coding sessions? We looked at what Cline users are saying about this crucial capability. 🧵
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+@florin_dev 🫶
+
+--------------------
+
+Cline's 'Memory Bank' = a methodology for persistent context using custom instructions &amp; docs, not a fixed feature. Here's how our power users are creating unique variations with visual prompts 🧵 https://t.co/8ZTzWBccp4
+
+--------------------
+
+Learn more about the community Memory Bank instructions: https://t.co/IyDJNlINS9

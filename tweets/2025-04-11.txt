@@ -1,0 +1,41 @@
+Coding with Cline is like crafting a story. There's the setting (system prompt), conflict (user's task), and actions shaping the narrative (reading files, writing code). When @0xtoshii joined our AI team, he saw why Cline works well: the story flows naturally 🧵 https://t.co/CcdOIyBh2t
+
+--------------------
+
+LLMs excel at predicting what comes next in a coherent narrative. As long as the story makes sense, Cline can continue writing it. And the result is logical code that moves the story along towards a meaningful resolution of conflict (aka your task). But stories can get bloated.
+
+--------------------
+
+We are committed to refining Cline's core architecture for effective coding partnership. For insights into Toshi's technical approach and framework, read the full blog post:
+
+--------------------
+
+A key solution is pruning old files. We're developing a feature for Cline to detect multiple versions of the same file in context. When the context window is half full, it will automatically remove older versions, retaining only the latest, definitive version.
+
+--------------------
+
+Toshi noticed that as the story unfolds (files read, code edited), context accumulates with old file versions and unused docs. 8k tokens of docs become an unwanted appendix. He realized efficient AI coding requires more than huge context windows -- it's about narrative integrity.
+
+--------------------
+
+@OpenRouterAI Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+We're making a deliberate effort to improve Cline's token efficiency. What we're finding is that trimming unnecessary context not only makes Cline more affordable, but it also measurably improves coding accuracy by reinforcing narrative integrity.
+
+--------------------
+
+We envision Cline delivering a clearer, more efficient story. By reducing outdated information, the main plot remains intact longer, allowing Cline to concentrate on the current chapter. This approach leads to more reliable code generation, balancing efficiency with clarity.
+
+--------------------
+
+The goal becomes preserving the story's narrative integrity -- the 'why' behind the code -- while making the writing process more efficient. His approach started by asking, "What parts of the context are like outdated drafts or appendices we can remove?"
+
+--------------------
+
+https://t.co/HAXFHeTpLt
+
+--------------------
+
+We're also experimenting with reducing context by storing large references, like the ~8k-token MCP docs, outside the main storyline. Cline can access them like a glossary, fetching them only when needed.

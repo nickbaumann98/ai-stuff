@@ -1,0 +1,5 @@
+Tired of AI assistants seeing your .env files or test data? Just shipped .clineignore 🔒 in Cline v3.3.0 - now you can: - Block access to credentials &amp; secrets - Hide sensitive customer data - Prevent AI from seeing test files It's .gitignore, but for AI safety 🛡️ https://t.co/MvPB5vvV0E
+
+--------------------
+
+🚀 Cline v3.3.0 just dropped with important security &amp; ecosystem updates! • .clineignore for granular AI file access control (like .gitignore) 🔒 • Together, Requesty, &amp; Alibaba Qwen API providers 🌐 • AWS Bedrock profile support ☁️ • Plan/Act keyboard shortcuts (cmd + shift https://t.co/Nwf9DNkrmx

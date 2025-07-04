@@ -1,0 +1,43 @@
+v0 1.5 models are now available in Cline. These are models from v0 that are specialized in frontend code generation for React and Next.js.
+
+Here's what makes them different and how to set them up:
+↓
+Unlike general-purpose models, v0 1.5 was built specifically for web development.
+
+It combines a frontier base model with custom AutoFix that catches errors during generation, plus Quick Edit for fast inline changes.
+↓
+The results speak for themselves:
+
+- v0-1.5-md: 93.87% error-free generation
+- Claude 4 Sonnet: 64.71% 
+- GPT-4.1: 58.82%
+- Gemini 2.5 Pro: 58.82%
+
+That's a massive difference for frontend work.
+↓
+Setting up v0 1.5 in Cline:
+
+1. Open Cline model selector
+2. Choose "OpenAI Compatible" as API Provider  
+3. Base URL: https://api.v0.dev/v1
+4. Paste your v0 API key
+5. Model ID: v0-1.5-md
+6. Click Verify
+
+[link-to-media]
+↓
+Pricing is straightforward:
+- Input: $3/1M tokens
+- Output: $15/1M tokens
+
+You'll need a v0 Premium or Team plan to access the API.
+↓
+We've been testing this extensively and the quality for React/Next.js components is impressive.
+
+[link-to-video-demo]
+↓
+The combination of Cline's workflow with v0's frontend specialization creates a powerful setup for web development.
+
+Docs: https://vercel.com/docs/v0/cline
+
+@v0

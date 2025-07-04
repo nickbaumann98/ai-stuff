@@ -1,0 +1,17 @@
+The AI landscape in 2025: Services go down, APIs hit limits, yet the work continues. Here's what ACTUALLY happens when developers pivot to running models locally... A thread on the real experiences from our community: 🧵
+
+--------------------
+
+DeepSeek crashed NVIDIA's stock but can't handle its own API traffic. Here's a view from the developer trenches... 1/🧵 https://t.co/OETGA2jVJq
+
+--------------------
+
+7/ Key learning: There's no silver bullet. Whether cloud or local, it's about finding what works for YOUR use case. We expect these models to become increasingly powerful and accessible. And as they arrive, they will be available for use within Cline.
+
+--------------------
+
+🫡🙏🙇‍♂️
+
+--------------------
+
+Step 1: start Keurig brew Step 2: build landing page w/ wallet integration using Cline Step 3: drink cold brew ☕️

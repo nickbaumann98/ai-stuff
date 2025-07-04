@@ -1,0 +1,27 @@
+We turned a 50-question PDF on LLMs into a 10-episode podcast series, with Cline orchestrating the entire process from start to finish.
+
+Here’s a look at the workflow that made it possible. 🧵
+
+--------------------
+
+It all started with this great resource on LLM basics shared by @omarsar0.
+
+https://x.com/omarsar0/status/1930984834454712537
+
+--------------------
+
+First, we prompted Cline to have Gemini 2.5 Pro read the PDF and restructure its content. Cline generated a script for each of the 10 episodes in the series.
+
+--------------------
+
+Next, Cline used the ElevenLabs MCP server to convert each script into high-quality audio, generating all 10 MP3 files directly from the editor.
+
+--------------------
+
+To wrap it up, Cline organized the entire project, moving the new text and audio files into a dedicated `podcast_series` folder and creating a consolidated transcript of the full series.
+
+--------------------
+
+The entire workflow, from a single PDF to a complete, organized podcast series, was handled in one continuous conversation.
+
+You can check out the full source code, transcripts, and listen to the audio in the GitHub repo here: [LINK_TO_GITHUB_REPO]

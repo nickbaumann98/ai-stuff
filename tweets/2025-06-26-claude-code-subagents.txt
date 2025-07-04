@@ -1,0 +1,32 @@
+FYI: You can use Cline as an orchestrator to spawn Claude Code subagents that run tasks in parallel.
+
+↓
+
+How it works: You ask Cline to spawn agents for different tasks. Cline uses execute_command to launch Claude Code instances that work simultaneously.
+
+"Hey Cline, spawn 3 agents to analyze this codebase for security, performance, and architecture issues"
+
+[link-to-media]
+
+↓
+
+The key is giving Cline the syntax knowledge. With the right .clinerules file, Cline knows how to:
+- Spawn agents with specific tasks
+- Run them in parallel with &
+- Manage sessions for multi-turn workflows
+- Set autonomous modes for hands-off operation
+
+↓
+
+Example experiments to try with Cline:
+- "Spawn agents to research different API design patterns"
+- "Have 3 agents build the same feature different ways"
+- "Create agents to analyze each microservice separately"
+
+↓
+
+We've created a .clinerules file that teaches Cline all the Claude Code CLI patterns for spawning and managing subagents.
+
+Add it to your project and start experimenting.
+
+https://github.com/cline/prompts/blob/main/.clinerules/claude-code-subagents.md

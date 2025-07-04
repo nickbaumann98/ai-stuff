@@ -1,0 +1,53 @@
+Need project standards documented? Ask Cline to generate them with the new /newrule command! e.g., "/newrule create design system guidelines". Cline analyzes project context (code, libs, patterns) &amp; generates a .clinerules file for consistency. https://t.co/ndRpZADqVZ
+
+--------------------
+
+Changelog: https://t.co/2jyrCvJ4U8
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+- Fixes: Addressed terminal race conditions, Windows paths (@DaveFres!), local dev syntax (DaveFres!), git mentions, cost calculations (BarreiroT!), &amp; more.
+
+--------------------
+
+Fitting for v3.14, we've added full LaTeX rendering support! Cline now correctly renders math equations and other LaTeX markup directly in the chat. https://t.co/1lEi2JMBxl
+
+--------------------
+
+Pro Tip: Use /newrule for API patterns, testing conventions, tech stack summaries &amp; more!
+
+--------------------
+
+Cline v3.14 is live. Here's what's new (mega 🧵) ↓ https://t.co/rboC7o1PgR
+
+--------------------
+
+Huge thanks to all community contributors! 🙏 Update Cline to get v3.14. Let us know what you think!
+
+--------------------
+
+Checkpoints are more frequent! We added more checkpoints, including right when switching from Plan to Act mode. Easily revert to planning if initial code gen isn't right, offering more granular control. https://t.co/BpyqTJ6VQX
+
+--------------------
+
+Other updates: - Custom Timeouts: Configurable API request timeouts for OpenRouter/Cline &amp; Ollama (Thanks WingsDrafterwork!). - Bedrock Updates: Support for custom model IDs (@clicube!) &amp; Amazon Titan Text Premier (watany!). &amp; more ↓
+
+--------------------
+
+Key QoL updates in this release: - Copy Buttons: Added to code &amp; markdown blocks (Thanks weshoke!). - Improved Drag &amp; Drop: Drag files from OS file explorer (Hold Shift!). - Batch History Deletion: Select &amp; delete multiple tasks (Thanks danix800!).
+
+--------------------
+
+Read the full details on the blog: https://t.co/gOcI49D1X3
+
+--------------------
+
+Pro Tip: Refining the plan early is often faster than editing lots of generated code!
+
+--------------------
+
+First up, significant improvements to Gemini caching &amp; cost transparency: - Refined caching logic for Gemini/Vertex for better reliability &amp; cost savings. - Added Cache UI for OpenRouter/Cline providers. - Enabled pricing calculations for Gemini/Vertex. https://t.co/GJlDaK1yk8

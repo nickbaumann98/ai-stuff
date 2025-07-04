@@ -1,0 +1,37 @@
+&amp; Cline as the glue to pull it all together
+
+--------------------
+
+Thank you @firecrawl_dev !!! Gonna go tell everyone about this one 🏃
+
+--------------------
+
+Want Cline to automatically pick the right MCP server based on what you're asking? Try defining for Cline when to use MCP servers Ask about "stocks" → get financial data Mention "GitHub" → access repo tools Say "generate image" → DALL-E fires up Create a .clinerules file or https://t.co/qk8jSAKgNm
+
+--------------------
+
+Hey @pashmerepat mind if I have those? Got something in mind 👀
+
+--------------------
+
+We're watching the beginning of the end for complex UIs. Those Blender AI demos going viral aren't just neat tricks -- they're early signals of a massive shift. We've all paid the "UI tax" for decades: spending weeks learning software instead of creating with it. MCP servers
+
+--------------------
+
+Complicated UIs are cooked: https://t.co/QE8uHBOosL
+
+--------------------
+
+Generate LLMs.txt files with the @firecrawl_dev MCP in seconds. Turn any website into clean, LLM-ready text files directly from your editor - perfect for building better context from docs, tutorials, or research papers. Watch how quickly Cline pulls this off 👇 https://t.co/Odb2CWIfcG
+
+--------------------
+
+Selectable options transform how you work with Cline -- let us explain: Instead of typing open-ended responses, you can now choose from curated paths that Cline presents. This shifts Cline from just a tool to a true collaborative partner -- offering guidance while keeping you in https://t.co/jNHfXXRfBW
+
+--------------------
+
+Use this template to get started: { "mcpRules": { "categoryName": { "servers": ["server-name-1", "server-name-2"], "triggers": ["keyword1", "keyword2", "phrase1"], "description": "What these servers do" } }, "defaultBehavior": {
+
+--------------------
+
+https://t.co/tutYLK4p9f

@@ -1,0 +1,27 @@
+We never wanted to build a 'plan mode' in Cline. It went against our core principle of simplicity. But then we saw how people were actually using AI, and it became clear we had to. 🧵
+
+↓
+
+Internally, and with our earliest users, we noticed a pattern. As the AI got more capable, people would instinctively say "wait, don't code yet" or "let me see a plan first." They needed a brake pedal for an AI that was too eager to help.
+
+↓
+
+We were hesitant. Adding modes adds complexity, and we want Cline to feel intuitive. We debated it back in January, worried about forcing a specific workflow. The goal was always to keep the tool feeling light and unopinionated. [link-to-media]
+
+↓
+
+But we realized this wasn't about forcing a workflow. It was about creating space for the most critical part of development: human intent. The AI can write the code, but only the human knows the *why*. Plan Mode became a necessary space for that dialogue.
+
+↓
+
+So we stopped thinking of it as a "mode" and started seeing it as a paradigm. A deliberate separation between gathering intent (Plan) and executing on it (Act). It’s the same powerful AI throughout, just a different phase of collaboration. [link-to-media]
+
+↓
+
+What started as a reluctant feature has become a cornerstone of the Cline experience. It turns out that giving users a dedicated space to align with the AI before it acts leads to dramatically better outcomes.
+
+↓
+
+It's been validating to see the broader AI coding community adopt similar planning phases recently. It confirms what we learned months ago: as AI gets more powerful, the space we create for human intent matters more than ever.
+
+What are your thoughts on this?

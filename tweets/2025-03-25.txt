@@ -1,0 +1,85 @@
+4/ We're continuing to integrate the latest models to give you options that fit your specific needs and budget. DeepSeek V3-0324 represents another step toward making advanced AI coding more accessible.
+
+--------------------
+
+3/ The model shows different strengths than other premium options. While excellent at generating code, our testing suggests its tool use capabilities aren't as developed yet. 3.7 Sonnet still is king in this regard.
+
+--------------------
+
+Think you can get the high score? https://t.co/ghUCZhBcds
+
+--------------------
+
+2/ Frontend coding capabilities have impressed many users. "That's bananas... I didn't know it could make nice animations like that" was the reaction to seeing its HTML/CSS animations. This appears to be a particular strength worth exploring.
+
+--------------------
+
+@PalantirTech @PalantirTech 🤝 Cline Using Cline
+
+--------------------
+
+Seems we share similar taste in vibe coding @PalantirTech
+
+--------------------
+
+DeepSeek V3-0324 has been getting stress-tested by our community. They've been exploring its capabilities, and the initial feedback is promising. Let's dive into what we're seeing: 🧵 DeepSeek V3-0324 (left) vs Claude 3.7 Sonnet (right) https://t.co/NwhIY3yHrR
+
+--------------------
+
+1/ First, the code output is mind-blowing. Engineers aren't just typing faster—they're operating at a different level. They describe architectural patterns and watch as Cline generates entire modules. "It implements the whole thing with little to no issues."
+
+--------------------
+
+Want more insights on how AI is transforming software development? Read the full story: https://t.co/DsFAZqrm18
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+5/ These effects compound across the organization: Code: 10x Learning: 5x Energy: 2x Focus: 3x This isn't adding up to 20x—these factors multiply together, fundamentally changing what teams can achieve.
+
+--------------------
+
+4/ Senior engineers get to operate at their true level. "I'm often so caught up in details that I lose track of where the company should be guided." They become strategic multipliers rather than implementation machines.
+
+--------------------
+
+2/ The learning curve collapses dramatically. New hires get up to speed in days, not months. "Our new hire isn't hitting up senior engineers because he has Cline in his back pocket." Knowledge transfer without the constant interruptions.
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+https://t.co/tutYLK4p9f
+
+--------------------
+
+1/ Cost efficiency is a major highlight. As one user noted: "Finally we got a model on par with 3.7 at 90% cheaper cost." This price difference is dramatic (21x cheaper for input, 53x for output).
+
+--------------------
+
+7/ The 10x engineer isn't a myth. But instead of trying to hire these unicorns, Cline effectively turns your entire engineering team into 10x versions of themselves.
+
+--------------------
+
+This is so cool. One of our users turned his daughter's hand-drawn rocket and alien doodles into a fully playable space game using Cline. Check it out 👇 https://t.co/1cgldvMAg7
+
+--------------------
+
+3/ Burnout drops significantly. "It's easy to put in a ten-hour workday just reviewing and steering the conversation. Less burnout is a very meaningful factor." Engineers stay energized when they're not constantly in the weeds.
+
+--------------------
+
+Our Head of AI @pashmerepat has been observing how our own engineers are using Cline: Engineers aren't just getting incremental gains. They're experiencing multiplicative productivity that transforms entire organizations. Here's what this means for real engineering teams: 🧵
+
+--------------------
+
+In case you weren't here on Saturday night, here's what we added to Cline over the weekend 👇
+
+--------------------
+
+6/ Engineers can even work in parallel across multiple projects. "If you're good at coordinating, now you have a whole little team." You're not just coding faster—you're orchestrating multiple workstreams simultaneously.

@@ -1,0 +1,109 @@
+Need to quickly continue your work in Cline without losing context? Just type `/newtask` in the chat input to start a new task while preserving your current session's history. New in Cline v3.13 ✅ https://t.co/ikzCpFT6Bg
+
+--------------------
+
+# Investment Banking Model Generator Protocol ## Goal Enable rapid, auditable financial model generation (e.g., DCF, LBO) from director's text-based context/assumptions, outputting editable Python (`https://t.co/fWqvyliXBT`) and an interactive Streamlit frontend
+
+--------------------
+
+More features new in 3.13 👇
+
+--------------------
+
+The process started with a detailed https://t.co/4lvaGo8d6I file acting as the brief. Custom .clinerules (our "Investment Banking Model Generator Protocol" for this directory) then directed Cline's workflow, beginning in PLAN MODE to ensure full context understanding. https://t.co/72r7yh4W3n
+
+--------------------
+
+Want to adjust previous prompts or explore different paths? Edit a past message AND restore your entire workspace back to that point. It's like infinite undo for your dev session. New in Cline v3.13. https://t.co/MhlO5CDUMA
+
+--------------------
+
+MCP Image Responses: Models supporting image input can now receive images from MCP servers
+
+--------------------
+
+Cline's rolling out /slash commands Type /newtask to quickly branch your work or start fresh, preserving context from your current session. (more /slash commands are on the way) https://t.co/HJutqylEr4
+
+--------------------
+
+"Cline for Financial Modeling" We fed Cline a doc with DCF specs. Guided by custom .clinerules, it validated inputs, then generated both the Python logic and a Streamlit UI for the model. Here’s the breakdown: 🧵 https://t.co/BJSbgwcubn
+
+--------------------
+
+Cline v3.13 is live. Here's what's new 🧵↓ https://t.co/P122oCKyx4
+
+--------------------
+
+Bridge the LLM knowledge gap. The Context7 MCP server by @upstash, now in the Cline MCP Marketplace, fetches current, version-specific docs &amp; code examples. This ensures Cline has an accurate understanding of niche or recently updated libraries. https://t.co/nuMU032evp
+
+--------------------
+
+Here's the breakdown: https://t.co/erhRtLYQG2
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Here's the .clinerules we used for this demo 👇
+
+--------------------
+
+".clinerules command center" The new `.clinerules` popover in v3.13 lets you instantly toggle instruction sets on/off. Need memory? Activate `https://t.co/teuqDrSoRG`. Working on UI? Switch to `https://t.co/xqnWhfF06w`. Quickly &amp; easily manage all of your .clinerules in v3.13 https://t.co/OYm1wf820E
+
+--------------------
+
+Easily change course with Message Editing &amp; Checkpoint Restore. Fix prompts or change direction? Edit a past message AND restore your entire workspace back to that point. It's like infinite undo for your dev session. https://t.co/uIxLmthI6j
+
+--------------------
+
+Here's the Cline system prompt https://t.co/gOdznlH8dz
+
+--------------------
+
+This workflow highlights how .clinerules enable tailoring Cline for specific, controlled processes like financial modeling. Define your protocols, ensure validation, and automate complex tasks. Learn more about custom instructions: https://t.co/6NQSBNG4Rc
+
+--------------------
+
+The result: Rapid generation of a consistent, auditable financial model directly from text specs. This significantly cuts down manual work and potential errors, providing both the core logic and an interactive frontend visualization. https://t.co/S6x4UIRHa4
+
+--------------------
+
+Model Support: Added OpenAI o3 &amp; 4o-mini, Azure DeepSeek, and Google Gemini baseURL option. https://t.co/rlnaskHPzL
+
+--------------------
+
+Jump to Chat Input: New command palette action (assignable to keybinding) to focus the Cline chat input from anywhere in VS Code. https://t.co/JqRlzrndk9
+
+--------------------
+
+Improved Search/Replace: More robust diff editing, less likely to fall back to full file writes
+
+--------------------
+
+Terminal Improvements: Better detection of Ctrl+C termination and chunking for large outputs to improve performance.
+
+--------------------
+
+After confirmation and switching to ACT MODE, Cline systematically generated https://t.co/fWqvyliXBT (auditable Python/pandas logic with comments &amp; logging) and then https://t.co/LBgJxProlT (an interactive Streamlit dashboard), confirming success after each file creation step. https://t.co/FK31FNApE4
+
+--------------------
+
+Other Fixes: Addressed issues with Vertex token tracking and xAI reasoning parsing
+
+--------------------
+
+Send Message with Option: You can now type a message while also selecting a suggested option from Cline. https://t.co/lfcFt20jHa
+
+--------------------
+
+".clinerules command center" The new `.clinerules` popover lets you instantly toggle instruction sets on/off. Need memory? Activate `https://t.co/teuqDrSoRG`. Working on UI? Switch to `https://t.co/xqnWhfF06w`. Effortless context switching for precise AI guidance. https://t.co/Dtui7lZrjw
+
+--------------------
+
+A key step mandated by the rules: In PLAN MODE, Cline summarized assumptions and calculated key base-year figures ($24.8M NOPAT, $16.8M UFCF) for validation. User confirmation was required before any code generation -- a critical control for financial accuracy. https://t.co/WxBiTkQifL

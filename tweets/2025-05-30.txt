@@ -1,0 +1,145 @@
+Our community has been testing the new DeepSeek R1-0528 model. Here's what Cline power users are actually saying: 🧵
+
+--------------------
+
+First question everyone asks: Is it good for coding?
+
+"FYI i dont necessarly think DeepSeek-R1-0528-Qwen3-8B will be a good coder.... but could be a very good planner..."
+
+"It should be able to plan just fine. I just wouldn't use it for act"
+
+--------------------
+
+The math checks out. AIME accuracy jumped from 70% to 87.5%, with reasoning depth doubling (12K to 23K tokens per question). Strong planning capabilities, but users prefer other models for implementation.
+
+--------------------
+
+Speed varies by provider. Some users report "painfully slow for Plan" on certain API endpoints, while others find it reasonably fast.
+
+"smart for an 8b" when it works well
+
+--------------------
+
+Cost is where it shines. Users report Claude 3 Opus-level planning at 1/7th the cost. The emerging workflow:
+
+1. Use R1-0528 for architectural planning
+2. Switch to Claude/V3 for coding
+3. Save 80%+ on costs
+
+--------------------
+
+Availability: Live in Cline now through multiple API providers. Performance varies - some providers are faster than others. OpenRouter has both free and paid tiers available.
+
+Most users will access it via API rather than running locally.
+
+--------------------
+
+Bottom line from our community: R1-0528 is reshaping how people think about Plan vs Act mode. Not the best coder, but excellent for deep architectural thinking at a fraction of the cost.
+
+Worth trying if you do complex planning work.
+
+--------------------
+
+Try it in Cline today. We're curious about your experience - especially compared to your current planning model.
+
+====================
+
+# /newtask vs /smol Context Management Thread
+
+Two commands in Cline can dramatically improve your development workflow while keeping token costs in check: /newtask and /smol. 🧵
+
+--------------------
+
+Your context window fills up fast when working on complex projects. Documentation searches, file reads, debugging attempts - all valuable, but they create noise that can double your API costs with providers like Google (which charges 2x after 200k tokens).
+
+--------------------
+
+/newtask works like a perfect developer handoff. It intelligently packages what matters - the overall plan, work accomplished, relevant files, and next steps - into a fresh task with a clean context window.
+
+--------------------
+
+Use /newtask when:
+- Moving from research to implementation
+- Completing logical phases of work
+- Context is 75%+ full but you're switching focus
+- You want to preserve full conversation history
+
+Think: "bringing a new developer onto the project"
+
+--------------------
+
+/smol compresses your current conversation into a comprehensive summary, freeing up context space while staying in the same task. Perfect for maintaining flow during deep debugging or iterative development sessions.
+
+--------------------
+
+Use /smol when:
+- Deep in debugging and need to continue
+- Iterating on the same feature
+- Don't want to break your momentum
+- Context is full but you're staying focused
+
+Think: "summarizing the story so far"
+
+--------------------
+
+The choice isn't just technical - it's about workflow:
+
+/newtask = Clean slate, new focus, preserved history
+/smol = Compressed history, same flow, irreversible summary
+
+Both save tokens, but serve different development rhythms.
+
+--------------------
+
+The key insight: context window economics matter, but the solution should enhance your workflow, not disrupt it.
+
+[link-to-media]
+
+--------------------
+
+Master context management in Cline and you'll code more efficiently while keeping costs predictable.
+
+Try /newtask for clean transitions, /smol for flow states.
+
+https://docs.cline.bot
+
+
+====================
+
+# Context7 MCP: Solving the Static Knowledge Problem
+
+LLMs have static knowledge cutoffs. They don't know about library updates, new APIs, or breaking changes that happened after training. Context7 bridges this gap by injecting real-time docs into Cline. 🧵
+
+--------------------
+
+The reality: Claude was trained on data up to early 2024. If you're using a library that updated in the last year, the AI is working with outdated information.
+
+This leads to:
+- Deprecated method suggestions
+- Missing new features  
+- Incompatible syntax patterns
+- Hours debugging "working" code
+
+--------------------
+
+Context7 solves this by fetching current documentation on-demand. Just add "use context7" to your Cline prompt and it pulls the latest docs for 4000+ libraries.
+
+[link-to-media]
+
+--------------------
+
+Example: Ask for a Next.js app router setup. Without Context7, you might get pages/ directory structure. With Context7, you get current app/ directory patterns.
+
+The difference between code that compiles and code that doesn't often comes down to having current documentation.
+
+--------------------
+
+Context7 ensures Cline always has the latest information instead of guessing based on stale training data.
+
+Setup is simple: Download Context7 from the Cline MCP Marketplace, then append "use context7" to any prompt involving external libraries.
+
+--------------------
+
+No more debugging phantom APIs or wrestling with deprecated patterns. Just current, working code from the start.
+
+Try Context7 with Cline: https://docs.cline.bot

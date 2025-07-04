@@ -1,0 +1,25 @@
+Claude Max subscribers: you can use your subscription in Cline instead of pay-per-token.
+
+Settings → API Configuration → select "Claude Code" → add your Claude CLI path
+
+↓
+
+Find your Claude CLI path:
+- Mac/Linux: which claude
+- Windows CMD: where claude  
+- Windows PowerShell: Get-Command claude
+
+↓
+
+How it works:
+- Cline runs the Claude CLI in the background
+- You get Claude's AI + Cline's tools
+- Max subscribers see $0.00 costs
+
+Use what you're already paying for.
+
+--------------------
+
+Date: 2025-06-24
+Topic: Claude Max subscription integration with Cline (updated)
+Type: Thread (3 tweets)

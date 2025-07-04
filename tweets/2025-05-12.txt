@@ -1,0 +1,77 @@
+Learn more about the new_task tool itself: https://t.co/80q7E4emll
+
+--------------------
+
+We asked Cline to analyze our clinerules directory for nav improvements. Using the @browserbasehq MCP, Cline browsed the site, extracted content &amp; suggested changes -- turning manual review into an automated task. https://t.co/d36uBj4hGI
+
+--------------------
+
+Your workflow, uninterrupted. A key improvement in Cline 3.15 came from @sidahuj (Blender &amp; Ableton MCP creator) visiting our office, and his direct experience using Cline was invaluable. 🧵 https://t.co/g2XgcBUeuV
+
+--------------------
+
+Siddharth loved the visibility into file edits but found it frustrating to be locked out while Cline worked. His insight: why wait? Now, as Cline edits files, your interface remains fully responsive. Type, scroll, navigate -- stay in your flow.
+
+--------------------
+
+Cline is aware of this! It tracks context usage (%) in environment_details. We can leverage this with a .clinerule -- a custom instruction you give Cline. https://t.co/ctFnNXIxwD
+
+--------------------
+
+Why the dip past 50%? LLMs can struggle to maintain focus across very long contexts. Key details might get "lost in the middle," leading to less relevant code, missed instructions, or slower responses as the model works harder.
+
+--------------------
+
+So, when the threshold is hit, Cline finishes its work, then proposes: "Ready to start a new task to keep things fresh? Here's the context I'll carry over: [...]". You approve, and boom...
+
+--------------------
+
+Install the Browserbase MCP in one click from the MCP Marketplace https://t.co/YX8bf4okO9
+
+--------------------
+
+This specific rule tells Cline: "IF contextwindow_usagepercentage 50% (or your chosen threshold), THEN prepare to use the new_task tool after finishing the current step." https://t.co/wEhQGamJmC
+
+--------------------
+
+More on this: https://t.co/clozZrm5OA
+
+--------------------
+
+https://t.co/clozZrm5OA
+
+--------------------
+
+This seemingly small tweak, born from observing a real user, makes a big difference. Cline 3.15 respects your focus, making interactions smoother and more fluid.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+Ready to try it? Grab the example rule &amp; adapt it: https://t.co/Hpns3WdH3E
+
+--------------------
+
+Copying messages just got easier in Cline 3.15. We've added copy buttons for task headers, assistant messages, code blocks, and markdown sections. Thanks to community contributor weshoke for making this happen! https://t.co/SNMLOLdLLq
+
+--------------------
+
+As you work with Cline, the context window fills up -- with your prompts, Cline's responses, file contents, tool outputs, etc. Think of it like RAM. More context can be good, but too much can overwhelm.
+
+--------------------
+
+...a new task starts instantly, preloaded with just the essentials defined by your rule. The full history of the old task is preserved separately. Smooth context management without manual resets. https://t.co/TrAkbCiO4a
+
+--------------------
+
+AI coding performance often dips when context windows exceed ~50% fullness, leading to errors or sluggishness. Cline uses built-in context awareness + a customizable .clinerule to automatically trigger the new_task tool, keeping performance optimal. Here's how it works: 🧵 https://t.co/6a6REV6Jg9
+
+--------------------
+
+The rule also defines what essential info Cline should package for the new task (e.g., key files, recent conversation summary, goals). This ensures a clean but informed handoff.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f

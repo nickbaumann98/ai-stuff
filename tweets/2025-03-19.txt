@@ -1,0 +1,29 @@
+1 million installs and counting. Wild. Come celebrate with us on March 28th at Woodbury in SF. Good drinks (first round's on us), good food, good people. No panels, no pitches -- just vibes. RSVP below. See you there. 👇 https://t.co/MKY9chd06U
+
+--------------------
+
+Here's how you can hack Cline to make it work with OpenAI models: https://t.co/PBhBXDDToB
+
+--------------------
+
+You and me both, Cline 🤝 Just added the DALL-E MCP server to the marketplace. Now you can generate images directly in your editor with a simple prompt. "Hey Cline, show me your idea of paradise using DALL-E" Check it out 👇 https://t.co/yrir7PxbE4
+
+--------------------
+
+Pro tip: Context window is getting full? Have Cline create a https://t.co/HkcV3docTA doc. When you see Cline's context bar getting full, just ask it to create a knowledge transfer document -- a simple markdown file that captures exactly what you're working on. Next session, https://t.co/erufwqY5Dx
+
+--------------------
+
+Most AI tools hide costs behind arbitrary "credit" systems that obscure how much you're actually spending. Cline gives you complete transparency and control: &gt;Use free models like Gemini for simple tasks &gt;Deploy premium models like Claude 3.7 for your hardest problems You see https://t.co/HAsHPifGXD
+
+--------------------
+
+"Do .clinerules fill up your context window?" Yes, they take a small portion of your context window, but think of it like adding a GPS to your road trip: Without rules: You have more context space but often take a windy path. Cline needs more guidance, redirections, and https://t.co/RZySn4fLec
+
+--------------------
+
+8 more workflow optimization tips from Cline power users who are shipping real software Here's intel from the r/cline community on how to maximize efficiency while minimizing costs: 1. Create detailed tasking statements while planning that include ALL changes, files, and https://t.co/1sTIKbNKGU
+
+--------------------
+
+Building a complex feature? Have Cline create an https://t.co/UI5RyLmBpf file that serves as your feature blueprint. This document becomes the source of truth that both you and Cline can follow. https://t.co/gT3UGdef45

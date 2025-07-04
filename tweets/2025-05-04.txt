@@ -1,0 +1,13 @@
+Ever wish you could tweak the plan after hitting 'Act' but before Cline writes tons of code? Now you can! Cline v3.14 adds more checkpoints across the task workflow, including the crucial one when switching from Plan to Act mode. Easily revert, refine the plan, and try again. https://t.co/xZku6A06Xu
+
+--------------------
+
+Cline for Math? Fitting for our v3.14 release, Cline now includes full LaTeX rendering support. Work with complex equations and scientific docs directly in the chat interface. https://t.co/O2XlPijmdZ
+
+--------------------
+
+Need to enforce project standards like design systems or coding conventions? Ask Cline to document them with the new /newrule command in v3.14! e.g., "/newrule create design system guidelines". Cline analyzes your project &amp; generates rules for consistency. https://t.co/HNZvlq9SUp
+
+--------------------
+
+Adding context to Cline just got smoother. In v3.14, you can now drag &amp; drop files directly from your OS file explorer (Finder, Windows Explorer, etc.). Remember to hold Shift while dragging! Less friction getting Cline the info it needs. https://t.co/h2a8aWRDGQ

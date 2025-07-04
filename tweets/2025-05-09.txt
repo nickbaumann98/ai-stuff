@@ -1,0 +1,57 @@
+Here's our repo for all the .clinerules we're stashing: https://t.co/rA5phXOEM1
+
+--------------------
+
+https://t.co/xZ9iIT2qT2
+
+--------------------
+
+https://t.co/QIItY5iSPi
+
+--------------------
+
+https://t.co/085yGXkE1U
+
+--------------------
+
+fyi -- you can pop Cline out into its own window https://t.co/KbRRN8t3sk
+
+--------------------
+
+Here's how you can use the @firecrawl_dev MCP server to turn online docs into a functional .clinerule in minutes. This makes Cline a pro in any library you're using. https://t.co/r1nhgbAGvm
+
+--------------------
+
+https://t.co/8B9sZywJ9U
+
+--------------------
+
+The core idea is simple: 1. Provide the URL of the documentation you want to process. 2. The @firecrawl_dev MCP scrapes and extracts the key information.
+
+--------------------
+
+Cline contributors &amp; our devs have been cooking this week 👀 In case you haven't caught up, take a look at what we've put out the last few weeks 👇
+
+--------------------
+
+it will
+
+--------------------
+
+We did this for Streamlit's docs, but you can use this for any framework or tool you use regularly.
+
+--------------------
+
+Try Cline today 👇 https://t.co/lGuJo784q9 https://t.co/tutYLK4p9f
+
+--------------------
+
+@morganlinton I'll link it for you! https://t.co/Dv6Rfn7QoZ
+
+--------------------
+
+3. This extracted knowledge is then structured into a .clinerule -- a ready-to-use instruction set that makes Cline highly context-aware for that specific library. https://t.co/sRrRQprMvc
+
+--------------------
+
+https://t.co/GzfOnL9wpu

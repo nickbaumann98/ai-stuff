@@ -1,0 +1,51 @@
+When your AI coding agent goes off track, your instinct is to course-correct. To explain what you really meant. To clarify, rephrase, add constraints.
+
+But here's the thing: you're swimming upstream. Each correction adds more context pollution.
+
+There's a better way.
+
+--------------------
+
+Research from Microsoft and Salesforce just confirmed what we've been seeing: LLMs experience a 39% performance drop when you try to guide them through multiple conversation turns versus giving complete context upfront.
+
+This fundamentally changes how we should think about AI interactions.
+
+--------------------
+
+Think about it: when the model takes a wrong turn, it's not working with a blank slate anymore. It's trying to reconcile your corrections with its own generated assumptions. 
+
+It's like trying to merge back onto a highway from a field. The context is already polluted.
+
+--------------------
+
+Engineers at Anthropic have been advising people to treat their AI like a slot machine: if you don't get the result you want, don't try to fix it mid-conversation. Start fresh.
+
+They're right, but starting fresh used to mean losing all your work. Not anymore.
+
+--------------------
+
+Message checkpoints in Cline let you have your cake and eat it too. When you realize the conversation has gone sideways:
+
+1. Find the message where things diverged
+2. Edit it to include what was missing
+3. Restore the context to that exact point
+4. Try again with better instructions
+
+--------------------
+
+You're not admitting defeat. You're working with how LLMs actually function. They're incredibly powerful when given the right context upfront, and incredibly stubborn when asked to change course mid-stream.
+
+--------------------
+
+This works whether you're in Plan mode refining your approach or in Act mode watching the execution go off the rails. The principle is the same: don't patch a polluted conversation. Reset to a clean context and provide better instructions.
+
+--------------------
+
+The next time you find yourself in a back-and-forth trying to steer your AI back on track, remember: you're not debugging the model. You're debugging your prompt. And the best way to debug a prompt is to rewrite it with hindsight, not wrestle with corrections.
+
+--------------------
+
+Stop course-correcting. Start checkpointing.
+
+Deep dive on the science and workflow:
+https://cline.bot/blog/how-i-learned-to-stop-course-correcting-and-start-using-message-checkpoints

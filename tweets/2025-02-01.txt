@@ -1,0 +1,9 @@
+5/ Pro tip: Enable auto-approve mode with Checkpoints. Let AI move fast and experiment. Don't like the results? Just roll back. No more sitting there approving every single change manually.
+
+--------------------
+
+@addyosmani just published an analysis examining why AI tools should adapt to engineers -- not the other way around. His piece validates our core philosophy at Cline: reducing cognitive overhead and focusing on natural interactions isn't just a feature, it's fundamental. 🧵 https://t.co/1AOCqOrxUK
+
+--------------------
+
+Giving AI control over your codebase can be daunting. But the biggest mistake? Avoiding experimentation. LLMs aren’t perfect yet, so a quick "undo" button is essential. That’s why we built Checkpoints into Cline. 🧵 https://t.co/wRUr7FGDd6

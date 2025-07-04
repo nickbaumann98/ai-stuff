@@ -1,0 +1,73 @@
+Here's a link to the MCP Server in question: https://t.co/PdKDxpMO2n
+
+--------------------
+
+6/9 Try it yourself: Cline prompt: 'build this mcp server @https://github.com/DaInfernalCoder/researcher-mcp' Cline handles the rest 🪄
+
+--------------------
+
+2/9 Pattern 1: Deep Research in Your Editor Watch how Perplexity researches Supabase storage patterns and Cline turns it into an implementation plan: https://t.co/aBQyEWGxAV
+
+--------------------
+
+MCP servers unlock Cline's full potential. Here are 6 of our favorites: 🧵 https://t.co/Xsmz7x1ILo
+
+--------------------
+
+Did you know Cline can query your PostgreSQL databases? With the PostgreSQL MCP server, you can ask questions like 'what's our most popular drama movie?' and Cline will write + execute the actual query against your database. MCP server linked below 👇 Watch: https://t.co/st3Hzp7A2k
+
+--------------------
+
+@kregenrek Our users are finding that Mermaid diagrams might be a workflow language that LLMs are acutely well-versed in. This has positive implications for prompting blog👇
+
+--------------------
+
+6/ File System MCP - Smart codebase navigation - Blazing fast search across projects - Intelligent file operations https://t.co/pIFs3rEQwm
+
+--------------------
+
+1/ Start with Planning-First Development instead of jumping straight to code generation. Use Cline's context building commands: @ files - Share existing code @ folders - Project structure @ urls - Documentation @ problems - IDE diagnostics
+
+--------------------
+
+3/ When implementing complex features, break them into clear phases: ✓ Core auth endpoints ✓ Session management ◻️ OAuth integration ◻️ Rate limiting Don't try to maintain global context - work in focused chunks.
+
+--------------------
+
+Hot take: Mermaid diagrams aren't just for documentation -- they're a formal language that helps Cline understand your codebase better than text. A flowchart is unambiguous. Each node and connection is explicitly defined 🎯
+
+--------------------
+
+2/ Git MCP Server - Smart commit management and PR workflows - Code search and navigation - Branch operations without leaving Cline https://t.co/Le9DfcVIrJ
+
+--------------------
+
+1/3 Our community is experimenting with using Mermaid for both documentation AND instruction. It's like giving your AI assistant a precise map instead of vague directions. https://t.co/qbQtxugXUC
+
+--------------------
+
+2/ Project Memory Management is critical. Create focused context files that Cline can reference: https://t.co/dLV1NeaFYc
+
+--------------------
+
+1/ Perplexity Researcher MCP - Web search + content summarization in your workflow - Filter by time range and source credibility - Quick setup with Perplexity API https://t.co/PdKDxpMO2n
+
+--------------------
+
+Building production-grade software with AI assistance requires systematic patterns. Here's a guide to advanced development patterns with Cline: 🧵 https://t.co/jtUROjFaoG
+
+--------------------
+
+3/ Obsidian MCP - Search your knowledge base while coding - Direct vault integration with full markdown support - Perfect for technical documentation and notes https://t.co/ZSbwuU5tEP
+
+--------------------
+
+Supercharge your Cline workflow with @perplexity_ai MCP. 4 powerful patterns that transform how you build software 👇 https://t.co/3BdG9ZqPeJ
+
+--------------------
+
+@donvito If you run out Melvin you can build + MCP Servers within Cline all day 🫡
+
+--------------------
+
+3/3 The best part? You're creating documentation AND teaching Cline at the same time.

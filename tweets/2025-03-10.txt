@@ -1,0 +1,17 @@
+Strategy 2: Code Exploration Need to modify complex code you didn't write? Cline can: - Read and understand unfamiliar codebases in minutes - Map the structure and relationships between components - Identify exactly where and how to make changes - Help verify changes work as https://t.co/b21KDmHZWl
+
+--------------------
+
+We built a @WHOOP MCP server from scratch in 13 minutes. Fed the API docs to Cline, used our .clinerules protocol, and now I can query all my health data through MCP. This process works for ANY API -- here's how we did it: 🧵 https://t.co/CcB2g5EX6O
+
+--------------------
+
+Strategy 1: Deep Research Working in unfamiliar domains? Use Cline + @firecrawl_dev Deep Research MCP server to: - Gather domain-specific documentation automatically - Analyze frameworks and APIs you've never used - Store findings as referenceable context - Guide implementation https://t.co/ZC4eYog40V
+
+--------------------
+
+Building MCP servers doesn’t have to be complicated. If your platform has an API and documentation, you can easily create a server using Cline. We highly recommend following this MCP Dev Protocol: https://t.co/11J52LbwkN
+
+--------------------
+
+Build anything you don't know how to build. With Cline, technical knowledge is no longer a barrier to creation. Your only limitation becomes your ability to clearly define what you want. Here are two strategies our users employ to build beyond their expertise 👇 https://t.co/Loe1vmw11Y
